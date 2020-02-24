@@ -1,0 +1,6 @@
+https://forum.photonengine.com/discussion/15238/destroying-scene-objects-no-instantiationid-error
+Failed to 'network-remove' GameObject because it is missing a valid InstantiationId on view: View XX on XXXXXXX (scene). Not Destroying GameObject or PhotonViews!.
+Photon PUN does not instantiate an InstantiateID if you manually add an object to the scene because you did not use PhotonNetwork.Instantiate
+As of 2/24/2020, photon pun requires you to manually oversee each manually created object, so it might be best to use a item spawner/loot table to clone the items you want and if you don't want it to respawn, just have it spawn once.
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
