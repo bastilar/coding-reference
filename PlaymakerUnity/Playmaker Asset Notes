@@ -1,0 +1,2 @@
+https://youtu.be/g-C-6O10CNo?t=349 describes how to connect scripts to fsm's, the code shown is java script but for c# scripts should be same deal
+just drag and drop the script onto gameobject and use "send delivery message" method name. Also note syntax on how to assign variable to playermaker fsm object method.
