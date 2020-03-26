@@ -1,2 +1,4 @@
 Sprite atlases can take a bunch of 2d sprites and combine it into one or very small containers to reduce project performance lag https://docs.unity3d.com/Manual/class-SpriteAtlas.html
 seems important if my game eventually has a trillion sprites or something...
+2D animation tutorials https://www.youtube.com/watch?v=Uj21oIuPNwE&list=PL7pZIxQeCqI0faAd1J47OklQR5giszQFP&index=3 create 2d skeletal rig then using C# code script the input controls and create animation movement while moving
+
