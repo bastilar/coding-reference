@@ -1,6 +1,12 @@
-Sprite atlases can take a bunch of 2d sprites and combine it into one or very small containers to reduce project performance lag https://docs.unity3d.com/Manual/class-SpriteAtlas.html
+1 - Sprite atlases can take a bunch of 2d sprites and combine it into one or very small containers to reduce project performance lag https://docs.unity3d.com/Manual/class-SpriteAtlas.html
 seems important if my game eventually has a trillion sprites or something...
-2D animation tutorials https://www.youtube.com/watch?v=Uj21oIuPNwE&list=PL7pZIxQeCqI0faAd1J47OklQR5giszQFP&index=3 create 2d skeletal rig then using C# code script the input controls and create animation movement while moving
-Ray cast 2d and raycast for collision detection for images, canvases, and 2d sprites https://stackoverflow.com/questions/36971880/unity-c-sharp-raycast-mouse-click
-Create a public class called "interactable" and assign that script as a component to any object you want to interact with such as doors, lootable objects, keys, chests, etc.
+
+2 - 2D animation tutorials https://www.youtube.com/watch?v=Uj21oIuPNwE&list=PL7pZIxQeCqI0faAd1J47OklQR5giszQFP&index=3 create 2d skeletal rig then using C# code script the input controls and create animation movement while moving
+
+3 - Ray cast 2d and raycast for collision detection for images, canvases, and 2d sprites https://stackoverflow.com/questions/36971880/unity-c-sharp-raycast-mouse-click
+
+4 - Create a public class called "interactable" and assign that script as a component to any object you want to interact with such as doors, lootable objects, keys, chests, etc.
 make sure to create an interactable object using interactable class and set that to equal to the ray2d hit cast if there is any to check for collision.
+
+5- RPG Tutorial https://www.youtube.com/watch?v=YLhj7SfaxSE&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7&index=7 Used it for coding base of game for 
+basic RPG elements.
