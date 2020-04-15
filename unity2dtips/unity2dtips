@@ -19,3 +19,6 @@ the project because if that one stupid simple change.
 
 8- If you must use Dynamic bodies but don't want players or objects to be moved by other objects hitting hit like bullets, set mass 
 difference to be pretty big.
+
+9- How to find game objects by tag https://forum.unity.com/threads/how-to-find-a-gameobject-by-tag.172188/
+GameObject.FindWithTag(string tag) is what you need:
