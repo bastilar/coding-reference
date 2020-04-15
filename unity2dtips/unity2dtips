@@ -13,3 +13,9 @@ basic RPG elements.
 
 6- Have enemy shoot at player when moving https://www.youtube.com/watch?v=kOzhE3_P2Mk includes how to use GameObject.findwithtag 
 object in Start() method.
+
+7- NEVER SET MASS on an object to NEAR ZERO. It causes some seriously odd glitches in Unity. Lost 4 hours of hard work reverting
+the project because if that one stupid simple change.
+
+8- If you must use Dynamic bodies but don't want players or objects to be moved by other objects hitting hit like bullets, set mass 
+difference to be pretty big.
