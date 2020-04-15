@@ -10,3 +10,6 @@ make sure to create an interactable object using interactable class and set that
 
 5- RPG Tutorial https://www.youtube.com/watch?v=YLhj7SfaxSE&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7&index=7 Used it for coding base of game for 
 basic RPG elements.
+
+6- Have enemy shoot at player when moving https://www.youtube.com/watch?v=kOzhE3_P2Mk includes how to use GameObject.findwithtag 
+object in Start() method.
