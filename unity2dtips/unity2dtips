@@ -22,3 +22,6 @@ difference to be pretty big.
 
 9- How to find game objects by tag https://forum.unity.com/threads/how-to-find-a-gameobject-by-tag.172188/
 GameObject.FindWithTag(string tag) is what you need:
+
+10 - surprisingly hard to find info on good healthbars. i wound up using this one from brackeys https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=814s
+might need to change from canvas to jsut image though in case in future too many canvases cause glitching, or something.
