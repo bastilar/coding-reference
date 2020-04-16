@@ -29,3 +29,6 @@ might need to change from canvas to jsut image though in case in future too many
 11 - gradient.Evaluate(slider.normalizedValue); could be used to trigger events (not just fill color changes) when the helath or some progress
 bar goes up or down at certain points https://youtu.be/BLfNP4Sc_iA?t=727 could be useful for al ot of things. music changes at 60% hp or whatever
 
+12 - Also note when making hp bars or i guess any kind of bars, put it in lateupdate funciton so it runs every frame but after everything else
+to avoid weird glitching. https://youtu.be/BLfNP4Sc_iA?t=1056
+
