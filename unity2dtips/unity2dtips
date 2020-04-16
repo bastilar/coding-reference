@@ -25,3 +25,7 @@ GameObject.FindWithTag(string tag) is what you need:
 
 10 - surprisingly hard to find info on good healthbars. i wound up using this one from brackeys https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=814s
 might need to change from canvas to jsut image though in case in future too many canvases cause glitching, or something.
+
+11 - gradient.Evaluate(slider.normalizedValue); could be used to trigger events (not just fill color changes) when the helath or some progress
+bar goes up or down at certain points https://youtu.be/BLfNP4Sc_iA?t=727 could be useful for al ot of things. music changes at 60% hp or whatever
+
