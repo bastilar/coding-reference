@@ -1,3 +1,6 @@
 https://forum.unity.com/threads/inputing-a-line-break-in-a-text-field-for-ui.319223/ how to press "enter" in the text gui label field. useful
 for pressing enter inside the tower description where calling the getstatsdescription() results in weird bugs when hovering over hte tower
 to build
+
+Getstatscomponent() was manulaly readded to the script so tower select ui display shows the tower's actual stats https://forum.unity.com/threads/towerdefense-toolkit-4.132736/page-53
+
