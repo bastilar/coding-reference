@@ -1,0 +1,3 @@
+https://forum.unity.com/threads/inputing-a-line-break-in-a-text-field-for-ui.319223/ how to press "enter" in the text gui label field. useful
+for pressing enter inside the tower description where calling the getstatsdescription() results in weird bugs when hovering over hte tower
+to build
