@@ -35,3 +35,8 @@ to avoid weird glitching. https://youtu.be/BLfNP4Sc_iA?t=1056
 13. To create scroll boxes and scrollable content, make sure to create the entire size of the container that will hold all the data. Then scroll that gameobject.
 clamp and scrolling doesn't work because the container is too small. If content is also bugging out due ot grid layouts or similar, consider adding a content size fitter
 component. Can't believe how unbelieavably annoying scrollboxes can be.
+
+14. If mask works but it hides all the text, consider checking the masked element's/gameobject's(image usually) color alpha settings.
+Set it to 2-5. https://forum.unity.com/threads/mask-hides-everything.266648/
+
+
