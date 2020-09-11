@@ -39,4 +39,5 @@ component. Can't believe how unbelieavably annoying scrollboxes can be.
 14. If mask works but it hides all the text, consider checking the masked element's/gameobject's(image usually) color alpha settings.
 Set it to 2-5. https://forum.unity.com/threads/mask-hides-everything.266648/
 
-15. Master volume global slider for games https://www.youtube.com/watch?v=9ROolmPSC70 that is persistent across scenes.
+15. Master volume global slider for games https://www.youtube.com/watch?v=9ROolmPSC70 that is persistent across scenes. This can affect
+sfx, voice, music, and really any segregation of audio sources (take note of the sfx array portion, useful probably for global sfx from units, buildings etc)
