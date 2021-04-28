@@ -1,0 +1,4 @@
+1. Order of functions written matter. Compiler reads from top to bottom so if a function(A) needs to call another function(B), function (B) must be above function (A).
+Talk about thinking in reverse. Yikes.
+
+2. 
