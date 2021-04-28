@@ -3,7 +3,7 @@ Talk about thinking in reverse. Yikes.
 
 2. To skip lines in printing, use either:
 
-std::cout << "Some text displayed here" << std::endl; (messy and long)
+std::cout << "Some text displayed here" << std::endl; //(messy and long)
 or:
 std::cout << "Some text displayed here \n";
 
