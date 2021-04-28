@@ -1,4 +1,10 @@
 1. Order of functions written matter. Compiler reads from top to bottom so if a function(A) needs to call another function(B), function (B) must be above function (A).
 Talk about thinking in reverse. Yikes.
 
-2. 
+2. To skip lines in printing, use either:
+
+std::cout << "Some text displayed here" << std::endl; (messy and long)
+or:
+std::cout << "Some text displayed here \n";
+
+3. 
