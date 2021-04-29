@@ -7,4 +7,6 @@ std::cout << "Some text displayed here" << std::endl; //(messy and long)
 or:
 std::cout << "Some text displayed here \n";
 
-3. 
+3.         std::cin.clear(); //clear alphanumeric errors
+        std::cin.ignore(); //clear weird character/symbol errors
+Funny enough, we may not need these as unreal apparently takes care of this automatically.
