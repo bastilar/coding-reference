@@ -10,3 +10,11 @@ std::cout << "Some text displayed here \n";
 3.         std::cin.clear(); //clear alphanumeric errors
         std::cin.ignore(); //clear weird character/symbol errors
 Funny enough, we may not need these as unreal apparently takes care of this automatically.
+
+4. can set boolean variables equal to a function that returns a bool to determine when a while loop remains true or false or vice versa:
+while(true)
+    {
+        bool bLevelComplete = PlayGame();
+    }
+    
+5. 
