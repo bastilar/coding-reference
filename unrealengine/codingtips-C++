@@ -17,4 +17,7 @@ while(true)
         bool bLevelComplete = PlayGame();
     }
     
-5. 
+5. Variables have scope or limits to a local function or where it is declared. TO get around this, you need to pass these variables into the arguments
+of function calls that will take that variable and data type.
+
+6. 
