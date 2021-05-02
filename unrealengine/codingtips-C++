@@ -20,4 +20,8 @@ while(true)
 5. Variables have scope or limits to a local function or where it is declared. TO get around this, you need to pass these variables into the arguments
 of function calls that will take that variable and data type.
 
-6. 
+6. Unreal engine's own C++ requires that we include TEXT() macros to ensure that our strings are read by different build platforms.
+Usage:
+FString HiddenWord = TEXT("nuts");
+
+7. 
