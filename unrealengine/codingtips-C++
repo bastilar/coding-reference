@@ -27,4 +27,10 @@ FString HiddenWord = TEXT("nuts");
 7. Turns out unreal engine has a bug where it won't compile your new code so you need to hit compile again. To be safe in the future, compile twice. I just had this
 bug happen.
 
-8. 
+8. The Fstring::Printf() function is used to display different data types so you can print out things like "The canary has xyz eyes." Format:
+PrintLine(FString::Printf(TEXT("The hidden word is: %s and is %i characters long."), *HiddenWord, HiddenWord.Len())); //debugline to turn off or on
+%s for string words
+%i for integers
+Probably other data types exists, remember to add to me later.
+
+9. 
