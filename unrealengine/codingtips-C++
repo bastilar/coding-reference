@@ -45,4 +45,6 @@ as the same size, namely a 32 bit integer in memory or 4bytes.
 (includes the null ending character) will crash unreal because there are 0-4 elements, not 5. Null space apparently does not count as part of the element that you can
 call.
 
-12. 
+12. const TCHAR HW[] = TEXT("cakes"); //Tchar for some reason requires the TEXT("") macro when using const chars
+
+13. 
