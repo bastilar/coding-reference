@@ -41,4 +41,8 @@ that will likely have different sizes and thus needs the asterisk * to access it
 value like "cake" to "cakes" and that is a difference in size. Something like an int32 doesn't need a pointer because its value is always going to be stored in memory
 as the same size, namely a 32 bit integer in memory or 4bytes.
 
-11. 
+11. Trying to access an element in an array outside of what's assigned to memory will crash unreal engine. For example, HiddenWord[5] with a 6 char array work "cakes"
+(includes the null ending character) will crash unreal because there are 0-4 elements, not 5. Null space apparently does not count as part of the element that you can
+call.
+
+12. 
