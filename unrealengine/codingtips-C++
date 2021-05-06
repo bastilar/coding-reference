@@ -36,4 +36,9 @@ Probably other data types exists, remember to add to me later.
 9. return; can be used to exit out of code early, like an if block. This helps prevent wasting resources running through other code. Such use won't be as needed
 if you can simplify your code to very little, specific functions like having just 1 to 3 if/else statements.
 
-10. 
+10. The reason we have an asterisk before a variable name, usually before a FString type variable, is because we need a pointer (address in memory) to store the variable
+that will likely have different sizes and thus needs the asterisk * to access it properly, otherwise you probably get some kind of error if you change the variable's
+value like "cake" to "cakes" and that is a difference in size. Something like an int32 doesn't need a pointer because its value is always going to be stored in memory
+as the same size, namely a 32 bit integer in memory.
+
+11. 
