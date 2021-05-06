@@ -39,6 +39,6 @@ if you can simplify your code to very little, specific functions like having jus
 10. The reason we have an asterisk before a variable name, usually before a FString type variable, is because we need a pointer (address in memory) to store the variable
 that will likely have different sizes and thus needs the asterisk * to access it properly, otherwise you probably get some kind of error if you change the variable's
 value like "cake" to "cakes" and that is a difference in size. Something like an int32 doesn't need a pointer because its value is always going to be stored in memory
-as the same size, namely a 32 bit integer in memory.
+as the same size, namely a 32 bit integer in memory or 4bytes.
 
 11. 
