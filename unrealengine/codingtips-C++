@@ -48,4 +48,7 @@ call.
 
 12. const TCHAR HW[] = TEXT("cakes"); //Tchar for some reason requires the TEXT("") macro when using const chars
 
-13. 
+13. advanced cursor manipulation. useful if you need to add cursors to multiple lines at once like in a vertical tarray list that you want to modify
+https://www.udemy.com/course/unrealcourse/learn/lecture/16366592#overview
+
+14. 
