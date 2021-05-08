@@ -51,4 +51,18 @@ call.
 13. advanced cursor manipulation. useful if you need to add cursors to multiple lines at once like in a vertical tarray list that you want to modify
 https://www.udemy.com/course/unrealcourse/learn/lecture/16366592#overview
 
-14. 
+14. Ranged based for loops are written as:
+for (FString Word : WordList)
+    {
+        if (Word.Len() >= 4 && Word.Len() <= 8 && IsIsogram(Word))
+        {
+            ValidWords.Emplace(Word);
+        }
+    }
+
+And it is the same as:
+
+for (int32 Index = 0 ; Index < WordList.Len() ; Index++) // declare the type, usually int32, then condition, then increment/decrement)
+etc...
+
+15. 
