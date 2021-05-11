@@ -68,4 +68,12 @@ etc...
 15. & is a reference variable. This is used to refer to the original variable without copying it in your code's memory, thus saving resources. An out parameter is 
 a reference variable that DOES NOT contain the const modifier. & reference variables however always have the const, or at the least very often does.
 
-16. 
+16. structs are short for "structures" that store data types. Syntax:
+struct Fthensome name
+{
+        declarations of some kind
+};
+
+Note structs always must begin with "F" in unreal. Not sure if this is forced or just common protocol.
+
+17. 
