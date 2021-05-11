@@ -76,4 +76,10 @@ struct Fthensome name
 
 Note structs always must begin with "F" in unreal. Not sure if this is forced or just common protocol.
 
+Another syntax to change values during specific parts of your code:
+FBullCowCount Count = { 2, 3 };
+Count.Bulls = 9;
+
+The "Bulls" will be set to 2, then 9.
+
 17. 
