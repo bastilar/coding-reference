@@ -82,4 +82,7 @@ Count.Bulls = 9;
 
 The "Bulls" will be set to 2, then 9.
 
+The reason you probably want to use structs / structures of data is to store a bunch of data or stats like hitpoints, mana, stamina, intelligence, strength, etc.
+Then you use classes that declare functions/methods that will likely manipulate those stats.
+
 17. 
