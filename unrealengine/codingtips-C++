@@ -93,4 +93,8 @@ FType* NameOfPointer or FType * NameOfPointer or FType *NameOfPointer
 Unreal uses the first way of declaring pointers usually.
 FType pointers need ot match their type.
 
+(*SomeActor).GetName() when it is *NOT* a pointer to access the sub functions
+SomeActor->GetName() when it *IS* a pointer to access the sub functions
+Both variations are the same but this formatting cna help distinquish between referenced and de-referenced pointers
+
 19. 
