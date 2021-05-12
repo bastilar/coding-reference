@@ -85,4 +85,7 @@ The "Bulls" will be set to 2, then 9.
 The reason you probably want to use structs / structures of data is to store a bunch of data or stats like hitpoints, mana, stamina, intelligence, strength, etc.
 Then you use classes that declare functions/methods that will likely manipulate those stats.
 
-17. 
+17. Pointers are *variabletype , not to be confused with multiply, are memory addresses. They are similiar to references in that you refer to an object instead of
+copying then manipulating the data, saving memory and performance. Downside is you lose control of the data ownership. Pointers can point to any object.
+
+18. 
