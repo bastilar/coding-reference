@@ -88,4 +88,9 @@ Then you use classes that declare functions/methods that will likely manipulate 
 17. Pointers are *variabletype , not to be confused with multiply, are memory addresses. They are similiar to references in that you refer to an object instead of
 copying then manipulating the data, saving memory and performance. Downside is you lose control of the data ownership. Pointers can point to any object.
 
-18. 
+18. Pointer syntax:
+FType* NameOfPointer or FType * NameOfPointer or FType *NameOfPointer
+Unreal uses the first way of declaring pointers usually.
+FType pointers need ot match their type.
+
+19. 
