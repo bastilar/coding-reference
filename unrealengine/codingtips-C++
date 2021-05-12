@@ -97,4 +97,6 @@ FType pointers need ot match their type.
 SomeActor->GetName() when it *IS* a pointer to access the sub functions
 Both variations are the same but this formatting cna help distinquish between referenced and de-referenced pointers
 
-19. 
+19. Super::BeginPlay() means every code above it in the hierarchy must be run first before executing code below the Super::BeginPlay()
+
+20. 
