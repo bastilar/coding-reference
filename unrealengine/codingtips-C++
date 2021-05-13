@@ -115,3 +115,5 @@ Both variations are the same but this formatting cna help distinquish between re
 	UE_LOG(LogTemp, Warning, TEXT("%s"), *Log); // overloads the ue_log function to print
 						    // the fstring pointer, note you need *Log
 }
+
+21. 
