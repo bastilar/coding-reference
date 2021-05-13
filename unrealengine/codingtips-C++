@@ -99,4 +99,19 @@ Both variations are the same but this formatting cna help distinquish between re
 
 19. Super::BeginPlay() means every code above it in the hierarchy must be run first before executing code below the Super::BeginPlay()
 
-20. 
+20. Example pointer syntax and accessing its member functions:
+{
+        UE_LOG(LogTemp, Warning, TEXT("This is a warning. I am yellow."));
+	
+	FString Log = TEXT("Hello.");
+
+	FString* PrtLog = &Log; //turn log into a pointer
+
+	Log.Len();
+
+	(*PrtLog).Len(); //dereference a pointer to access member functions
+	PrtLog->Len(); //same as above but a lot cleaner
+
+	UE_LOG(LogTemp, Warning, TEXT("%s"), *Log); // overloads the ue_log function to print
+						    // the fstring pointer, note you need *Log
+}
