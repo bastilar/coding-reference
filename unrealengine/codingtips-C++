@@ -100,8 +100,9 @@ Both variations are the same but this formatting cna help distinquish between re
 19. Super::BeginPlay() means every code above it in the hierarchy must be run first before executing code below the Super::BeginPlay()
 
 20. Example pointer syntax and accessing its member functions:
-{
-        UE_LOG(LogTemp, Warning, TEXT("This is a warning. I am yellow."));
+	Super::BeginPlay();
+
+	UE_LOG(LogTemp, Warning, TEXT("This is a warning. I am yellow."));
 	
 	FString Log = TEXT("Hello.");
 
@@ -113,10 +114,11 @@ Both variations are the same but this formatting cna help distinquish between re
 	PrtLog->Len(); //same as above but a lot cleaner
 
 	UE_LOG(LogTemp, Warning, TEXT("%s"), *Log); // overloads the ue_log function to print
-						    // the fstring pointer, note you need *Log
-						 
-	UE_LOG(LogTemp, Warning, TEXT("%s"), **PrtLog); //you have to dereference a pointer but to call PrtLog it's *(*PrtLog) which translates to **PrtLog
-							//very complicated and aggravating
-}
+												// the fstring pointer, note you need *Log
+
+	//FString ObjectName = GetOwner()->GetName(); // can replace *GetOwner()->GetName() with *ObjectName. Disavantage is you can't use ObjectName again for somereason
+	//FString* PrtObjectName = &ObjectName;
+
+	UE_LOG(LogTemp, Warning, TEXT("Object name is: %s"), *GetOwner()->GetName()); //get name of object this component is attached to, much like unity's command
 
 21. 
