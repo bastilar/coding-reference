@@ -121,7 +121,12 @@ Both variations are the same but this formatting cna help distinquish between re
 
 	UE_LOG(LogTemp, Warning, TEXT("Object name is: %s"), *GetOwner()->GetName()); //get name of object this component is attached to, much like unity's command
 
-21. 
+21. If you want to set or modify a rotation of an object, the syntax for using frotator to set a new rotation or using a math function are as follows:
+	FRotator CurrentRotation = GetOwner()->GetActorRotation();
+	FRotator SetRotation = { 0.0f, (CurrentRotation.Yaw - 90.0f), 0.0f };
+	GetOwner()->SetActorRotation(SetRotation);
+	
+	The unreal documentation doesn't say at all to use {} squiggly brackets for some reason.
 
 22. If you use GetOwner() make sure to remember that if you call it in beginplay() before the actor or object is actually instantiated, you may get a null return value
 because it's calling the owner before the owner actually exists.
