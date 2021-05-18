@@ -121,4 +121,7 @@ Both variations are the same but this formatting cna help distinquish between re
 
 	UE_LOG(LogTemp, Warning, TEXT("Object name is: %s"), *GetOwner()->GetName()); //get name of object this component is attached to, much like unity's command
 
-21. 
+21. Objects that cast shadows and are moveable should have their mobility properties set to "moveable". Mobility is under "transform" in editor. Failure to do so
+will result in shadows that are "left behind" and glitching the look.
+
+22. 
