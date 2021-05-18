@@ -126,6 +126,9 @@ Both variations are the same but this formatting cna help distinquish between re
 	FRotator SetRotation = { 0.0f, (CurrentRotation.Yaw - 90.0f), 0.0f };
 	GetOwner()->SetActorRotation(SetRotation);
 	
+	//new modifier note you can also write SetRotation as:
+	FRotator SetRotation2(0.0f, 0.0f, 0.0f);
+	
 	The unreal documentation doesn't say at all to use {} squiggly brackets for some reason.
 
 22. If you use GetOwner() make sure to remember that if you call it in beginplay() before the actor or object is actually instantiated, you may get a null return value
