@@ -10,4 +10,7 @@ bug happen.
 4. If you use GetOwner() make sure to remember that if you call it in beginplay() before the actor or object is actually instantiated, you may get a null return value
 because it's calling the owner before the owner actually exists.
 
-5. 
+5. Objects that cast shadows and are moveable should have their mobility properties set to "moveable". Mobility is under "transform" in editor. Failure to do so
+will result in shadows that are "left behind" and glitching the look.
+
+6. 
