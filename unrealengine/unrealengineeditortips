@@ -7,4 +7,7 @@ make sense as trees are always upright, normally.
 3. Turns out unreal engine has a bug where it won't compile your new code so you need to hit compile again. To be safe in the future, compile twice. I just had this
 bug happen.
 
-4. 
+4. If you use GetOwner() make sure to remember that if you call it in beginplay() before the actor or object is actually instantiated, you may get a null return value
+because it's calling the owner before the owner actually exists.
+
+5. 
