@@ -32,6 +32,7 @@ PrintLine(FString::Printf(TEXT("The hidden word is: %s and is %i characters long
 %s for string words
 %i for integers
 %c for single characters in a word
+%f for floats
 Probably other data types exists, remember to add to me later.
 
 9. return; can be used to exit out of code early, like an if block. This helps prevent wasting resources running through other code. Such use won't be as needed
