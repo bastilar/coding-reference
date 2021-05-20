@@ -155,4 +155,11 @@ you chose, resulting in a bug.
 	
 And TargetYaw should show up in the components section of the editor.
 
-25. 
+25. Make sure to abuse DeltaTime in your code because anything to do with movement or physics can be affected positively by DeltaTime variable. This makes it so everyone
+will move at the same rate. Not having it there will mean slower machines will move slower versus faster computers. DeltaTime negates this annoying problem. Example code:
+
+CurrentYaw = FMath::Lerp(CurrentYaw, TargetYaw, DeltaTime * 0.8f);
+
+Where the door will open at the same rate for anyone, regardless of how fast or slow their computer is.
+
+26. 
