@@ -148,4 +148,11 @@ This will set and create a placeholder value for the object owner's rotation so 
 door 90 degrees, regardless of the angle it's starting at. If this were absolute, then certain doors would never open because it's yaw is already set to the value
 you chose, resulting in a bug.
 
-24. 
+24. To expose a parameter or variable to be publicly editable in the unreal engine editor, type the following above the variable:
+
+	UPROPERTY(EditAnywhere)
+	float TargetYaw = 90.0f;
+	
+And TargetYaw should show up in the components section of the editor.
+
+25. 
