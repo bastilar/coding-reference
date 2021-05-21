@@ -165,4 +165,16 @@ Where the door will open at the same rate for anyone, regardless of how fast or 
 26. Editanywhere, uproperty, and visibleanywhere tips https://forums.unrealengine.com/t/how-do-i-expose-a-variable-in-the-editor-and-make-in-editable/1665/6 cannot
 use visible or edit in the same line as a rule.
 
-27. 
+27. A great way to protect yourself from null pointer / null reference pointer errors (the most annoying error) is to create a check in the log to detail what objects
+or actors have null settings on it, making it very easy to find those pesky null errors. Example code:
+
+BeginPlay()
+if(!PressurePlate)
+	{
+		FString TheObjectName = GetOwner()->GetName();
+		UE_LOG(LogTemp, Error, TEXT("Actor %s has pressure plate component set to nothing."), *TheObjectName);
+	}
+See source course https://www.udemy.com/course/unrealcourse/learn/lecture/17698098
+
+28. 
+	
