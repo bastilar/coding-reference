@@ -162,4 +162,7 @@ CurrentYaw = FMath::Lerp(CurrentYaw, TargetYaw, DeltaTime * 0.8f);
 
 Where the door will open at the same rate for anyone, regardless of how fast or slow their computer is.
 
-26. 
+26. Editanywhere, uproperty, and visibleanywhere tips https://forums.unrealengine.com/t/how-do-i-expose-a-variable-in-the-editor-and-make-in-editable/1665/6 cannot
+use visible or edit in the same line as a rule.
+
+27. 
