@@ -185,5 +185,7 @@ files:
 Syntax:
 	ActorThatOpens = GetWorld()->GetFirstPlayerController()->GetPawn(); 
 	
-29. 
+29. GetWorld()->GetTimeSeconds() is the method used to get the amount of seconds that have passed in the game world. Useful for creating timers, probably.
+
+30. 
 	
