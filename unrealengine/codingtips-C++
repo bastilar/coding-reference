@@ -185,7 +185,21 @@ files:
 Syntax:
 	ActorThatOpens = GetWorld()->GetFirstPlayerController()->GetPawn(); 
 	
-29. GetWorld()->GetTimeSeconds() is the method used to get the amount of seconds that have passed in the game world. Useful for creating timers, probably.
+29. GetWorld()->GetTimeSeconds() is the method used to get the amount of seconds that have passed in the game world. Useful for creating timers, probably. It seems
+to reset often when it gets called so if you need to store time elapses in certain situations, you should save the time into a float variable.
+
+	if(PressurePlate && PressurePlate->IsOverlappingActor(ActorThatOpens))
+	{
+		OpenDoor(DeltaTime);
+		DoorLastOpened = GetWorld()->GetTimeSeconds();
+	}
+	else
+	{
+		if(GetWorld()->GetTimeSeconds() - DoorLastOpened > DoorCloseDelay) //if the door has been open for x or more seconds, then close the door
+		{
+			CloseDoor(DeltaTime);
+		}
+	}
 
 30. 
 	
