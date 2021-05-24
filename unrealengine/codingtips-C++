@@ -176,5 +176,14 @@ if(!PressurePlate)
 	}
 See source course https://www.udemy.com/course/unrealcourse/learn/lecture/17698098
 
-28. 
+28. To get the player actor pawn or default starting player pawn, you will need ot use GetWorld() and PlayerController() methods. Make sure to include the header .h
+files:
+
+#include "Engine/World.h"
+#include "GameFramework/PlayerController.h"
+
+Syntax:
+	ActorThatOpens = GetWorld()->GetFirstPlayerController()->GetPawn(); 
+	
+29. 
 	
