@@ -201,5 +201,14 @@ to reset often when it gets called so if you need to store time elapses in certa
 		}
 	}
 
-30. 
+30. .ToString() can be used for a lot of things apparently. Before complicating things, consider just adding .ToString() at the end of a variable to see if it will
+auto complete and you can output that value text to whatever it is you're doing. Example:
 	
+	FVector PlayerViewPointLocation;
+	FRotator PlayerViewPointRotation;
+	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(OUT PlayerViewPointLocation, OUT PlayerViewPointRotation); // get player's viewpoint
+
+	UE_LOG(LogTemp, Warning, TEXT("The Player viewpoint loc is: %s. The player viewpoint rotationis: %s."), *PlayerViewPointLocation.ToString(), *PlayerViewPointRotation.ToString());
+	// log the output
+	
+31. 
