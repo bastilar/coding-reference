@@ -230,5 +230,6 @@ FVector LineTraceDirection = PlayerViewPointRotation.Vector() * Reach;
 	);
 	
 Note when converting TO vectors, it has a default size of 1.0f, or 1 millimeter, so you need to multiply it by the actual length of the line you want to cast out.
+Another NOTE, drawdebuglines CANNOT interact with the world or objects (usually) but raycasting CAN.
 
 32. 
