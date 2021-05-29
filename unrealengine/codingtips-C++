@@ -211,4 +211,24 @@ auto complete and you can output that value text to whatever it is you're doing.
 	UE_LOG(LogTemp, Warning, TEXT("The Player viewpoint loc is: %s. The player viewpoint rotationis: %s."), *PlayerViewPointLocation.ToString(), *PlayerViewPointRotation.ToString());
 	// log the output
 	
-31. 
+31. DrawDebugLine() is useful for casting a debug line out of your character or any object actor for testing and viewing purposes. Lots of parameters syntax:
+
+#include "DrawDebugHelpers.h"
+
+FVector LineTraceDirection = PlayerViewPointRotation.Vector() * Reach;
+	FVector LineTraceEnd = PlayerViewPointLocation + LineTraceDirection;
+
+	DrawDebugLine(
+	GetWorld(),
+	PlayerViewPointLocation,
+	LineTraceEnd,
+	FColor(0, 255, 0),
+	false,
+	0.f,
+	0,
+	5.0f
+	);
+	
+Note when converting TO vectors, it has a default size of 1.0f, or 1 millimeter, so you need to multiply it by the actual length of the line you want to cast out.
+
+32. 
