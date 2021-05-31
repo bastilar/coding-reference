@@ -236,15 +236,22 @@ Another NOTE, drawdebuglines CANNOT interact with the world or objects (usually)
 like doors or levers.
 
 	FHitResult Hit;
-	FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
-	
-	GetWorld()->LineTraceSingleByObjectType(
-	OUT Hit,
-	PlayerViewPointLocation,
-	LineTraceEnd,
-	FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
-	TraceParams
-	);
+		FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
+
+		GetWorld()->LineTraceSingleByObjectType(
+		OUT Hit,
+		PlayerViewPointLocation,
+		LineTraceEnd,
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
+		TraceParams
+		);
+
+		AActor* ActorHit = Hit.GetActor();
+
+	if(ActorHit)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("%s is the object detected."), *ActorHit->GetName() );
+	}
 	
 FCollisionQueryParams has many overloads but the one we're using here takes parameters of name (in this case none), are we using complex or simple collision detection
 mode in unreal? (no, so we set this to false), and which actor do we ignore (ourselves so our ray cast doesn't hit us and just return nothing all hte time).
