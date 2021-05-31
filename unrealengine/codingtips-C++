@@ -232,4 +232,21 @@ FVector LineTraceDirection = PlayerViewPointRotation.Vector() * Reach;
 Note when converting TO vectors, it has a default size of 1.0f, or 1 millimeter, so you need to multiply it by the actual length of the line you want to cast out.
 Another NOTE, drawdebuglines CANNOT interact with the world or objects (usually) but raycasting CAN.
 
-32. 
+32. Can also try to detect collision by single object type, clearly important in gaming for say, getting close to weapons, items, pickups, and other useable objects
+like doors or levers.
+
+	FHitResult Hit;
+	FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
+	
+	GetWorld()->LineTraceSingleByObjectType(
+	OUT Hit,
+	PlayerViewPointLocation,
+	LineTraceEnd,
+	FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
+	TraceParams
+	);
+	
+FCollisionQueryParams has many overloads but the one we're using here takes parameters of name (in this case none), are we using complex or simple collision detection
+mode in unreal? (no, so we set this to false), and which actor do we ignore (ourselves).
+
+33. 
