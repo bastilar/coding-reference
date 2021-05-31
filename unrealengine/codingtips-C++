@@ -247,6 +247,6 @@ like doors or levers.
 	);
 	
 FCollisionQueryParams has many overloads but the one we're using here takes parameters of name (in this case none), are we using complex or simple collision detection
-mode in unreal? (no, so we set this to false), and which actor do we ignore (ourselves).
+mode in unreal? (no, so we set this to false), and which actor do we ignore (ourselves so our ray cast doesn't hit us and just return nothing all hte time).
 
 33. 
