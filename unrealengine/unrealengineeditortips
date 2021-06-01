@@ -27,6 +27,10 @@ use visible or edit in the same line as a rule.
 	{
 		UE_LOG(LogTemp, Error, TEXT("No input component found on object %s"), *GetOwner()->GetName() );
 	}
+	void UGrabber::Grab()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Test test grab form ugrabber pressed."));
+}
 	
 Make sure InputComponent is declared in your .header .h header files and you also set the "Grab" in code equal EXACTLY to "Grab" in your unreal editor under:
 Project Settings -> Engine -> Input
