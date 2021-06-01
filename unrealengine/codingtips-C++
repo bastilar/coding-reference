@@ -256,4 +256,19 @@ like doors or levers.
 FCollisionQueryParams has many overloads but the one we're using here takes parameters of name (in this case none), are we using complex or simple collision detection
 mode in unreal? (no, so we set this to false), and which actor do we ignore (ourselves so our ray cast doesn't hit us and just return nothing all hte time).
 
-33. 
+33. Syntax for binding keys to code:
+	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
+	if (InputComponent)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Input component found on %s"), *GetOwner()->GetName());
+		InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
+	}
+	else
+	{
+		UE_LOG(LogTemp, Error, TEXT("No input component found on object %s"), *GetOwner()->GetName() );
+	}
+	
+Make sure InputComponent is declared in your .header .h header files and you also set the "Grab" in code equal EXACTLY to "Grab" in your unreal editor under:
+Project Settings -> Engine -> Input
+
+34. 
