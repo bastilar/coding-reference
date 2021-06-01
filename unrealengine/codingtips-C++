@@ -275,7 +275,7 @@ mode in unreal? (no, so we set this to false), and which actor do we ignore (our
 Make sure InputComponent is declared in your .header .h header files and you also set the "Grab" in code equal EXACTLY to "Grab" in your unreal editor under:
 Project Settings -> Engine -> Input
 
-34. A good primer on when to use :: & . operators and -> arrow operators. https://www.udemy.com/course/unrealcourse/learn/lecture/17707310#notes
+34. A good primer on when to use scope :: operators, & . operators and -> arrow operators. https://www.udemy.com/course/unrealcourse/learn/lecture/17707310#notes
 Still confusing.
 
 35. 
