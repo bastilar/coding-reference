@@ -278,4 +278,20 @@ Project Settings -> Engine -> Input
 34. A good primer on when to use scope :: operators, & . operators and -> arrow operators. https://www.udemy.com/course/unrealcourse/learn/lecture/17707310#notes
 Still confusing.
 
-35. 
+35. Class, Enum, Namespace ::
+UGrabber::Grab
+EwordStatus::OK
+std::cout
+
+Scope operators (::) are used to access permanent storage in memory functions. This is determined during compile times so it's always stored permanently.
+
+Instance or reference use . accessor operators
+MyGrab.Grab()
+MyBullCowCount.Bulls
+MyGrabRef.Grab()
+
+dot . operators are used to access functions or methods from free stack memory
+
+-> arrow operators are accessing functions from heap memory, usually when accessing pointer functions
+
+36. 
