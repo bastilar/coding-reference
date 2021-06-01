@@ -16,4 +16,19 @@ will result in shadows that are "left behind" and glitching the look.
 6. Editanywhere, uproperty, and visibleanywhere tips https://forums.unrealengine.com/t/how-do-i-expose-a-variable-in-the-editor-and-make-in-editable/1665/6 cannot
 use visible or edit in the same line as a rule.
 
-7. 
+7. Syntax for binding keys to code:
+	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
+	if (InputComponent)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Input component found on %s"), *GetOwner()->GetName());
+		InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
+	}
+	else
+	{
+		UE_LOG(LogTemp, Error, TEXT("No input component found on object %s"), *GetOwner()->GetName() );
+	}
+	
+Make sure InputComponent is declared in your .header .h header files and you also set the "Grab" in code equal EXACTLY to "Grab" in your unreal editor under:
+Project Settings -> Engine -> Input
+
+8. 
