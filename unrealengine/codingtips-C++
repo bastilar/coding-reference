@@ -294,4 +294,8 @@ dot . operators are used to access functions or methods from free stack memory
 
 -> arrow operators are accessing functions from heap memory, usually when accessing pointer functions
 
-36. 
+36. Refactoring is pretty important for cleaning up your code, organizing it better, and of course, optimizing code and performance. It's probably a good idea to 
+occassionally have your team refactor periodically to make sure everything runs nice and smooth (fast), as well as reduce bug confusion due to having to deal with
+unwieldly large blocks of code. I bet companies waste a decent amount of time and money on getting confused with large blocks of code.
+
+37. 
