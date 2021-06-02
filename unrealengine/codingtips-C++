@@ -298,4 +298,7 @@ dot . operators are used to access functions or methods from free stack memory
 occassionally have your team refactor periodically to make sure everything runs nice and smooth (fast), as well as reduce bug confusion due to having to deal with
 unwieldly large blocks of code. I bet companies waste a decent amount of time and money on getting confused with large blocks of code.
 
-37. 
+37. Apparently your custom made header .h files should be at the top otherwise you will get weird glitches. For example the releasecomponent wasn't working because
+grabber.h wasn't included first at the top of the includes section. Weird.
+
+38. 
