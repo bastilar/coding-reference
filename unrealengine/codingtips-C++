@@ -307,4 +307,7 @@ grabber.h wasn't included first at the top of the includes section. Weird.
 	TArray<AActor*> OverLappingActors;
 	PressurePlate->GetOverlappingActors(OverLappingActors);
 	
-39. 
+39. If you're using GetOverlappingActors, make sure the actors/objects that you will check for overlapping with has the tickbox "generate overlapping events" is ticked
+yes.
+
+40. 
