@@ -301,4 +301,10 @@ unwieldly large blocks of code. I bet companies waste a decent amount of time an
 37. Apparently your custom made header .h files should be at the top otherwise you will get weird glitches. For example the releasecomponent wasn't working because
 grabber.h wasn't included first at the top of the includes section. Weird.
 
-38. 
+38. When using TArray's, make sure to include the * if it's a pointer like so:
+
+	//find all overlapping actors
+	TArray<AActor*> OverLappingActors;
+	PressurePlate->GetOverlappingActors(OverLappingActors);
+	
+39. 
