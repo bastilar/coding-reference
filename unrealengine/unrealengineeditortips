@@ -35,4 +35,7 @@ use visible or edit in the same line as a rule.
 Make sure InputComponent is declared in your .header .h header files and you also set the "Grab" in code equal EXACTLY to "Grab" in your unreal editor under:
 Project Settings -> Engine -> Input
 
-8. 
+8. If you're using GetOverlappingActors, make sure the actors/objects that you will check for overlapping with has the tickbox "generate overlapping events" is ticked
+yes.
+
+9. 
