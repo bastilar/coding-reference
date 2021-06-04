@@ -310,4 +310,7 @@ grabber.h wasn't included first at the top of the includes section. Weird.
 39. If you're using GetOverlappingActors, make sure the actors/objects that you will check for overlapping with has the tickbox "generate overlapping events" is ticked
 yes.
 
-40. 
+40. When creating new components, through code or using unreal's built in components, make sure to always protect yourself from null pointer reference errors. They're
+just as bad as the ones from unity 3d except when unreal crashes it can take out your computer system.
+
+41. 
