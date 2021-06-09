@@ -316,4 +316,6 @@ just as bad as the ones from unity 3d except when unreal crashes it can take out
 41. When creating a new c++ class from a blueprint, there may be a new issue bug in unreal 4.26 where it cannot find the include. You have to go into the .cpp or .h
 (most likely .cpp file) and look at the includes and just trim down the include to say #include "filename.h" instead of "directory/filename.h" easy bug fix.
 
+Afterwards, close everything and start up the project again by clicking the .uproject file and clicking "yes" to rebuilding the project file structure.
+
 42. 
