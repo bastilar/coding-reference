@@ -318,4 +318,11 @@ just as bad as the ones from unity 3d except when unreal crashes it can take out
 
 Afterwards, close everything and start up the project again by clicking the .uproject file and clicking "yes" to rebuilding the project file structure.
 
-42. 
+42. You can declare a forward declartion of a class instead of using an #include to reduce compile times if you want to just use a specific class.
+For example:
+
+class UCapsuleComponent;
+
+Instead of the #include that contains UCapsuleComponent. Forward declaration classes should be declared at the top after the #includes and before everything else.
+
+43. 
