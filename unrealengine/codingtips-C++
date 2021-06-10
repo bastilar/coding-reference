@@ -329,5 +329,7 @@ Instead of the #include that contains UCapsuleComponent. Forward declaration cla
 
 UPROPERTY(EditAnywhere, BlueprintReadWrite)
 UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true")) // this is for making private variables visible and getting
+around the error.
 
 44. 
