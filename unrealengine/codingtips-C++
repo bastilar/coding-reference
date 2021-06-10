@@ -325,4 +325,9 @@ class UCapsuleComponent;
 
 Instead of the #include that contains UCapsuleComponent. Forward declaration classes should be declared at the top after the #includes and before everything else.
 
-43. 
+43. If you need to edit variables in the blueprints section of the unreal engine editor, you need to specify the access modifier BlueprintReadWrite and BlueprintReadOnly
+
+UPROPERTY(EditAnywhere, BlueprintReadWrite)
+UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+
+44. 
