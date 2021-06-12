@@ -43,4 +43,6 @@ yes.
 
 Afterwards, close everything and start up the project again by clicking the .uproject file and clicking "yes" to rebuilding the project file structure.
 
-10. 
+10. When adjusting the camera and springarm, consider disabling the "do collision test" to prevent weird clipping or twitching errors in the camera.
+
+11. 
