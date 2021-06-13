@@ -332,4 +332,6 @@ UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true")) // this is for making private variables visible and getting
 around the error.
 
-44. 
+44. FTimerHandle FireRateTimerHandle; //unreal's way of control timers so we can create timed events
+
+45. 
