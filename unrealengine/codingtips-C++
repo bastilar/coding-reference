@@ -349,4 +349,19 @@ This allows us to convert a generic player pawn into a specific class that we cr
 and APawnTank class's functions. The 0 refers to the first player in the object world (player 0). In multiplayer you likely can specify different players besides
 yourself or the player.
 
-47. 
+47. Dist is used to measure distance between 2 actor objects. Syntax:
+
+float APawnTurret::ReturnDistanceToPlayer()
+{
+	if(!PlayerPawn)
+	{
+		return 0.0f;
+	}
+
+	//float Distance = FVector().Dist(PlayerPawn->GetActorLocation(), GetActorLocation());
+	//return Distance;
+
+	return FVector().Dist(PlayerPawn->GetActorLocation(), GetActorLocation());
+}
+
+48. 
