@@ -334,4 +334,19 @@ around the error.
 
 44. FTimerHandle FireRateTimerHandle; //unreal's way of control timers so we can create timed events
 
-45. 
+45. To run a timer on an object create a timer variable using a fhandle, get the current object, call a function to be run, set a time interval(float), and then loop
+it all the time (true) or just check once(default false)
+
+.h implementation FTimerHandle FireRateTimerHandle;
+
+GetWorld()->GetTimerManager().SetTimer(FireRateTimerHandle, this, &APawnTurret::CheckFireCondition, FireRate, true); // can also use GetWorldTimerManager()
+
+46. Cross class communication uses Cast<>() function the syntax is:
+
+	PlayerPawn = Cast<APawnTank>(UGameplayStatics::GetPlayerPawn(this, 0));
+	
+This allows us to convert a generic player pawn into a specific class that we created, which is APawnTank. We now gain access to both the generic base pawn class
+and APawnTank class's functions. The 0 refers to the first player in the object world (player 0). In multiplayer you likely can specify different players besides
+yourself or the player.
+
+47. 
