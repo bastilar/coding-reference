@@ -364,4 +364,7 @@ float APawnTurret::ReturnDistanceToPlayer()
 	return FVector().Dist(PlayerPawn->GetActorLocation(), GetActorLocation());
 }
 
-48. 
+48. The Super:: function is called to override a function call from a base class or other classes so you can add functionality to the called class. You probably
+want to do this to change specific classes in particular situations or actors and be seperate from everyone and everything else.
+
+49. 
