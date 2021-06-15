@@ -367,4 +367,10 @@ float APawnTurret::ReturnDistanceToPlayer()
 48. The Super:: function is called to override a function call from a base class or other classes so you can add functionality to the called class. You probably
 want to do this to change specific classes in particular situations or actors and be seperate from everyone and everything else.
 
-49. 
+49. override is used to let the game/system know to expect an overrided virtual or modified function call to the same name but with perhaps different parameters.
+Syntax:
+
+protected:
+void TEST() override;
+
+50. 
