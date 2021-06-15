@@ -422,4 +422,7 @@ or coding. Useful if you already know ahead of time what you want to be using th
 
 Also access to class specific pointers in a type safe way.
 
-56. 
+56. Use CreateDefaultSubobject<UType>(TEXT("Component or actor/object name")) to create components or subobjects. Syntax:
+ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("Projectile Movement"));
+
+57. 
