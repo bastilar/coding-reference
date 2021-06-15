@@ -379,4 +379,19 @@ Syntax:
 protected:
 virtual void TEST();
 
-51. 
+51. In order to properly use override and virtual specifiers, it seems override is used in the child classes and the parent/base class uses the word virtual. So for
+example:
+
+PawnBase.h (parent)
+virtual void TEST();
+
+PawnTurret.h (child INHERITS parent or PawnBase.h)
+void TEST() override;
+
+Doing it this way should make the compilier work and be happy.
+
+In other words:
+Use virtual in parent classes
+Use override in child classes
+
+52. 
