@@ -420,4 +420,6 @@ class UProjectileMovementComponent
 This is a way to store a data type in a variable instead of a value and is a type safe way to use certain variable data types and not accidentally mess up the syntax
 or coding. Useful if you already know ahead of time what you want to be using these data types for, which in this case is to handle damage mechanics and calculations.
 
+Also access to class specific pointers in a type safe way.
+
 56. 
