@@ -396,4 +396,17 @@ Use override in child classes and to let the game/unreal engine system know NOT 
 
 52. Take note that we HIDE the player class (players) rather than destroy their components and actors because it will cause severe camera angle and other glitches.
 
-53. 
+53. ECC_Visibility and gethitresultundercursor are used to get a line trace to a target point. False or true is used to determine whether u want the line tracing
+to be simple or complex. Use true for complex line tracing of intricate mesh tracing like arms and legs and complex detailed character animations.
+Syntax:
+	if(PlayerControllerRef)
+	{
+		FHitResult TraceHitResult;
+		PlayerControllerRef->GetHitResultUnderCursor(ECC_Visibility, false, TraceHitResult);
+
+		FVector HitLocation = TraceHitResult.ImpactPoint;
+
+		RotateTurret(HitLocation);
+	}
+
+54. 
