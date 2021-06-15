@@ -425,4 +425,8 @@ Also access to class specific pointers in a type safe way.
 56. Use CreateDefaultSubobject<UType>(TEXT("Component or actor/object name")) to create components or subobjects. Syntax:
 ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("Projectile Movement"));
 
-57. 
+57. Use RootComponent to set the new createdefaultsubobject thing you just made as the top of the hiearchy of the object when going into blueprints.
+	ProjectileMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Projectile Mesh"));
+	RootComponent = ProjectileMesh;
+	
+58. 
