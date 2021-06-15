@@ -373,4 +373,10 @@ Syntax:
 protected:
 void TEST() override;
 
-50. 
+50. virtual specifier is needed to actually be able to override or change a base function in the parent class.
+Syntax:
+
+protected:
+virtual void TEST();
+
+51. 
