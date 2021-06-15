@@ -394,4 +394,6 @@ In other words:
 Use virtual in parent classes
 Use override in child classes and to let the game/unreal engine system know NOT to create a new function but to override an existing parent function
 
-52. 
+52. Take note that we HIDE the player class (players) rather than destroy their components and actors because it will cause severe camera angle and other glitches.
+
+53. 
