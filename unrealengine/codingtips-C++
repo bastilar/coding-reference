@@ -414,4 +414,7 @@ things with it. Make sure forward declare it by:
 
 class UProjectileMovementComponent
 
-55. 
+55. Unreal engine has a handy function for handling damage types. Syntax:
+	TSubclassOf<UDamageType> DamageType;
+	
+56. 
