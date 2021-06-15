@@ -392,6 +392,6 @@ Doing it this way should make the compilier work and be happy.
 
 In other words:
 Use virtual in parent classes
-Use override in child classes
+Use override in child classes and to let the game/unreal engine system know NOT to create a new function but to override an existing parent function
 
 52. 
