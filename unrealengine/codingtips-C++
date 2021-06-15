@@ -409,4 +409,9 @@ Syntax:
 		RotateTurret(HitLocation);
 	}
 
-54. 
+54. UProjectileMovementComponent is very useful for having unreal engine take over movement and functionality of projectiles and you can do all sorts of cool, neat
+things with it. Make sure forward declare it by:
+
+class UProjectileMovementComponent
+
+55. 
