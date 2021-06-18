@@ -429,4 +429,7 @@ ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("
 	ProjectileMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Projectile Mesh"));
 	RootComponent = ProjectileMesh;
 	
-58. 
+58. Sometimes when you get glitches like weird mana or hp values, make sure to declare those variables in beginplay() and not inside the .cpp's constructor. It's about
+ordering and logic.
+
+59. 
