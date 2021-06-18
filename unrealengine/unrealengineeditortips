@@ -45,4 +45,7 @@ Afterwards, close everything and start up the project again by clicking the .upr
 
 10. When adjusting the camera and springarm, consider disabling the "do collision test" to prevent weird clipping or twitching errors in the camera.
 
-11. 
+11. When changing unreal engine blueprints around, if you're moving and changing inputs and it's not working, be sure to refresh each "node" by right clicking on the
+problematic node and select "refresh node". This should also fix variable mismatches.
+
+12. 
