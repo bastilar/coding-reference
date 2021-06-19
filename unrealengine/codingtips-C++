@@ -435,4 +435,7 @@ ordering and logic.
 59. Spawning emitters and particle effects (like on hit or actor/object pawn death animation) see https://www.udemy.com/course/unrealcourse/learn/lecture/20648962#learning-tools
 UGameplayStatics::SpawnEmitterAtLocation(this, HitParticle, GetActorLocation());
 
-60. 
+60. Creating particle trails and attaching them to your projectiles or other objects that are moving
+https://www.udemy.com/course/unrealcourse/learn/lecture/20648972#learning-tools
+
+61. 
