@@ -432,4 +432,7 @@ ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("
 58. Sometimes when you get glitches like weird mana or hp values, make sure to declare those variables in beginplay() and not inside the .cpp's constructor. It's about
 ordering and logic.
 
-59. 
+59. Spawning emitters and particle effects (like on hit or actor/object pawn death animation) see https://www.udemy.com/course/unrealcourse/learn/lecture/20648962#learning-tools
+UGameplayStatics::SpawnEmitterAtLocation(this, HitParticle, GetActorLocation());
+
+60. 
