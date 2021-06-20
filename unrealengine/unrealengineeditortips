@@ -48,4 +48,9 @@ Afterwards, close everything and start up the project again by clicking the .upr
 11. When changing unreal engine blueprints around, if you're moving and changing inputs and it's not working, be sure to refresh each "node" by right clicking on the
 problematic node and select "refresh node". This should also fix variable mismatches.
 
-12. 
+12. Unreal engine has a very good out of the box 3d sound system with automatic sound drop off and such. This is extremely useful for situations where you need to
+hear enemy players based on their distance to you, like in csgo.
+
+13. Unreal engine's 2d sounds are used for sounds whose volume probably won't change, such as leveling up sound, menu sounds, assigning skill point succcesses, etc.
+
+14. 
