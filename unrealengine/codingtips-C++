@@ -438,4 +438,7 @@ UGameplayStatics::SpawnEmitterAtLocation(this, HitParticle, GetActorLocation());
 60. Creating particle trails and attaching them to your projectiles or other objects that are moving
 https://www.udemy.com/course/unrealcourse/learn/lecture/20648972#learning-tools
 
-61. 
+61. Pawns are actors that can be possessed by the player. Characters are specialized pawns that inherits from the pawn class but can do a lot more things like move
+or follow navmeshes (for ai). Character pawns are character like, obviously.
+
+62. 
