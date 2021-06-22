@@ -441,4 +441,7 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20648972#learning-tools
 61. Pawns are actors that can be possessed by the player. Characters are specialized pawns that inherits from the pawn class but can do a lot more things like move
 or follow navmeshes (for ai). Character pawns are character like, obviously.
 
-62. 
+62. Might be a good idea to backup any map or level you're working on, and original bug free version and the map you're actually editing. That way if I mess up I can
+go back to a previous reference and undo the damage.
+
+63. 
