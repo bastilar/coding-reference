@@ -59,4 +59,7 @@ or follow navmeshes (for ai). Character pawns are character like, obviously.
 15. Might be a good idea to backup any map or level you're working on, and original bug free version and the map you're actually editing. That way if I mess up I can
 go back to a previous reference and undo the damage.
 
-16. 
+16. When making a 3rd person camera, there are a few components you need, such as a camera childed to a spring arm component. See tutorial:
+https://www.udemy.com/course/unrealcourse/learn/lecture/20587646#overview
+
+17. 
