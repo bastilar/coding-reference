@@ -70,7 +70,7 @@ vice versa.
 18. To ensure smooth animations, if you tie character movement to the animations, you cannot go faster than the animation speed limit because there are no animations
 to represent this faster speed. Hence, this causes a cap on gameplay. If you wish to go faster, you will need animations that will reflect this faster speed.
 
-19. To calculate foot / feet speed in your animations (to fix the foot sliding animation issue) you need to use the formula:
+19. To calculate foot / feet / walk speed in your animations (to fix the foot sliding animation issue) you need to use the formula:
 footspeed = (y_finishworldloc - y_startworldloc) / (time_finish - time_start)
 
 20. 
