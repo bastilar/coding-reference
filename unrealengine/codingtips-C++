@@ -447,4 +447,9 @@ go back to a previous reference and undo the damage.
 63. When making a 3rd person camera, there are a few components you need, such as a camera childed to a spring arm component. See tutorial:
 https://www.udemy.com/course/unrealcourse/learn/lecture/20587646#overview
 
-64. 
+64. An inverse transform vector is a fancy way of saying that vectors come in 2 flavors, local and global. Global is the world position so all objects revolve around
+this "global" vector or position in the world when manipulating transforms. Local transforms are specific to the actor or object you're editing where the local actor
+or object IS the center of attention when it comes to changing rotation, scaling, or transforms. Inverse transfor vectors means shifting from local to global and
+vice versa.
+
+65. 
