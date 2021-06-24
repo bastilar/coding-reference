@@ -67,4 +67,7 @@ this "global" vector or position in the world when manipulating transforms. Loca
 or object IS the center of attention when it comes to changing rotation, scaling, or transforms. Inverse transfor vectors means shifting from local to global and
 vice versa.
 
-18. 
+18. To ensure smooth animations, if you tie character movement to the animations, you cannot go faster than the animation speed limit because there are no animations
+to represent this faster speed. Hence, this causes a cap on gameplay. If you wish to go faster, you will need animations that will reflect this faster speed.
+
+19. 
