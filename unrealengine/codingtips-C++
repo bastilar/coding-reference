@@ -452,4 +452,7 @@ this "global" vector or position in the world when manipulating transforms. Loca
 or object IS the center of attention when it comes to changing rotation, scaling, or transforms. Inverse transfor vectors means shifting from local to global and
 vice versa.
 
-65. 
+65. Uproperty(Editdefaultsonly) is used to prevent editing of variables or properties during runtime. Useful if you want to jebait yourself into changing something
+during run time when it wouldn't actually do anything and give a false impression of thing happening.
+
+66. 
