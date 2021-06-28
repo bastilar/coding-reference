@@ -455,4 +455,7 @@ vice versa.
 65. Uproperty(Editdefaultsonly) is used to prevent editing of variables or properties during runtime. Useful if you want to jebait yourself into changing something
 during run time when it wouldn't actually do anything and give a false impression of thing happening.
 
-66. 
+66. Player or camera viewpoint tutorial https://www.udemy.com/course/unrealcourse/learn/lecture/20588350#announcements Use this for raytracing an aim of a gun so
+the player can see where the bullet lands. What they see is where the bullet should go, or at least, where the aiming reticle is.
+
+67. 
