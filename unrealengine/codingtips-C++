@@ -460,4 +460,7 @@ the player can see where the bullet lands. What they see is where the bullet sho
 
 67. Only pawns can be possessed by controllers, hence if you need to call the controller owner, make sure to Cast<APawn>(getowner()); etc.
 
-68. 
+68. Line tracing by channel is used to detect hits on objects that are pretty diverse. Example, a bullet will go through a bush but it can hit a wall but not damage it.
+This is far more useful than line trace by object, which is very limited. Tutorial: https://www.udemy.com/course/unrealcourse/learn/lecture/20588356#announcements
+
+69. 
