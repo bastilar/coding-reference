@@ -458,4 +458,6 @@ during run time when it wouldn't actually do anything and give a false impressio
 66. Player or camera viewpoint / viewport tutorial https://www.udemy.com/course/unrealcourse/learn/lecture/20588350#announcements Use this for raytracing an aim of a gun so
 the player can see where the bullet lands. What they see is where the bullet should go, or at least, where the aiming reticle is.
 
-67. 
+67. Only pawns can be possessed by controllers, hence if you need to call the controller owner, make sure to Cast<APawn>(getowner()); etc.
+
+68. 
