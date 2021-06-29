@@ -463,4 +463,7 @@ the player can see where the bullet lands. What they see is where the bullet sho
 68. Line tracing by channel is used to detect hits on objects that are pretty diverse. Example, a bullet will go through a bush but it can hit a wall but not damage it.
 This is far more useful than line trace by object, which is very limited. Tutorial: https://www.udemy.com/course/unrealcourse/learn/lecture/20588356#announcements
 
-69. 
+69. Dynamic dispatch or virtual void method is used to override functions in c++ and unreal engine so you can call an overridden function. If you don't do virtual void,
+c++ will just simply call the first pointer or method it can find for efficiency reasons. Calling overrides is more resource hogging so you have to tell c++ to do it.
+
+70. 
