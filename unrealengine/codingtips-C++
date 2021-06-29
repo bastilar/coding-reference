@@ -468,6 +468,7 @@ c++ will just simply call the first pointer or method it can find for efficiency
 see https://www.udemy.com/course/unrealcourse/learn/lecture/20628030#announcements
 and https://www.udemy.com/course/unrealcourse/learn/lecture/20628090#announcements
 
-70. BlueprintPure is called when the blueprint function isn't really changing; the result is always the same essentially.
+70. BlueprintPure is called when the blueprint function isn't really changing; the result is always the same essentially. Generally blueprintpure functions also have
+no execution pins.
 
 71. 
