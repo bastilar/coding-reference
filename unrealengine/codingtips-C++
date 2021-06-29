@@ -465,5 +465,6 @@ This is far more useful than line trace by object, which is very limited. Tutori
 
 69. Dynamic dispatch or virtual void method is used to override functions in c++ and unreal engine so you can call an overridden function. If you don't do virtual void,
 c++ will just simply call the first pointer or method it can find for efficiency reasons. Calling overrides is more resource hogging so you have to tell c++ to do it.
+see https://www.udemy.com/course/unrealcourse/learn/lecture/20628030#announcements
 
 70. 
