@@ -73,4 +73,7 @@ to represent this faster speed. Hence, this causes a cap on gameplay. If you wis
 19. To calculate foot / feet / walk speed in your animations (to fix the foot sliding animation issue) you need to use the formula:
 footspeed = (y_finishworldloc - y_startworldloc) / (time_finish - time_start)
 
-20. 
+20. BlueprintPure is called when the blueprint function isn't really changing; the result is always the same essentially. Generally blueprintpure functions also have
+no execution pins.
+
+21. 
