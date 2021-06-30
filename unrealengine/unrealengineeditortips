@@ -76,4 +76,6 @@ footspeed = (y_finishworldloc - y_startworldloc) / (time_finish - time_start)
 20. BlueprintPure is called when the blueprint function isn't really changing; the result is always the same essentially. Generally blueprintpure functions also have
 no execution pins.
 
-21. 
+21. Setting up AI nav meshes for ai bots to follow along a path: https://www.udemy.com/course/unrealcourse/learn/lecture/20628222#announcements
+
+22. 
