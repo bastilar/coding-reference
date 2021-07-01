@@ -91,4 +91,6 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20628300#announcements t
 
 PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayTasks" });
 
+This is a bug resulting from overriding the btt task function in unreal and for some reason unreal forgets to add the "GameplayTasks" parameter.
+
 26. 
