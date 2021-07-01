@@ -86,4 +86,9 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20628262#announcements
 24. Using bt (behavior trees) ai in blackboard unreal engine https://www.udemy.com/course/unrealcourse/learn/lecture/20628280#announcements with conditionals
 and decorators.
 
-25. 
+25. When creating custom C++ btt tasks, there's a link error bug, you can resolve by looking for projectname.build.cs and add "GameplayTasks" see:
+https://www.udemy.com/course/unrealcourse/learn/lecture/20628300#announcements timestamp 4:27 example line you're looking for is:
+
+PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayTasks" });
+
+26. 
