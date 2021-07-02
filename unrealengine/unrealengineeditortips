@@ -93,4 +93,8 @@ PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engi
 
 This is a bug resulting from overriding the btt task function in unreal and for some reason unreal forgets to add the "GameplayTasks" parameter.
 
-26. 
+26. Be sure to check "Observe blackboard value" so that the node behavior will keep updating everytime the player or something else the bttask is changed. This will
+make sure the ai, for example, keeps moving towards the target or player instead of going to a last known location then chasing you (which looks weird and unnatural).
+see https://www.udemy.com/course/unrealcourse/learn/lecture/20628318#announcements
+
+27. 
