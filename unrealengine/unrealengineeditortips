@@ -97,4 +97,9 @@ This is a bug resulting from overriding the btt task function in unreal and for 
 make sure the ai, for example, keeps moving towards the target or player instead of going to a last known location then chasing you (which looks weird and unnatural).
 see https://www.udemy.com/course/unrealcourse/learn/lecture/20628318#announcements
 
-27. 
+27. BTTservices tutorial https://www.udemy.com/course/unrealcourse/learn/lecture/20628352#announcements
+
+28. Fixing weird bugs like shooting and hitting yourself or own gun, disabling collision when actor is dead (disabling collision models after actor died), and stopping
+the shooting of an npc gun after he died https://www.udemy.com/course/unrealcourse/learn/lecture/20628404#announcements
+
+29. 
