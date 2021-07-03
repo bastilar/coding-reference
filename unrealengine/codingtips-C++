@@ -479,4 +479,8 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20628214#announcements
 73. Fixing weird bugs like shooting and hitting yourself or own gun, disabling collision when actor is dead (disabling collision models after actor died), and stopping
 the shooting of an npc gun after he died https://www.udemy.com/course/unrealcourse/learn/lecture/20628404#announcements
 
-74. 
+74. Restarting levels using set timers: https://www.udemy.com/course/unrealcourse/learn/lecture/20628416#announcements
+#include TimerManager.h
+getworldtimermanager()->settimer(5 params);
+
+75. 
