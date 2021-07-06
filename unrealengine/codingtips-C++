@@ -489,4 +489,7 @@ getworldtimermanager()->settimer(5 params);
 
 77. Sound spatialization tutorial sounds effects louder or quieter based on distance etc https://www.udemy.com/course/unrealcourse/learn/lecture/20648154#announcements
 
-78. 
+78. Cross hairs and hud, esp. how to remove hud after win/lose screen shows up https://www.udemy.com/course/unrealcourse/learn/lecture/20648176#announcements
+create a uuserwidget* crosshair; in the .h header file and you can access all the methods from uuserwidget globally.
+
+79. 
