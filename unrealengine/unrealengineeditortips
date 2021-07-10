@@ -119,4 +119,7 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20648208#announcements
 
 36. You can break nodes manually and selectively in unreal blueprints by holding left alt key and left clicking on the node you wish to break.
 
-37. 
+37. When you place an input blueprint node, you can uncheck "consume input" so pressing say, the w key, will play all actions. Useful if you want to display
+messages while doing an action and moving at the same time probably.
+
+38. 
