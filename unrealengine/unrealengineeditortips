@@ -122,4 +122,7 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20648208#announcements
 37. When you place an input blueprint node, you can uncheck "consume input" so pressing say, the w key, will play all actions. Useful if you want to display
 messages while doing an action and moving at the same time probably.
 
-38. 
+38. Getting and setting actor rotations using + and * operators in unreal blueprints https://www.udemy.com/course/unrealblueprint/learn/lecture/12396166#overview
+A good way to fix odd behavior problems.
+
+39. 
