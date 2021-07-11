@@ -128,4 +128,6 @@ A good way to fix odd behavior problems. This also goes over how to limit rotati
 39. If selecting multiple objects and you want ot adjust the pivot point when rotating it later as a static mesh, find the center pivot point you want and select that
 object/actor last https://www.udemy.com/course/unrealblueprint/learn/lecture/12454578#overview
 
-40. 
+40. Combining floats, text, and other strings to display a winning message tutorial https://www.udemy.com/course/unrealblueprint/learn/lecture/12454676#overview
+
+41. 
