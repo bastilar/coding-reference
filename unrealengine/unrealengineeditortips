@@ -123,6 +123,6 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20648208#announcements
 messages while doing an action and moving at the same time probably.
 
 38. Getting and setting actor rotations using + and * operators in unreal blueprints https://www.udemy.com/course/unrealblueprint/learn/lecture/12396166#overview
-A good way to fix odd behavior problems.
+A good way to fix odd behavior problems. This also goes over how to limit rotation values using math f clamps.
 
 39. 
