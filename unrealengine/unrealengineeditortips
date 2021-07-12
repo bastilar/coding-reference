@@ -132,4 +132,7 @@ object/actor last https://www.udemy.com/course/unrealblueprint/learn/lecture/124
 
 41. To add comments on blueprint nodes, select all the nodes you want to place a comment on then press the "C" key.
 
-42. 
+42. Auto exposure can be turned off (it is on by default) so that lights will not dim or get brighter the further or closer away the source lighting is. See
+https://www.udemy.com/course/unrealblueprint/learn/lecture/12960452#overview
+
+43. 
