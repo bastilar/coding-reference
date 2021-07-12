@@ -135,4 +135,7 @@ object/actor last https://www.udemy.com/course/unrealblueprint/learn/lecture/124
 42. Auto exposure can be turned off (it is on by default) so that lights will not dim or get brighter the further or closer away the source lighting is. See
 https://www.udemy.com/course/unrealblueprint/learn/lecture/12960452#overview
 
-43. 
+43. Camera bobbing and follow the pawn (3rd person camera) tutorial: https://www.udemy.com/course/unrealblueprint/learn/lecture/13369792#overview Set world rotation
+and set the pivot/center point of the camera spring arm to the dead center of the object or actor.
+
+44. 
