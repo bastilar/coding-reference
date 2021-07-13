@@ -141,4 +141,6 @@ and set the pivot/center point of the camera spring arm to the dead center of th
 44. Using torque and other inputs to move your character or actor properly https://www.udemy.com/course/unrealblueprint/learn/lecture/13488102#overview this explains
 how the torque is applied to axis or rotation, NOT the direction you're thinking of initially.
 
-45. 
+45. Magic numbers are numbers that used without an example or meaning of what they actually represent.
+
+46. 
