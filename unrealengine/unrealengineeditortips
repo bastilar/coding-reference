@@ -149,4 +149,7 @@ test your level out https://www.udemy.com/course/unrealblueprint/learn/lecture/1
 47. Springarms can collide with other platforms when you may not want it to, it is due to the collision setting, see https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
 for fix. Simply disable "collision test" in collision settings for the spring arm.
 
-48. 
+48. Using booleans, custom box trigger blueprints, and branches etc to detect player pawns or objects entering a certain area 
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13689856#overview
+
+49. 
