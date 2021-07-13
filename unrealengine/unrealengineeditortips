@@ -152,4 +152,7 @@ for fix. Simply disable "collision test" in collision settings for the spring ar
 48. Using booleans, custom box trigger blueprints, and branches etc to detect player pawns or objects entering a certain area 
 https://www.udemy.com/course/unrealblueprint/learn/lecture/13689856#overview
 
-49. 
+49. You can use breakpoints on branches to test your box trigger during simulated play. If triggered condition is met, it will immediatley jump to the breakpointed
+node in your blueprint to let you know indeed your trigger volume is working, see https://www.udemy.com/course/unrealblueprint/learn/lecture/13689856#overview
+
+50. 
