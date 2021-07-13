@@ -143,4 +143,8 @@ how the torque is applied to axis or rotation, NOT the direction you're thinking
 
 45. Magic numbers are numbers that used without an example or meaning of what they actually represent.
 
-46. 
+46. Can select any area and right click on it, then at the near bottom of the popup menu, select "play from here" so you don't have to play through the whole level to
+test your level out https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
+
+47. Springarms can collide with other platforms when you may not want it to, it is due to the collision setting, see https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
+for fix. 
