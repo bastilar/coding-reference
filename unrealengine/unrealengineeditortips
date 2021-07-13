@@ -147,4 +147,6 @@ how the torque is applied to axis or rotation, NOT the direction you're thinking
 test your level out https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
 
 47. Springarms can collide with other platforms when you may not want it to, it is due to the collision setting, see https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
-for fix. 
+for fix. Simply disable "collision test" in collision settings for the spring arm.
+
+48. 
