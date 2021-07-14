@@ -164,4 +164,7 @@ a manual delay equal to your intended duration camera fade to get around this pr
 52. Make literal float allows you to create a float variable in blueprints and assign it to whatever you want. NOt sure why this exists when you can juts craete 
 variables at will on the left hand side of the blueprints tab.
 
-53. 
+53. Disable cast shadows under lighting in your blueprint actors if you are placing lights inside or around your objects/actors to avoid weird glitching see
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13731940#overview
+
+54. 
