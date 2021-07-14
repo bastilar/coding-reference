@@ -161,4 +161,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/13698048#overview
 51. The reason why the camera doesn't fade or execute is because the node is executing the rest of the code in the node, so nothing appears to happen. You have to add
 a manual delay equal to your intended duration camera fade to get around this problem. See tutorial in #50.
 
-52. 
+52. Make literal float allows you to create a float variable in blueprints and assign it to whatever you want. NOt sure why this exists when you can juts craete 
+variables at will on the left hand side of the blueprints tab.
+
+53. 
