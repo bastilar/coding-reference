@@ -173,4 +173,6 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/13758058#overview
 55. Lerp or linear interpolation explained https://www.udemy.com/course/unrealblueprint/learn/lecture/13758058#overview Alpha value returns a location based on a
 number between 0 and 1 (alpha value).
 
+Lerp is a location based vector function.
+
 56. 
