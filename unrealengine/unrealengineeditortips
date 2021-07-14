@@ -158,4 +158,7 @@ node in your blueprint to let you know indeed your trigger volume is working, se
 50. Using player camera manager to fade out screen before restarting level (useful for flashbangs?)
 https://www.udemy.com/course/unrealblueprint/learn/lecture/13698048#overview
 
-51. 
+51. The reason why the camera doesn't fade or execute is because the node is executing the rest of the code in the node, so nothing appears to happen. You have to add
+a manual delay equal to your intended duration camera fade to get around this problem. See tutorial in #50.
+
+52. 
