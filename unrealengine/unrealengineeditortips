@@ -170,4 +170,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/13731940#overview
 54. Using unreal blueprint timelines to animate collision triggers or proximity events, such as getting near a pickup 
 https://www.udemy.com/course/unrealblueprint/learn/lecture/13758058#overview
 
-55. 
+55. Lerp or linear interpolation explained https://www.udemy.com/course/unrealblueprint/learn/lecture/13758058#overview Alpha value returns a location based on a
+number between 0 and 1 (alpha value).
+
+56. 
