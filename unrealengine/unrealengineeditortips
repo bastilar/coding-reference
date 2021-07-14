@@ -176,4 +176,8 @@ number between 0 and 1 (alpha value).
 Lerp is a location based vector function that returns a location between 2 points in the lerp function, usually between point A and B, such as You the player and
 the target object you're heading towards.
 
-56. 
+56. Using multiple timelines to create dazzling effects on objects or actors, such as blinking and shrinking while gathering items/orbs
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13794248#overview
+
+57. Using blueprint macros to create bp functions when there are multiple return execution pins
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13818052#overview continue me.
