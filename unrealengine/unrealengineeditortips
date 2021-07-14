@@ -155,4 +155,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/13689856#overview
 49. You can use breakpoints on branches to test your box trigger during simulated play. If triggered condition is met, it will immediatley jump to the breakpointed
 node in your blueprint to let you know indeed your trigger volume is working, see https://www.udemy.com/course/unrealblueprint/learn/lecture/13689856#overview
 
-50. 
+50. Using player camera manager to fade out screen before restarting level (useful for flashbangs?)
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13698048#overview
+
+51. 
