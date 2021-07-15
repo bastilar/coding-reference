@@ -188,4 +188,7 @@ work around this limitation and are very easy to implement.
 58. Unreal blueprints projectiles for projectile movement component is in cm/s or centimeters per second see
 https://www.udemy.com/course/unrealblueprint/learn/lecture/13833864#overview
 
-59. 
+59. Spawning actors and generating projectiles or anything similiar at runtime or when you want to:
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13890614#overview
+
+60. 
