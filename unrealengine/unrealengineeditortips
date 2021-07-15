@@ -185,4 +185,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/13818052#overview con
 BP functions cannot have more than 1 execution pin, which makes including a function with say, branches that has 2 or more execution pins impossible. BP macros
 work around this limitation and are very easy to implement.
 
-58. 
+58. Unreal blueprints projectiles for projectile movement component is in cm/s or centimeters per second see
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13833864#overview
+
+59. 
