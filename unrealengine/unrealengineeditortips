@@ -191,4 +191,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/13833864#overview
 59. Spawning actors and generating projectiles or anything similiar at runtime or when you want to:
 https://www.udemy.com/course/unrealblueprint/learn/lecture/13890614#overview
 
-60. 
+60. The "other" in the event hit node blueprint is the actor that you're hitting, usually the wall or actor/player object see
+https://www.udemy.com/course/unrealblueprint/learn/lecture/13990064#overview
+
+61. 
