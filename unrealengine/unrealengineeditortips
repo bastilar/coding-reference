@@ -194,4 +194,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/13890614#overview
 60. The "other" in the event hit node blueprint is the actor that you're hitting, usually the wall or actor/player object see
 https://www.udemy.com/course/unrealblueprint/learn/lecture/13990064#overview
 
-61. 
+61. If a newly created macro library does not appear in your blueprint search results, consider saving everything and restarting unreal. Hot reload glitch occurs
+here too in unreal engine 4.26. Of course, make sure the macro library you're trying to call has scope.
+
+62. 
