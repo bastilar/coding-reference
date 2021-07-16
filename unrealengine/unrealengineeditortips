@@ -211,4 +211,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/14177527#learning-too
 66. Changing specific rules in each map using blueprint functions https://www.udemy.com/course/unrealblueprint/learn/lecture/14177527#learning-tools and calling
 functions within green functions when you can't
 
-67. 
+67. If your spinning object is spinning too much, it may be because there is no or not enough damping effect on it. In other words, there needs to be air resistance
+or friction applied ot simulated physics to remove or reduce the spinning see https://www.udemy.com/course/unrealblueprint/learn/lecture/14177527#learning-tools
+
+68. 
