@@ -199,4 +199,7 @@ here too in unreal engine 4.26. Of course, make sure the macro library you're tr
 
 62. Implementing win conditions by checkign for all actors of some type https://www.udemy.com/course/unrealblueprint/learn/lecture/14061395#overview
 
-63. 
+63. Blue and green color coded functions in unreal blueprints signify pure and impure functions see
+https://www.udemy.com/course/unrealblueprint/learn/lecture/14076392#overview
+
+64. 
