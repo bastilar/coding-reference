@@ -208,4 +208,7 @@ an array or other type of variable https://www.udemy.com/course/unrealblueprint/
 65. Changing spring arm and camera views , might be useful if you want player to switch between first person, 3rd person camera, or rotate their perspective?
 https://www.udemy.com/course/unrealblueprint/learn/lecture/14177527#learning-tools timestamp 3:08
 
-66. 
+66. Changing specific rules in each map using blueprint functions https://www.udemy.com/course/unrealblueprint/learn/lecture/14177527#learning-tools and calling
+functions within green functions when you can't
+
+67. 
