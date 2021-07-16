@@ -202,4 +202,7 @@ here too in unreal engine 4.26. Of course, make sure the macro library you're tr
 63. Blue and green color coded functions in unreal blueprints signify pure and impure functions see
 https://www.udemy.com/course/unrealblueprint/learn/lecture/14076392#overview
 
-64. 
+64. When creating variables, click the "-" symbol next to the variable type in bp details and select the 9 squares for "array" to convert a single variable into
+an array or other type of variable https://www.udemy.com/course/unrealblueprint/learn/lecture/14145009#learning-tools
+
+65. 
