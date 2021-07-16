@@ -214,4 +214,6 @@ functions within green functions when you can't
 67. If your spinning object is spinning too much, it may be because there is no or not enough damping effect on it. In other words, there needs to be air resistance
 or friction applied ot simulated physics to remove or reduce the spinning see https://www.udemy.com/course/unrealblueprint/learn/lecture/14177527#learning-tools
 
-68. 
+68. Linear damping adds friction to x,y,z movement. Angular damping adds friction to x,y,z ROTATION.
+
+69. 
