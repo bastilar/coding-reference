@@ -223,4 +223,7 @@ problem levels see https://www.udemy.com/course/unrealblueprint/learn/lecture/15
 
 71. Changing movement speed of character in blueprints https://www.udemy.com/course/unrealblueprint/learn/lecture/15051810#overview timestamp 6:05
 
-72. 
+72. Controllers always have a rotator called Control Rotation. Player controller / characters always match the yaw of this control rotation. See
+https://www.udemy.com/course/unrealblueprint/learn/lecture/15090206#overview timestamp 2:40.
+
+73. 
