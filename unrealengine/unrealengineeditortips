@@ -234,4 +234,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15090206#overview 5:3
 75. Atan2 math function can convert floats or values into degrees https://www.udemy.com/course/unrealblueprint/learn/lecture/15090206#overview See timestamp
 7:00.
 
-76. 
+76. Sometimes the atan2 function may invert your controls, consider switching the a and b a / b inputs to fix this quickly. See
+https://www.udemy.com/course/unrealblueprint/learn/lecture/15090206#overview timestamp 8:25.
+
+77. 
