@@ -246,4 +246,6 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15136126#overview
 
 80. Sounds Cues are audio blueprints for unreal engine https://www.udemy.com/course/unrealblueprint/learn/lecture/15186088#overview and editing the sfx
 
-81. 
+81. If you're looping sounds or sound cues, consider using "stop sound" or "stop" node in blueprints just to avoid any possible weird sound glitching. See #80.
+
+82. 
