@@ -248,4 +248,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15136126#overview
 
 81. If you're looping sounds or sound cues, consider using "stop sound" or "stop" node in blueprints just to avoid any possible weird sound glitching. See #80.
 
-82. 
+82. Unreal Motion Graphics is unreal's hud manager and menu creation system. See https://www.udemy.com/course/unrealblueprint/learn/lecture/15217722#overview
+and the lecture after it.
+
+83. 
