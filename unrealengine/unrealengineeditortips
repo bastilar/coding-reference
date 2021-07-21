@@ -146,7 +146,7 @@ how the torque is applied to axis or rotation, NOT the direction you're thinking
 46. Can select any area and right click on it, then at the near bottom of the popup menu, select "play from here" so you don't have to play through the whole level to
 test your level out https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
 
-47. Springarms can collide with other platforms when you may not want it to, it is due to the collision setting, see https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
+47. Spring arms and cameras can collide with other platforms when you may not want it to, it is due to the collision setting, see https://www.udemy.com/course/unrealblueprint/learn/lecture/13637654#overview
 for fix. Simply disable "collision test" in collision settings for the spring arm.
 
 48. Using booleans, custom box trigger blueprints, and branches etc to detect player pawns or objects entering a certain area 
