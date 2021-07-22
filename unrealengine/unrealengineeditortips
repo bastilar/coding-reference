@@ -281,4 +281,6 @@ events in your graph unless you need to do something specific I guess.
 blueprint. This is useful if you need to check if your player is alive so you can play the death animation. See
 https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview timestamp 13:30
 
-93. 
+93. Line tracing is the same thing as ray casting / raycasting in unreal engine.
+
+94. 
