@@ -272,4 +272,7 @@ particle systems like say bleeding while moving and clutching your player arm, o
 89. In unreal's anim notify ui, it's badly designed. You have to mouse over to the right side of the word "track" under anim notifies and click only the spacing
 on that line on the timeline. It's very aggravating to bring up the anim notify section.
 
-90. 
+90. Anim notifies seem to operate independently once you place the anim notify inside the timeline for your animation. No need to hookup the execution pins to other
+events in your graph unless you need to do something specific I guess.
+
+91. 
