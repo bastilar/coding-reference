@@ -298,6 +298,6 @@ It's kind of confusing so check https://www.udemy.com/course/unrealblueprint/lea
 timestamp 11:00. It's still not very clear but maybe with time I will get it.
 
 98. Deactivating and disabling alien npcs when they die or as they die and stop spinning towards player as death animation plays bug fix
-https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview timestamp 13:30
+https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview timestamp 13:30 Use stop movement immediately node to fix
 
 99. 
