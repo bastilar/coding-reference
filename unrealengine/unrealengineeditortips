@@ -258,4 +258,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15219658#overview Thi
 
 85. Animation montages https://www.udemy.com/course/unrealblueprint/learn/lecture/15228204#overview
 
-86. 
+86. Animation montages conveniently goes back to its animation blueprint anim bp when it is finished triggering and playing. No extra code necessary to reset back
+to default or normal animations / anim.
+
+87. 
