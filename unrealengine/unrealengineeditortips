@@ -266,6 +266,7 @@ timestamp 8:00. This is required if you want to check to make sure the animation
 playing" pure const function node.
 
 88. Anim notify or animation notifications can be used to call functions while animations or animation montages are playing see
-https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview
+https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview This is very important for spawning sfx / sound effects like footsteps, spawning
+particle systems like say bleeding while moving and clutching your player arm, or executing custom code.
 
 89. 
