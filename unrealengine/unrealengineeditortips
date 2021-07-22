@@ -283,4 +283,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview tim
 
 93. Line tracing is the same thing as ray casting / raycasting in unreal engine.
 
-94. 
+94. To calculate distance between two actors, use linetracebychannel and vector directions / get control rotation. Pretty complex math see
+https://www.udemy.com/course/unrealblueprint/learn/lecture/15257124#overview timestamp 4:30
+
+95. 
