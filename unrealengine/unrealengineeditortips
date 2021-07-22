@@ -254,4 +254,6 @@ and the lecture after it.
 83. Binding your player hud to your player pawn aka creating a reference to bp marine, exposing it as editable, and then feeding it into the bp marine blueprint
 https://www.udemy.com/course/unrealblueprint/learn/lecture/15219658#overview This makes use of property / properties bindings / binding.
 
-84. 
+84. AI navigation and behavior https://www.udemy.com/course/unrealblueprint/learn/lecture/15220396#overview
+
+85. 
