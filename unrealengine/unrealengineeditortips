@@ -265,4 +265,7 @@ to default or normal animations / anim.
 timestamp 8:00. This is required if you want to check to make sure the animation montage is not already playing. Use "get anim instance" node and "montage is 
 playing" pure const function node.
 
-88. 
+88. Anim notify or animation notifications can be used to call functions while animations or animation montages are playing see
+https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview
+
+89. 
