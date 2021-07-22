@@ -277,4 +277,8 @@ events in your graph unless you need to do something specific I guess.
 
 91. Add return node may not be shown in the event graph unless you're looking to add it inside a blue print macro or collapsed function.
 
-92. 
+92. If you need to call functions or variables from a player character or pawn reference, you need to drag out another reference for the pawn/actor into the animation
+blueprint. This is useful if you need to check if your player is alive so you can play the death animation. See
+https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview timestamp 13:30
+
+93. 
