@@ -286,4 +286,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview tim
 94. To calculate distance between two actors, use linetracebychannel and vector directions / get control rotation. Pretty complex math see
 https://www.udemy.com/course/unrealblueprint/learn/lecture/15257124#overview timestamp 4:30
 
-95. 
+95. Applying line tracing to your gunfire, looping it during auto fire and stopping it when you stop firing https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview
+Timestasmp 1:00
+
+96. 
