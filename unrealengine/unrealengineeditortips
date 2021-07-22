@@ -269,4 +269,7 @@ playing" pure const function node.
 https://www.udemy.com/course/unrealblueprint/learn/lecture/15254630#overview This is very important for spawning sfx / sound effects like footsteps, spawning
 particle systems like say bleeding while moving and clutching your player arm, or executing custom code.
 
-89. 
+89. In unreal's anim notify ui, it's badly designed. You have to mouse over to the right side of the word "track" under anim notifies and click only the spacing
+on that line on the timeline. It's very aggravating to bring up the anim notify section.
+
+90. 
