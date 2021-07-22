@@ -262,6 +262,6 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15219658#overview Thi
 to default or normal animations / anim.
 
 87. How to get the animation blueprint / anim bp reference or instance https://www.udemy.com/course/unrealblueprint/learn/lecture/15228204#overview
-timestamp 8:00. This is required if you want to check to make sure the animation montage is not already playing.
+timestamp 8:00. This is required if you want to check to make sure the animation montage is not already playing. Use get anim instance node.
 
 88. 
