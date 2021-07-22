@@ -292,4 +292,7 @@ Timestasmp 1:00
 96. Blend poses by bool / boolean https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview timestasmp 4:30 Useful for playing animations
 when and if an enemy is dead.
 
-97. 
+97. NOT boolean returns the opposite or false of a bool you create. It's kind of confusing so check https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview
+timestamp 11:00. It's still not very clear but maybe with time I will get it.
+
+98. 
