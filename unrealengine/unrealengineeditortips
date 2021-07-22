@@ -289,4 +289,7 @@ https://www.udemy.com/course/unrealblueprint/learn/lecture/15257124#overview tim
 95. Applying line tracing to your gunfire, looping it during auto fire and stopping it when you stop firing https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview
 Timestasmp 1:00
 
-96. 
+96. Blend poses by bool / boolean https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview timestasmp 4:30 Useful for playing animations
+when and if an enemy is dead.
+
+97. 
