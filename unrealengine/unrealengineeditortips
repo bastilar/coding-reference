@@ -301,4 +301,7 @@ timestamp 11:00. It's still not very clear but maybe with time I will get it.
 98. Deactivating and disabling alien npcs when they die or as they die and stop spinning towards player as death animation plays bug fix
 https://www.udemy.com/course/unrealblueprint/learn/lecture/15270106#overview timestamp 13:30 Use stop movement immediately node to fix
 
-99. 
+99. Target points have no behavior but can mark areas in your map level https://www.udemy.com/course/unrealblueprint/learn/lecture/15278484#overview
+Perfect for creating spawn points or other points of interest.
+
+100. 
