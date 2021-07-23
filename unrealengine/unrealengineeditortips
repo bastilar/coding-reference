@@ -310,4 +310,7 @@ Perfect for creating spawn points or other points of interest.
 Timestamp 6:23. The fix is easy, go to the npc blueprint like BP_Alien and under class defaults, scroll down to "Pawn" and select auto possess AI.
 Choose spawned or placed in world or whatever it is you need.
 
-102. 
+102. Last array index node and other neat array function call nodes https://www.udemy.com/course/unrealblueprint/learn/lecture/15278484#overview
+time 7:00
+
+103. 
