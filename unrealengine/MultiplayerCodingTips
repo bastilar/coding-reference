@@ -1,6 +1,6 @@
 1. Setting up multiplayer (a basic one) is as easy as clicking the arrow next to "play" in the unreal editor and selecting the number of players in the level/game/map.
 Note that as of unreal 4.25, you need to set the net mode as "play as listen server". See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7761712#overview
 
-2. Use source tree to run version control on unreal engine programs https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7761712#overview time 10:20.
+2. Use source tree (free!) to run version control on unreal engine programs https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7761712#overview time 10:20.
 
 3. 
