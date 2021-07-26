@@ -6,4 +6,8 @@ Note that as of unreal 4.25, you need to set the net mode as "play as listen ser
 3. Synchronus means "together at the same time" such as mmo's, persistent worlds, and most fps first person shooter games. Turn based games like chess played through
 email are Asynchronus because you take turns and there is time lag and you each take "turns" playing.
 
-4. 
+4. Each player "state" is updated when you receive inputs from every other player in the game/network. That means the slowest connection speed is the weakest link
+in this state. It's very insecure and slow. A central authority server fixes this and prevents obvious cheating. See 
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7764312#overview time 3:00
+
+5. 
