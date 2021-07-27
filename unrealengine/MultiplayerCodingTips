@@ -23,4 +23,7 @@ void AMovingPlatform::BeginPlay()
 }
 See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778978#questions/8885998 time 7:10
 
-7. 
+7. Authority and replication https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778978#questions/8885998 what happens if client can update positions but
+the server does not, despite server being authoritative( always right). Time 10:00
+
+8. 
