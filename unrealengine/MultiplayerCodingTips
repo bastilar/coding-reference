@@ -26,4 +26,7 @@ See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778978#questio
 7. Authority and replication https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778978#questions/8885998 what happens if client can update positions but
 the server does not, despite server being authoritative( always right). Time 10:00
 
-8. 
+8. Since server is always right, if server and client disagree, the client will see the server's real position of items and actors to it's actual original location on
+the server. This would explain why objects or people "snap" back into the actual position. Server is always right! See video in #7, timestamp 15:00.
+
+9. 
