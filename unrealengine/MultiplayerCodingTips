@@ -46,4 +46,10 @@ relative.
 		//FVector Direction = (TargetLocation - Location).Normalize(); will modify the vector in place that is being calculated upon.
 		no protection against problems if dealing with very small numbers (precise numbers?)	
 
-13. 
+13. When calculating vectors from point a to b, it's:
+Location += XSpeed * DeltaTime * Direction;
+
+instead of:
+Location += FVector(XSpeed * DeltaTime, 0, 0);
+
+14. 
