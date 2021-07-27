@@ -13,4 +13,13 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7764312#overview ti
 5. Servers can execute code because it HasAuthority or has server authority as opposed to clients. See 
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778522#questions/8885998 and notice that the server can have the cube move while the client doesn't.
 
-6. 
+6. To have the server replicate actors or other things to clients and ONLY the server, use set replicates:
+void AMovingPlatform::BeginPlay()
+{
+	Super::BeginPlay();
+
+	SetReplicates(true); 
+}
+See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778978#questions/8885998 time 7:10
+
+7. 
