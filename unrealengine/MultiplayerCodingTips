@@ -52,4 +52,9 @@ Location += XSpeed * DeltaTime * Direction;
 instead of:
 Location += FVector(XSpeed * DeltaTime, 0, 0);
 
-14. 
+14. Sometimes you just want to convert your local target position to world position and not modify its direction or anywhere else.
+		FVector GlobalTargetLocation = GetTransform().TransformPosition(TargetLocation); //does just that vs.
+				FVector GlobalTargetLocation = GetTransform().TransformVector(TargetLocation); // will affect the scaling of the vector and direction
+See https://github.com/bastilar/coding-reference/edit/master/unrealengine/MultiplayerCodingTips time 13:00
+
+15. 
