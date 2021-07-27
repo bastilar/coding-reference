@@ -18,7 +18,8 @@ void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 
-	SetReplicates(true); 
+	SetReplicates(true);
+	SetReplicateMovement(true);
 }
 See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778978#questions/8885998 time 7:10
 
