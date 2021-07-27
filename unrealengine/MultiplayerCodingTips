@@ -10,4 +10,7 @@ email are Asynchronus because you take turns and there is time lag and you each 
 in this state. It's very insecure and slow. A central authority server fixes this and prevents obvious cheating. See 
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7764312#overview time 3:00
 
-5. 
+5. Servers can execute code because it HasAuthority or has server authority as opposed to clients. See 
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7778522#questions/8885998 and notice that the server can have the cube move while the client doesn't.
+
+6. 
