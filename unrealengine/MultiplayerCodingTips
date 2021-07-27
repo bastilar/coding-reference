@@ -39,4 +39,6 @@ See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7806128#questio
 10. Note that from #9, when using a target location that can be moved independent of the actor itself, the location is RELATIVE to the actor. It is NOT world / absolute
 relative.
 
-11. 
+11. Revisiting vectors and explanations on how to calculate them https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7806128#questions/8885998 Time 6:00
+
+12. 
