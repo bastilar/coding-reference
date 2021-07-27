@@ -29,4 +29,14 @@ the server does not, despite server being authoritative( always right). Time 10:
 8. Since server is always right, if server and client disagree, the client will see the server's real position of items and actors to it's actual original location on
 the server. This would explain why objects or people "snap" back into the actual position. Server is always right! See video in #7, timestamp 15:00.
 
-9. 
+9. If you need to add or edit a target location for an object or actor (but not move the object itself), use gizmo fvector widgets
+Code:
+UPROPERTY(EditAnywhere, Meta = (MakeEditWidget = true))
+	FVector TargetLocation;
+	
+See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7806128#questions/8885998 Time 2:00
+
+10. Note that from #9, when using a target location that can be moved independent of the actor itself, the location is RELATIVE to the actor. It is NOT world / absolute
+relative.
+
+11. 
