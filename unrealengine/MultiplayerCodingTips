@@ -57,4 +57,7 @@ Location += FVector(XSpeed * DeltaTime, 0, 0);
 				FVector GlobalTargetLocation = GetTransform().TransformVector(TargetLocation); // will affect the scaling of the vector and direction
 See https://github.com/bastilar/coding-reference/edit/master/unrealengine/MultiplayerCodingTips time 13:00
 
-15. 
+15. When swapping variables, you need to create a temporary variable to store the original values before swapping and setting them equal to new values.
+see https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7814240#questions time 12:30 where we swap Globaltargetlocation and globalstartlocation.
+
+16. 
