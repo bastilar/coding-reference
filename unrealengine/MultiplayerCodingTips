@@ -60,4 +60,6 @@ See https://github.com/bastilar/coding-reference/edit/master/unrealengine/Multip
 15. When swapping variables, you need to create a temporary variable to store the original values before swapping and setting them equal to new values.
 see https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7814240#questions time 12:30 where we swap Globaltargetlocation and globalstartlocation.
 
-16. 
+16. Explanations of how the basic internet works and using NATs https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7824036#questions
+
+17. 
