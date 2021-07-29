@@ -64,4 +64,6 @@ see https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7814240#questio
 
 17. Creating components in c++ uses "Defaultsubobject" method. See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7816380#questions time 2:35.
 
-18. 
+18. Sometimes if the blueprints derived from c++ doesn't work, try deleting it and recreating it.
+
+19. 
