@@ -503,4 +503,7 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20648208#announcements
 
 83. Creating components in c++ uses "Defaultsubobject" method. See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7816380#questions time 2:35.
 
-84. 
+84. You may want to be careful using editanywhere on the UPROPERTY() because it may allow you to edit pointers instead of its contents. You want to use visibleanywhere
+instead. See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7816380#questions/5666021 time 14:00
+
+85. 
