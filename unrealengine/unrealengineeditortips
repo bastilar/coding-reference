@@ -327,4 +327,10 @@ using bindings / bind and the select / selector node.
 
 108. Sometimes if the blueprints derived from c++ doesn't work, try deleting it and recreating it.
 
-109. 
+109. If the details are not showing up for a blueprint function or variable and your c++ code looks right, then check class settings and make sure the parent class
+is set properly to the original deriving c++ class. See
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7816566?%24web_only=true&~channel=email&~stage=published&utm_medium=email&utm_campaign=email&utm_source=sendgrid.com&_branch_match_id=565586146512692392#questions/15492038/
+Set the parent class to actor or something, save and compile, then reset the parent class back to the c++ class that isn't behaving and save, recompile, and the 
+detail panel should show up.
+
+110. 
