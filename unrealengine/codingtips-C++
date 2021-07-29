@@ -506,4 +506,4 @@ https://www.udemy.com/course/unrealcourse/learn/lecture/20648208#announcements
 84. You may want to be careful using editanywhere on the UPROPERTY() because it may allow you to edit pointers instead of its contents. You want to use visibleanywhere
 instead. See https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7816380#questions/5666021 time 14:00
 
-85. 
+85. Sometimes if the blueprints derived from c++ doesn't work, try deleting it and recreating it.
