@@ -325,4 +325,6 @@ refresher
 107. Displaying warning text, such as player leaving mission area https://www.udemy.com/course/unrealblueprint/learn/lecture/15481212#questions/9451354 in the UI
 using bindings / bind and the select / selector node.
 
-108. 
+108. Sometimes if the blueprints derived from c++ doesn't work, try deleting it and recreating it.
+
+109. 
