@@ -514,4 +514,6 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7816566?%24web_only
 Set the parent class to actor or something, save and compile, then reset the parent class back to the c++ class that isn't behaving and save, recompile, and the 
 detail panel should show up.
 
-87. 
+87. Using game instances in unreal engine https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7828834#questions
+
+88. 
