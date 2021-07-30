@@ -66,4 +66,11 @@ see https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7814240#questio
 
 18. Sometimes if the blueprints derived from c++ doesn't work, try deleting it and recreating it.
 
-19. 
+19. Using game instances in unreal engine https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7828834#questions
+
+20. Console commands https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7829432#questions
+
+21. Logging messages to game screen instead of console https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7829432#questions time 6:00 using Getengine
+GEngine commands.
+
+22. 
