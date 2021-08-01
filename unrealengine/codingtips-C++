@@ -526,4 +526,7 @@ GEngine commands.
 91. Fclass / fclassfinder help constructors need to be called in the function constructors or else you get errors. See
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions time 5:30
 
-92. 
+92. You may need to regenerate or create / add new dependencies / dependency in the build.cs or .ini files such as UMG. See
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions time 10:30
+
+93. 
