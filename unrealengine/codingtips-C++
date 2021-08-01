@@ -529,4 +529,6 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions t
 92. You may need to regenerate or create / add new dependencies / dependency in the build.cs or .ini files such as UMG. See
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions time 10:30
 
-93. 
+93. Unreal engine doesn't like hyphens -'s in their project names. Avoid using them for naming .uproject files.
+
+94. 
