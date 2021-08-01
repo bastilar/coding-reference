@@ -84,4 +84,7 @@ https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Ced
 
 26. Using fclass or fclassfinder to find blueprint classes in c++ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions time 1:40
 
-27. 
+27. Fclass / fclassfinder help constructors need to be called in the function constructors or else you get errors. See
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions time 5:30
+
+28. 
