@@ -523,4 +523,7 @@ GEngine commands.
 
 90. Using fclass or fclassfinder to find blueprint classes in c++ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions time 1:40
 
-91. 
+91. Fclass / fclassfinder help constructors need to be called in the function constructors or else you get errors. See
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions time 5:30
+
+92. 
