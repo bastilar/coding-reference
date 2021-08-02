@@ -106,4 +106,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7882724#questions/1
 
 35. Custom button images pictures and fonts / font changes https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7882724#questions/15517460 in UMG
 
-36. 
+36. To import fonts, simply download and drag and drop the .tff file (font file) into the content browser of unreal. A good idea to create a seperate folder for
+fonts. Get tons of great free fonts from font.google.com
+
+37. 
