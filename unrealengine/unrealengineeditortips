@@ -337,4 +337,6 @@ detail panel should show up.
 
 111. Using container widgets to make the main menu UMG work better https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7882290#questions
 
-112. 
+112. Buttons in UMG can only accept 1 child. Not sure if this is persistent in later unreal engine versions.
+
+113. 
