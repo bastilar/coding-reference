@@ -543,4 +543,8 @@ fonts. Get tons of great free fonts from font.google.com
 
 98. Binding widget and c++ to UMG https://benui.ca/unreal/ui-bindwidget/
 
-99. 
+99. When binding a widget automatically through c++ to a UMG object like a button, the names must match exactly from c++ to the object name in your umg. If you
+create a host button and use the name "Host" the button name in UMG must also exactly say "Host". See
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7885312#questions/15517460 time 7:30-8:00 +
+
+100. 
