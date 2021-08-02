@@ -538,4 +538,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7865940#questions t
 96. Using overlays and images to create nice looking menus in UMG https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7882290#questions/15517460 time 11:00
 Also how to get around the image covering all your ui elements like menu buttons.
 
-97. 
+97. To import fonts, simply download and drag and drop the .tff file (font file) into the content browser of unreal. A good idea to create a seperate folder for
+fonts. Get tons of great free fonts from font.google.com
+
+98. 
