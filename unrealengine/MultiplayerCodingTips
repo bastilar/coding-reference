@@ -132,4 +132,9 @@ via the interface since the interface is being shared between them all.
 
 44. How to create an unreal interface https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460 time 5:30
 
-45. 
+45. The first class that is created by default in UInterface is UINTERFACE minimal api
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460 time 6:30 
+This is done so that unreal can figure out where to inherit from 1 time and not cause "diamond inheritance" where you have a constant cycle of inheriting from other
+classes and causing a weird loop. Interface functions are implemented in the second function as shown by default IMenuInterface
+
+46. 
