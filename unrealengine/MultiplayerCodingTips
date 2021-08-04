@@ -144,4 +144,6 @@ for an implementation of a function. Example code:
 public:
 	virtual void Host() = 0;
 
-47. 
+47. Injecting the dependencies or dependency you created https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911624#questions/15517460
+
+48. 
