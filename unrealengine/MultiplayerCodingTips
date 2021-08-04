@@ -146,4 +146,7 @@ public:
 
 47. Injecting the dependencies or dependency you created https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911624#questions/15517460
 
-48. 
+48. Implementing interface menus and dependencies and what happens when you don't fully implement a method or call function that doesn't exist within your interface
+or called upon game instances/classes https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911624#questions/15517460 time 5:00
+
+49. 
