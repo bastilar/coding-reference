@@ -120,9 +120,9 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7885312#questions/1
 40. Binding c++ to a host button https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7890162#questions/15517460 ubutton / ubuttons
 
 41. How to create a seperate menu system plugin that cna be used across different games https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460
-aka using dependencies or invert /inverted dependencies
+aka using dependencies or invert /inverted dependencies dependency
 
 42. 2 types of dependencies exist, compile time dependencies that go one direction, and runtime dependencies that go both directions
-https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460 time 2:00
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460 time 2:00 dependency
 
 43. 
