@@ -149,4 +149,7 @@ public:
 48. Implementing interface menus and dependencies and what happens when you don't fully implement a method or call function that doesn't exist within your interface
 or called upon game instances/classes https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911624#questions/15517460 time 5:00
 
-49. 
+49. Deactivating the menu to allow us control of our characters again after joining a server. Probably have to do this after a player hits the "queue" button to remove
+their menu ui and allow them to retake control of their characters https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7915790#questions/15517460
+
+50. 
