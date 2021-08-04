@@ -122,4 +122,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7885312#questions/1
 41. How to create a seperate menu system plugin that cna be used across different games https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460
 aka using dependencies or invert /inverted dependencies
 
-42. 
+42. 2 types of dependencies exist, compile time dependencies that go one direction, and runtime dependencies that go both directions
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460 time 2:00
+
+43. 
