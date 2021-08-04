@@ -139,6 +139,9 @@ classes and causing a weird loop. Interface functions are implemented in the sec
 
 46. In order to call a function that is not implemented in our interface but rather have the game instance call its own implementation, you create a pure virtual void
 function https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460 time 9:15 where you tell c++ to override its default behavior to look
-for an implementation of a function.
+for an implementation of a function. Example code:
+
+public:
+	virtual void Host() = 0;
 
 47. 
