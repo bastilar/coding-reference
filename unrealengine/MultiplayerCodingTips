@@ -125,4 +125,9 @@ aka using dependencies or invert /inverted dependencies dependency
 42. 2 types of dependencies exist, compile time dependencies that go one direction, and runtime dependencies that go both directions
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460 time 2:00 dependency
 
-43. 
+43. Interfaces are what is used to bridge main menu dependencies with game intsances https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7911678#questions/15517460
+time 3:00 
+Main menu calls and inherits from the interface and the game instance calls and inherits from the interface. Then the main menu can refer to the game instance afterwards
+via the interface since the interface is being shared between them all.
+
+44. 
