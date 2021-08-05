@@ -155,4 +155,10 @@ their menu ui and allow them to retake control of their characters https://www.u
 50. Using submenus and menu switchers to create toggles between menus https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7916890#questions/15517460
 We use these instead of creating new menus to replace the old one because I guess it's less "heavy", whatever that means. Widget switcher
 
-51. 
+51. Editable text box actually refers to "text box" widget in unreal engine 4.26, NOT EDITABLE TEXT. This will clear up any weird "text box internal compile blueprint
+errors. Example:
+
+	UPROPERTY(meta = (BindWidget))
+	class UEditableTextBox* IPAddressField;
+
+52. 
