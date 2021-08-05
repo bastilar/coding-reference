@@ -153,6 +153,6 @@ or called upon game instances/classes https://www.udemy.com/course/unrealmultipl
 their menu ui and allow them to retake control of their characters https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7915790#questions/15517460
 
 50. Using submenus and menu switchers to create toggles between menus https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7916890#questions/15517460
-We use these instead of creating new menus to replace the old one because I guess it's less "heavy", whatever that means.
+We use these instead of creating new menus to replace the old one because I guess it's less "heavy", whatever that means. Widget switcher
 
 51. 
