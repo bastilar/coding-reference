@@ -170,4 +170,7 @@ having a menu show / pop up like in just about every video game out there.
 54. Protected: can be a good substituted for private: if you get compile errors stating "no access to private member variables" or something similar
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7928906#questions/15517460 time 16:40.
 
-55. 
+55. In case you need to call a non ufunction within a ufunction, the workaround is to create a local method that you call. That local method then calls the super class
+ufunction method you need https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7947920#questions/15517460 time 5:50
+
+56. 
