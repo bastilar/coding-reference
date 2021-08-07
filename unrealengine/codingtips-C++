@@ -559,4 +559,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7928906#questions/1
 102. In case you need to call a non ufunction within a ufunction, the workaround is to create a local method that you call. That local method then calls the super class
 ufunction method you need https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7947920#questions/15517460 time 5:50
 
-103. 
+103. When going from in game menu back to main menu interface, you need to re-implement the loadmain menu and place the implementations and declarations for the methods
+in the game instance class .h and .cpp https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7947920#questions/15517460 time 10:00
+
+104. 
