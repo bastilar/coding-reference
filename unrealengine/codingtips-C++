@@ -553,4 +553,7 @@ errors. Example:
 	UPROPERTY(meta = (BindWidget))
 	class UEditableTextBox* IPAddressField;
 	
-101. 
+101. Protected: can be a good substituted for private: if you get compile errors stating "no access to private member variables" or something similar
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7928906#questions/15517460 time 16:40
+
+102. 
