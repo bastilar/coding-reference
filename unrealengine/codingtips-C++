@@ -562,4 +562,7 @@ ufunction method you need https://www.udemy.com/course/unrealmultiplayer/learn/l
 103. When going from in game menu back to main menu interface, you need to re-implement the loadmain menu and place the implementations and declarations for the methods
 in the game instance class .h and .cpp https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7947920#questions/15517460 time 10:00
 
-104. 
+104. When going from in game menu back to main menu interface, you need to re-implement the loadmain menu and place the implementations and declarations for the methods
+in the game instance class .h and .cpp https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7947920#questions/15517460 time 10:00
+
+105. 
