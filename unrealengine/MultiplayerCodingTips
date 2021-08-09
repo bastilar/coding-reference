@@ -181,4 +181,7 @@ function.
 58. Adding the unreal engine online sub system module to your .build.cs file project 
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094624#questions/14480662 time 5:50
 
-59. 
+59. IOnlineSubsystem::Get is a useful singleton method for accessing and calling get methods on a particular online subsystem you want and don't need to worry about
+creating constructors for it https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094624#questions/14480662 time 7:40
+
+60. 
