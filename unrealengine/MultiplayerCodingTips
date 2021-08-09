@@ -178,4 +178,7 @@ ufunction method you need https://www.udemy.com/course/unrealmultiplayer/learn/l
 57. Epic games has unreal engine use an online sub system or online sub menu subsystem to help integrate unreal with steamworks sdk or other likely sdks of a similar
 function.
 
-58. 
+58. Adding the unreal engine online sub system module to your .build.cs file project 
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094624#questions/14480662 time 5:50
+
+59. 
