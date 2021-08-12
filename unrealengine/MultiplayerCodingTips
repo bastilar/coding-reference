@@ -211,4 +211,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions t
 uobjects. Garbage collection deletes all unused objects and that could easily compromise the online subsystem objects, which we obviously don't want.
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions time 10:00
 
-68. 
+68. Note garbage collection of memory cleaning is automatically enabled in unreal engine, so be careful when using UObjects on things that may need to hang by itself.
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions time 11:25
+
+69. 
