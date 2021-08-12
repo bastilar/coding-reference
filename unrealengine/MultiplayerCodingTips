@@ -187,4 +187,7 @@ creating constructors for it https://www.udemy.com/course/unrealmultiplayer/lear
 60. The unreal engine online subsystem is actually an INTERFACE and implements a default "Null" subsystem so you can test things or not crash your engine
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions
 
-61. 
+61. Auto can be used to auto declare a variable type if you have no idea what variable type you are declaring is
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions time 6:30
+
+62. 
