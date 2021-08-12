@@ -198,4 +198,8 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions t
 63. Memory stack re explained. https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions The important part is as function calls complete
 and "return" from whatever it is doing, it CLEARS the memory stack frame, which probably frees up memory and enhances performance.
 
-64. 
+64. Memory cleaning very important because you don't want memory leaks like in badly made games
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions Time 4:00 This can be avoided by cleaning and clearing pointers in memory
+otherwise you have memory leakage and therefore system halting lag.
+
+65. 
