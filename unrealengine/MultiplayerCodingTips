@@ -189,5 +189,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions
 
 61. Auto can be used to auto declare a variable type if you have no idea what variable type you are declaring is
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions time 6:30
+Likely a good idea not to auto everything as it will make code hard to read AND result in a performance drop/hit
+Auto is obviously very good for figuring out variable type syntaxes.
 
 62. 
