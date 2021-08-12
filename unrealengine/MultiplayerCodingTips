@@ -214,4 +214,8 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions t
 68. Note garbage collection of memory cleaning is automatically enabled in unreal engine, so be careful when using UObjects on things that may need to hang by itself.
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions time 11:25
 
-69. 
+69. Creating online sessions in c++ with session interfaces https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8111592#questions
+Includes are #include "OnlineSessionSettings.h"
+#include "Interfaces/OnlineSessionInterface.h"
+
+70. 
