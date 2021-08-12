@@ -195,4 +195,7 @@ Auto is obviously very good for figuring out variable type syntaxes.
 62. Shared pointers require apparently use of .IsValid() instead of the == or != when checking ot see if it's equal to something or null
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions time 11:00 near end of video
 
-63. 
+63. Memory stack re explained. https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions The important part is as function calls complete
+and "return" from whatever it is doing, it CLEARS the memory stack frame, which probably frees up memory and enhances performance.
+
+64. 
