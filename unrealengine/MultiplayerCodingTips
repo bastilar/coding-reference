@@ -204,4 +204,7 @@ otherwise you have memory leakage and therefore system halting lag.
 
 65. Memory reference counting https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions time 4:25
 
-66. 
+66. Reference counting apparently sucks, use garbage collection as an alternate memory method fix instead
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions time 7:00
+
+67. 
