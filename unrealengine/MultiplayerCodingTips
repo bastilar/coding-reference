@@ -207,4 +207,8 @@ otherwise you have memory leakage and therefore system halting lag.
 66. Reference counting apparently sucks, use garbage collection as an alternate memory method fix instead
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions time 7:00
 
-67. 
+67. Unreal online subsystem plugin interfaces use tsharedpointers / t shared pointers because you want to be able to use a reference set of pointers instead of
+uobjects. Garbage collection deletes all unused objects and that could easily compromise the online subsystem objects, which we obviously don't want.
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions time 10:00
+
+68. 
