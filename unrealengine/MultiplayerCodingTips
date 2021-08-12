@@ -192,4 +192,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions t
 Likely a good idea not to auto everything as it will make code hard to read AND result in a performance drop/hit
 Auto is obviously very good for figuring out variable type syntaxes.
 
-62. 
+62. Shared pointers require apparently use of .IsValid() instead of the == or != when checking ot see if it's equal to something or null
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8094648#questions time 11:00 near end of video
+
+63. 
