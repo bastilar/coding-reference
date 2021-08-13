@@ -225,3 +225,5 @@ Shared references, like references, cannot be null
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112478#questions time 5:30
 SessionSearch = MakeShareable(new FOnlineSessionSearch());
 SessionInterface->FindSessions(0, SessionSearch);
+
+72. 
