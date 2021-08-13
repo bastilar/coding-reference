@@ -231,4 +231,6 @@ SessionInterface->FindSessions(0, SessionSearch);
 73. SessionSettings.bShouldAdvertise = true; // make server publicly visible otherwise set to private game
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112498#questions time 3:00
 
-74. 
+74. Show ping to server https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112498#questions time 8:20
+
+75. 
