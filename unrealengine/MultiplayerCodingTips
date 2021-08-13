@@ -237,4 +237,3 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112498#questions t
 	UE_LOG(LogTemp, Warning, TEXT("Current server sessions: %s"), *SearchResult.GetSessionIdStr());
 	
 76. 
-			
