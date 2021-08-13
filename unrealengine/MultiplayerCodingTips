@@ -250,4 +250,7 @@ UMainMenu::UMainMenu(const FObjectInitializer & ObjectInitializer) : Super (Obje
 80. https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8127486#questions/3531198 time 15:00 getting a server list and then adding their names to the 
 actual server browser using tarrays / arrays.
 
-81. 
+81. Selecting servers from the browser list using T optional / toptional / t optionals 
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8135668#questions/3531198
+
+82. 
