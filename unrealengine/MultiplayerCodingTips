@@ -244,4 +244,7 @@ useful for any scrolling box and server browser listing.
 78. "no default constructor exists for class "UUserWidget" don't forgeto add Super method to tie a function to a parent class, sometimes a weird forgetting bug
 UMainMenu::UMainMenu(const FObjectInitializer & ObjectInitializer) : Super (ObjectInitializer)
 
-79. 
+79. Clearing server list children text objects https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8127486#questions/3531198 time 11:00
+	ServerList->ClearChildren(); // considered simple
+	
+80. 
