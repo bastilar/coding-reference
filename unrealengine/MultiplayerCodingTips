@@ -236,4 +236,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112498#questions t
 75. Don't forget the asterisk * if you're calling for the result of an FString!
 	UE_LOG(LogTemp, Warning, TEXT("Current server sessions: %s"), *SearchResult.GetSessionIdStr());
 	
-76. 
+76. Listing text blocks and widgets with an unreal engine scroll box https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8114238#questions
+useful for any scrolling box and server browser listing.
+
+77. 
