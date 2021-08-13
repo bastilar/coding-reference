@@ -218,4 +218,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8099224#questions t
 Includes are #include "OnlineSessionSettings.h"
 #include "Interfaces/OnlineSessionInterface.h"
 
-70. 
+70. Shared references and finding online sessions https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112478#questions
+Shared references, like references, cannot be null
+
+71. 
