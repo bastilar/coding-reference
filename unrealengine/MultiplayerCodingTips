@@ -233,4 +233,8 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112498#questions t
 
 74. Show ping to server https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112498#questions time 8:20
 
-75. 
+75. Don't forget the asterisk * if you're calling for the result of an FString!
+	UE_LOG(LogTemp, Warning, TEXT("Current server sessions: %s"), *SearchResult.GetSessionIdStr());
+	
+76. 
+			
