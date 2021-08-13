@@ -247,4 +247,7 @@ UMainMenu::UMainMenu(const FObjectInitializer & ObjectInitializer) : Super (Obje
 79. Clearing server list children text objects https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8127486#questions/3531198 time 11:00
 	ServerList->ClearChildren(); // considered simple
 	
-80. 
+80. https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8127486#questions/3531198 time 15:00 getting a server list and then adding their names to the 
+actual server browser using tarrays / arrays.
+
+81. 
