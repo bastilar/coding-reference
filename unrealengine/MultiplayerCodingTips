@@ -226,4 +226,6 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112478#questions t
 SessionSearch = MakeShareable(new FOnlineSessionSearch());
 SessionInterface->FindSessions(0, SessionSearch);
 
-72. 
+72. Modifying session server settings https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8112498#questions
+
+73. 
