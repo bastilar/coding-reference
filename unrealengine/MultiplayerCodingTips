@@ -241,4 +241,7 @@ useful for any scrolling box and server browser listing.
 
 77. Binding .cpp code to blueprint widgets refresher https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8114238#questions time 12:30
 
-78. 
+78. "no default constructor exists for class "UUserWidget" don't forgeto add Super method to tie a function to a parent class, sometimes a weird forgetting bug
+UMainMenu::UMainMenu(const FObjectInitializer & ObjectInitializer) : Super (ObjectInitializer)
+
+79. 
