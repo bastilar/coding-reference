@@ -255,4 +255,20 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8135668#questions/3
 
 82. Enabling steam subsystem plugin in unreal engine plugin https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8157686#questions/5745599
 
-83. 
+83. Sample DefaultEngine.ini settings to append at end of file:
+[/Script/Engine.GameEngine]
++NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="OnlineSubsystemSteam.SteamNetDriver",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
+
+[OnlineSubsystem]
+DefaultPlatformService=Steam
+
+[OnlineSubsystemSteam]
+bEnabled=true
+SteamDevAppId=480
+
+[/Script/OnlineSubsystemSteam.SteamNetDriver]
+NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"
+
+Note SteamDevAppId=480 is spacewars, the only openly available free app for steam. You need to replace 480 with your own app id that you paid the $100 fee for
+
+84. 
