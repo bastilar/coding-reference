@@ -297,4 +297,7 @@ void UMainMenu::UpdateChildren()
 88. Instead of using if statements, you can use a condensed version of the it by using the "short circuit" method mentioned above in #87. In an and && situation
 if one item is false, starting from the left, the whole thing is false and will return out quickly. Or's || probably require all false for the return early.
 
-89. 
+89. End result should be 4 conditions of hovered and pre selected rows, nice visual colors 
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8164906#questions/3531198 time 15:00 near end
+
+90. 
