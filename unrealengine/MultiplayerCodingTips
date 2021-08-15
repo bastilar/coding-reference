@@ -300,4 +300,6 @@ if one item is false, starting from the left, the whole thing is false and will 
 89. End result should be 4 conditions of hovered and pre selected rows, nice visual colors 
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8164906#questions/3531198 time 15:00 near end
 
-90. 
+90. Creating struct / structs with USTRUCT() https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8165758#questions/3531198 time 5:30
+
+91. 
