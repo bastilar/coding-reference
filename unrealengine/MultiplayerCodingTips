@@ -294,4 +294,7 @@ void UMainMenu::UpdateChildren()
 	}
 }
 
-88. 
+88. Instead of using if statements, you can use a condensed version of the it by using the "short circuit" method mentioned above in #87. In an and && situation
+if one item is false, starting from the left, the whole thing is false and will return out quickly. Or's || probably require all false for the return early.
+
+89. 
