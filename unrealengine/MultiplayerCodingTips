@@ -311,4 +311,7 @@ time 6:15 but use the option clipping -> clipping set to bounds
 93. In case a variable is not showing up in unreal umg details and there's no checkbox or field, check the source widget you're calling and make sure the instance
 editable check box is checked and enabled. I'ts turned off by default as of ue 4.26.2
 
-94. 
+94. How to set custom server names settings in unreal engine https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8177044#questions/3531198 instead of using
+its self generated long weird random names
+
+95. 
