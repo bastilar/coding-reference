@@ -276,4 +276,7 @@ Note SteamDevAppId=480 is spacewars, the only openly available free app for stea
 85. SessionSearch->MaxSearchResults = 100; //fixes bug where your own game doesn't show up when hosting your own server
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8158550#questions time 11:00
 
-86. 
+86. Row selection in lists https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8164906#questions/3531198
+How to make hover select, color change look nice when browser the server list
+
+87. 
