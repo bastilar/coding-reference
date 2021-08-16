@@ -317,4 +317,9 @@ its self generated long weird random names
 95. Why you use super https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8180264#questions/3531198 time 0:50 seconds
 Without super, the function calls the parent class without implementing your own override version of the same function method name
 
-96. 
+96. Use seamless travel as it prevents freezing on game clients when transitioning maps.
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8180264#questions/3531198 time 5:00
+Unreal will load a small transition map and then while you're in that preloaded map your game client loads the actual next level big map and transition to that, 
+giving the illusion of seamless travel.
+
+97. 
