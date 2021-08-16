@@ -314,4 +314,7 @@ editable check box is checked and enabled. I'ts turned off by default as of ue 4
 94. How to set custom server names settings in unreal engine https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8177044#questions/3531198 instead of using
 its self generated long weird random names
 
-95. 
+95. Why you use super https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8180264#questions/3531198 time 0:50 seconds
+Without super, the function calls the parent class without implementing your own override version of the same function method name
+
+96. 
