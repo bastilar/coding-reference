@@ -393,4 +393,9 @@ back onto the client once the updates flow back into the internet data stream.
 Small errors lead to large errors, just like space travel requires extremely precise, multiple decimals because the small errors compound very quickly over a large
 enough time and value period. Error magnification
 
-122. 
+122. Ways to fix de sync and inconsistent rotation / location on the server https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8497174#questions/3531198 
+time 9:30.
+1. Synchonize velocity from the server but doesnt fix rotation desync errors
+2. Overwrite location and rotation from the server but this can cause rubberbanding to the extreme because your client thinks I'm driving in the corner but server
+says "Nope, you actually crashed into a river, here you go!"
+3. 
