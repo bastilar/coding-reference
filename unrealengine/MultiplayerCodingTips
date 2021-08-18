@@ -383,4 +383,8 @@ How clients update each other and to server.
 
 118. Simulated proxy is when clients attempt to figure out where objects and actors should be but derive ALL 100% data from the authority server.
 
-119. 
+119. Autonomous proxy is when clients also derive data from their own player controller / playercontroller and can update thigns slightly before the server does,
+ensuring a smooth experience. I guess desync may occur when the server is returning or receiving different data compared to the client and then forces a rubberband
+back onto the client once the updates flow back into the internet data stream.
+
+120. 
