@@ -398,4 +398,7 @@ time 9:30.
 1. Synchonize velocity from the server but doesnt fix rotation desync errors
 2. Overwrite location and rotation from the server but this can cause rubberbanding to the extreme because your client thinks I'm driving in the corner but server
 says "Nope, you actually crashed into a river, here you go!"
-3. 
+3. Simulate with a fixed time step however it's very hard to implement but is also the best solution. This makes it so both client and server both have to deal with
+the same server.
+
+123. 
