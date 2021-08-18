@@ -378,4 +378,7 @@ Server_MoveRight_Implementation();
 116. Using return FMath::Abs(float Value) <= 1; or absolute value to return 1 and between -1 and 1 
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3531198 time 11:00
 
-117. 
+117. AutonomousProxy / autonomous proxy vs simulatedproxy / simulated proxy https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8298684#questions/3531198
+How clients update each other and to server.
+
+118. 
