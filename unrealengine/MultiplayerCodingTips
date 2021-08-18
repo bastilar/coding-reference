@@ -389,4 +389,8 @@ back onto the client once the updates flow back into the internet data stream.
 
 120. Simulation server errors and why server desync occurs https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8497174#questions/3531198
 
-121. 
+121. Delta v and location rotation errors graphed https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8497174#questions/3531198 time 7:00
+Small errors lead to large errors, just like space travel requires extremely precise, multiple decimals because the small errors compound very quickly over a large
+enough time and value period.
+
+122. 
