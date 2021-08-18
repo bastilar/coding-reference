@@ -408,6 +408,7 @@ errors
 
 125. Triggering code on replication and smoothing out lag glitching https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8508254#questions/3531198
 
-126. Smoothing out autonomous proxies further https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8547962#questions/3531198
+126. Smoothing out autonomous proxies further https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8547962#questions/3531198 by replicating velocity
+and other data to the client from authority server.
 
 127. 
