@@ -375,4 +375,7 @@ WithValidation is required to ensure server security
 Server_MoveForward_Validate()
 Server_MoveRight_Implementation();
 
-116. 
+116. Using return FMath::Abs(float Value) <= 1; or absolute value to return 1 and between -1 and 1 
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3531198 time 11:00
+
+117. 
