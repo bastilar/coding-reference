@@ -381,4 +381,6 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3
 117. AutonomousProxy / autonomous proxy vs simulatedproxy / simulated proxy https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8298684#questions/3531198
 How clients update each other and to server.
 
-118. 
+118. Simulated proxy is when clients attempt to figure out where objects and actors should be but derive ALL 100% data from the authority server.
+
+119. 
