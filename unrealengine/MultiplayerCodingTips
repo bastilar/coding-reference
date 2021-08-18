@@ -371,4 +371,8 @@ void Server_MoveForward(float Value);
 
 WithValidation is required to ensure server security
 
-115. 
+115. https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3531198 time 8:00
+Server_MoveForward_Validate()
+Server_MoveRight_Implementation();
+
+116. 
