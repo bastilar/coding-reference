@@ -401,4 +401,7 @@ says "Nope, you actually crashed into a river, here you go!"
 3. Simulate with a fixed time step however it's very hard to implement but is also the best solution. This makes it so both client and server both have to deal with
 the same server.
 
-123. 
+123. Overwrite location and rotation from server https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8507774#questions/3531198 method of removing desync
+errors
+
+124. 
