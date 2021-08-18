@@ -387,4 +387,6 @@ How clients update each other and to server.
 ensuring a smooth experience. I guess desync may occur when the server is returning or receiving different data compared to the client and then forces a rubberband
 back onto the client once the updates flow back into the internet data stream.
 
-120. 
+120. Simulation server errors and why server desync occurs https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8497174#questions/3531198
+
+121. 
