@@ -367,6 +367,6 @@ void ServerRPCFunction(); when called from client calls the body in the server f
 
 114. https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3531198 reliable parameter explained 5:45
 UFUNCTION(Server, Reliable) //reliable ensures that this gets called on the client or server since default is no reliable)
-void Server_MoveForward();
+void Server_MoveForward(float Value);
 
 115. 
