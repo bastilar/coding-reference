@@ -362,7 +362,11 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8264372#questions/3
 112. Server functions and cheat protection https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3531198 multiplayer
 
 113. RPCs in unreal engine explained remote procedure calls https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3531198 time 3:45
-UNFUNCTION()
+UFUNCTION()
 void ServerRPCFunction(); when called from client calls the body in the server for this function.
 
-114. 
+114. https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8286708#questions/3531198 reliable parameter explained 5:45
+UFUNCTION(Server, Reliable) //reliable ensures that this gets called on the client or server since default is no reliable)
+void Server_MoveForward();
+
+115. 
