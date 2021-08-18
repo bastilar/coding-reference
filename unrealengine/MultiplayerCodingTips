@@ -404,4 +404,6 @@ the same server.
 123. Overwrite location and rotation from server https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8507774#questions/3531198 method of removing desync
 errors
 
-124. 
+124. As of unreal engine 4.24, you use #include "Net/UnrealNetwork.h" for the network include file
+
+125. 
