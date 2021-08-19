@@ -437,6 +437,7 @@ to get the data packets that were dropped. Not good.
 
 132. Replaying autonomous moves to compensate for lag https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8574326#questions/3531198
 
-133. Part 1 of the real way to sync client and server, replicating structs https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8606996#questions/3531198
+133. Part 1 of the real way to sync client and server using the best method,
+replicating structs https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8606996#questions/3531198
 
 134. 
