@@ -412,4 +412,11 @@ errors
 and other data to the client from authority server. We also need to replicate transformation and rotation to depict accurate turning of objects, vehicles, and/or
 actors.
 
-127. 
+127. To replicate a uproperty use:
+UPROPERTY(Replicated)
+float Throttle;
+
+UPROPERTY(Replicated)
+float SteeringThrow;
+
+128. 
