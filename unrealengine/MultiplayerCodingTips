@@ -431,4 +431,8 @@ source https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Networkin
 130. Packets and data sent over the internet overview, queues, and data overflow https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8555696#questions/3531198
 and dropping packets due to jumbo packets or too much data. time 2:30
 
-131. 
+131. Reliable parameter in the RPC is in unreal engine makes sure that the packets that get dropped attempt to get resent over the network or internet
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8555696#questions/3531198 time 7:55. Without reliable specifier, the game engine won't bother trying
+to get the data packets that were dropped. Not good.
+
+132. 
