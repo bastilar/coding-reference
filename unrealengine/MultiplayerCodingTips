@@ -428,4 +428,7 @@ source https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Networkin
 
 129. What really is lag? https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8555696#questions/3531198
 
-130. 
+130. Packets and data sent over the internet overview, queues, and data overflow https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8555696#questions/3531198
+and dropping packets due to jumbo packets or too much data. time 2:30
+
+131. 
