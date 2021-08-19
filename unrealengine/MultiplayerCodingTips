@@ -435,4 +435,6 @@ and dropping packets due to jumbo packets or too much data. time 2:30
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8555696#questions/3531198 time 7:55. Without reliable specifier, the game engine won't bother trying
 to get the data packets that were dropped. Not good.
 
-132. 
+132. Replaying autonomous moves to compensate for lag https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8574326#questions/3531198
+
+133. 
