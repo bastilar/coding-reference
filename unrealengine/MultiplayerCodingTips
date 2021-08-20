@@ -449,6 +449,7 @@ replicating structs https://www.udemy.com/course/unrealmultiplayer/learn/lecture
 137. Improving, smoothing, and fixing simulated proxy https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8668950#questions/3531198 even further beyond.
 
 138. Remote roles in authority and autonomous proxy /  autonomous proxies https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8668950#questions/3531198
-time 4:15
+time 4:15 Note that in later versions of unreal, it is better ot use IsLocallyControlled() method instead of GetRemoteRole == ROLE_SimulatedProxy to avoid
+server glitching and deprecation
 
 139. 
