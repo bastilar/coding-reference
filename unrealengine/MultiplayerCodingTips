@@ -461,4 +461,6 @@ server glitching and deprecation
 142. Attaching a c++ component to your refactored .cpp and .h header files https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8677116#questions/3531198
 time 11:00 using CreateDefaultSuboject<nameofyourc++componentgoeshere>(TEXT("NameTheComponentYouWantToUseOftenTheSameObjectTypefoundInThe<>");
 
+You can then go NameTheComponentYouWantEtc->callfunctionmethodnameofyourchoice();
+
 143. 
