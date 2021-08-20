@@ -462,5 +462,12 @@ server glitching and deprecation
 time 11:00 using CreateDefaultSuboject<nameofyourc++componentgoeshere>(TEXT("NameTheComponentYouWantToUseOftenTheSameObjectTypefoundInThe<>");
 
 You can then go NameTheComponentYouWantEtc->callfunctionmethodnameofyourchoice();
+You'll also need to create setters and getter functions that basically call and return themselves the values or parameters you're passing through.
+
+.h will have:
+void SetThrottle (float Val) { return Val; };
+
+.cpp will have:
+MovementComponent->SetThrottle(Value);
 
 143. 
