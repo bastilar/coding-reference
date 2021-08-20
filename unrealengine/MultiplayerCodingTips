@@ -477,4 +477,7 @@ Also, the component must be UPROPERTY(VisibleAnywhere) instead of
 UPROPERTY(EditAnywhere) because the unreal editor will show different options and not show replicate option check / tick box. Also, it is a pointer so you don't
 want to edit the pointer where its pointing to or its contents, you just want to see what is inside it.
 
-144. 
+144. Inside the component that you want to default to replicate true, use SetIsReplcated(true); in your constructor
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8677300#questions/3531198 time 6:20
+
+145. 
