@@ -470,4 +470,11 @@ void SetThrottle (float Val) { return Val; };
 .cpp will have:
 MovementComponent->SetThrottle(Value);
 
-143. 
+143. Components do not replicate by default and must be set to replicate in blueprints via the attached actor or object that contains said component
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8677300#questions/3531198 time 3:00
+
+Also, the component must be UPROPERTY(VisibleAnywhere) instead of
+UPROPERTY(EditAnywhere) because the unreal editor will show different options and not show replicate option check / tick box. Also, it is a pointer so you don't
+want to edit the pointer where its pointing to or its contents, you just want to see what is inside it.
+
+144. 
