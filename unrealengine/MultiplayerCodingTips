@@ -483,4 +483,7 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8677300#questions/3
 145. Linear Interpolation explained https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784088#questions/3531198 for client smoothing over internet network
 play
 
-146. 
+146. Interpolation is an attempt to get the steps between 2 values and smooth out the transition between these two values over time.
+https://www.reddit.com/r/unrealengine/comments/7rsypp/what_is_interpolation_with_respect_to_ue4/
+
+147. 
