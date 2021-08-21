@@ -480,4 +480,7 @@ want to edit the pointer where its pointing to or its contents, you just want to
 144. Inside the component that you want to default to replicate true, use SetIsReplcated(true); in your constructor
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8677300#questions/3531198 time 6:20
 
-145. 
+145. Linear Interpolation explained https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784088#questions/3531198 for client smoothing over internet network
+play
+
+146. 
