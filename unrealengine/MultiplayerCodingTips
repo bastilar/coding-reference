@@ -488,4 +488,8 @@ https://www.reddit.com/r/unrealengine/comments/7rsypp/what_is_interpolation_with
 
 147. A better way to do client interpolation using FMath::Lerp https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3531198
 
-148. 
+148. As of unreal engine 4.25 or higher you need to use SetReplicateMovement(false); if you want to disable movement replication.
+It must go in BeginPlay() now.
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3531198 time 2:15 as it is now a private function
+
+149. 
