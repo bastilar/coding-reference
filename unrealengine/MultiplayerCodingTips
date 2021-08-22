@@ -495,4 +495,8 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3
 149. Using switch statements instead of a bunch of if else statements https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3531198
 time 10:00 It is recommended to make switch statements the only thing inside a function for keeping code clean and because switch statements use the break; function
 
-150. 
+150. Be wary of taking large numbers and dividing it by very small numbers https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3531198
+time 14:00. It will likely result in very large results that exceeded the digit limit of your int or float and creating compounding errors or cascade failures.
+Watch those divide by zeroes, too!
+
+151. 
