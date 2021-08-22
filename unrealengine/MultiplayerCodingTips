@@ -486,4 +486,6 @@ play
 146. Interpolation is an attempt to get the steps between 2 values and smooth out the transition between these two values over time.
 https://www.reddit.com/r/unrealengine/comments/7rsypp/what_is_interpolation_with_respect_to_ue4/
 
-147. 
+147. A better way to do client interpolation using FMath::Lerp https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3531198
+
+148. 
