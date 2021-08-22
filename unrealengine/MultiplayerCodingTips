@@ -505,4 +505,7 @@ FMath::LerpStable is a safer way to use lerp.
 152. Using hermite cubic spline interpolation for even smoother client interpolation (to fix random jerking / jarring around)
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8802634#questions/3531198
 
-153. 
+153. Polynomials such as linear, quadratic, and cubic formulas
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8802634#questions/3531198 time 3:00
+
+154. 
