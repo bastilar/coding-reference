@@ -511,5 +511,6 @@ https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8802634#questions/3
 Linear means the y axis crosses the x-axis once, quadratic crosses the x-axis twice, and cubic crosses the x-axis 3 times.
 
 154. Using Hermite cubic spline interpolation part 2 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8802806#questions/3531198
+FMath::CubicInterp
 
 155. 
