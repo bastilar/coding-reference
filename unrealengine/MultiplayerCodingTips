@@ -517,5 +517,9 @@ FMath::CubicInterp
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8809152#questions/3531198
 
 156. Advanced cheat protection https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8817636#questions/3531198
+bool IsValid() const
+{
+FMath::Abs(Throttle) <= 1; //absolute value makes sure a number is 1, or in this case between -1 and 1. Anything beyond it's not valid
+}
 
 157. 
