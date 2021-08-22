@@ -500,4 +500,6 @@ time 14:00. It will likely result in very large results that exceeded the digit 
 Watch those divide by zeroes, too!
 FMath::LerpStable is a safer way to use lerp.
 
-151. 
+151. FQuat::Slerp is used to do rotation interpolation https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784190#questions/3531198
+
+152. 
