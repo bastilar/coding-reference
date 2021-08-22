@@ -493,6 +493,6 @@ It must go in BeginPlay() now.
 https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3531198 time 2:15 as it is now a private function
 
 149. Using switch statements instead of a bunch of if else statements https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784164#questions/3531198
-time 10:00
+time 10:00 It is recommended to make switch statements the only thing inside a function for keeping code clean and because switch statements use the break; function
 
 150. 
