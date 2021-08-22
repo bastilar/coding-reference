@@ -502,4 +502,7 @@ FMath::LerpStable is a safer way to use lerp.
 
 151. FQuat::Slerp is used to do rotation interpolation https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8784190#questions/3531198
 
-152. 
+152. Using hermite cubic interpolation for even smoother client interpolation (to fix random jerking around)
+https://www.udemy.com/course/unrealmultiplayer/learn/lecture/8802634#questions/3531198
+
+153. 
