@@ -40,4 +40,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 13. Don't forget to check the box on cameras to "Use Pawn Control Rotation" to true so you can turn your character around with your mouse
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20594488#overview time 37:00
 
-14. 
+14. Changing the character visibility so only you can see it as first person perspective
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20594488#overview time 39:00
+Use the checkbox "Only Owner See" under rendering in blueprints.
+
+15. 
