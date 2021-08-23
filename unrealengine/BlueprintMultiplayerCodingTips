@@ -10,4 +10,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 4. Character movement components are set to replicate by default
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20593474#overview 21:15
 
-5. 
+5. Fix up redirections in folder can be useful if you move stuff around and the path files get messed up in code or folder editor view
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20593474#overview time 27:30
+Access this function by right clicking on the content folder on the lower left corner and select "Fix up redirections in folder"
+
+6. 
