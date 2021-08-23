@@ -18,4 +18,8 @@ Access this function by right clicking on the content folder on the lower left c
 that come from the migration / migrate method https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20593474#overview
 time 35:00
 
-7. 
+7. Importing textures or objects may mess with default settings 
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20593474#overview time 37:00
+Set compression to default and group to UI or world or applicable then click save. Should fix it and make it look normal again
+
+8. 
