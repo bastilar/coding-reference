@@ -50,4 +50,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 16. Refresh, getting direction and speed from event graph to feed into blend space animation
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20594562#overview time 16:30
 
-17. 
+17. The pawn blueprint class that contains the actual data of our character such as speed, direction, and weapon etc, will need to be the cast target from
+the animation blueprint source in order to get the data we need to feed into the blend spaces
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20594562#overview time 20:00
+
+18. 
