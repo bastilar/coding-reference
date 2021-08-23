@@ -25,4 +25,7 @@ Set compression to default and group to UI or world or applicable then click sav
 8. Animation blueprint setup refresher https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20594488#overview
 Also, how to create a first person point of view shooter
 
-9. 
+9. As long as character models are about the same size? You would only need 1 default skeleton and physics skeleton
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20594488#overview time 13:00
+
+10. 
