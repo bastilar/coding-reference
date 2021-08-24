@@ -60,4 +60,6 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 19. Creating the hud blueprint and assigning the hud to the gamemode
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20594562#overview time 36:00
 
+***Make sure you're editing in the HUD blueprint and NOT the gamemode blueprint, otherwise you won't see the correct pins and variables and functions!
+
 20. 
