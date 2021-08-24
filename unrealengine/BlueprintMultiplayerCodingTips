@@ -69,6 +69,6 @@ time 51:45
 
 21. Animation blending parts by combat and non-combat with seperate body parts
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595030#questions time 4:30
-We use layered blend per bone node in animation /anim locomotion state.
+We use layered blend per bone node in animation /anim locomotion state. We add bone names under the layer setup after selecting the layered blend per bone node
 
 22. 
