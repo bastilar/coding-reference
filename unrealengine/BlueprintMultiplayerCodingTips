@@ -75,5 +75,6 @@ We use layered blend per bone node in animation /anim locomotion state. We add b
 
 23. Using ratios to queue up the next animation sequence
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595030#questions time 11:20
+This doesn't seem to work in unreal engine 4.27
 
 24. 
