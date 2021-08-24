@@ -71,4 +71,6 @@ time 51:45
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595030#questions time 4:30
 We use layered blend per bone node in animation /anim locomotion state. We add bone names under the layer setup after selecting the layered blend per bone node
 
-22. 
+22. When adding animations and blends, don't forget to uncheck loop animation unless you want it looping all the time.
+
+23. 
