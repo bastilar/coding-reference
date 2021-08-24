@@ -73,4 +73,7 @@ We use layered blend per bone node in animation /anim locomotion state. We add b
 
 22. When adding animations and blends, don't forget to uncheck loop animation unless you want it looping all the time.
 
-23. 
+23. Using ratios to queue up the next animation sequence
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595030#questions time 11:20
+
+24. 
