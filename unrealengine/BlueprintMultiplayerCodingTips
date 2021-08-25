@@ -132,4 +132,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 40. Multiplayer health and damage and showing enemy health bar above target you're shooting at
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686
 
-41. 
+41. Container widgets are highly useful for adding and removing UI elements to your hud without having to recreate entire blueprints. The container widget
+will print everything you want like presto
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686 time 11:00
+
+42. 
