@@ -111,4 +111,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 33. Make sure the third person weapon mesh has its replicate set to replicates true
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595082#questions/13536686 time 56:00
 
-34. 
+34. RPC or remote procedure calls explained for firing weapons. Clients must ask server authority to do stuff for them
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595552#questions/13536686 time 3:00
+
+35. 
