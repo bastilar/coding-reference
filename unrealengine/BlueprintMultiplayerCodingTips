@@ -114,4 +114,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 34. RPC or remote procedure calls explained for firing weapons. Clients must ask server authority to do stuff for them
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595552#questions/13536686 time 3:00
 
-35. 
+35. Physics assets explained https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595552#questions/13536686
+time 23:00 Perhaps this also covers "hit boxes" where collisions are setup so bullets or projectiles  / explosions can interact and deal damage etc
+
+36. 
