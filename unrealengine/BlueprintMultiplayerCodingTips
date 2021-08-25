@@ -101,4 +101,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 30. Adding weapon blueprints starting with a master weapon blueprint to create child / children weapon blueprints from
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595082#questions/13536686 time 37:20
 
-31. 
+31. Using 1 skeletal mesh for all your characters helps reduce redundancy, as one change or addition affects all your characters and skins
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595082#questions/13536686 time 41:00
+Could be useful later since we're adding a bunch of characters later on.
+
+32. 
