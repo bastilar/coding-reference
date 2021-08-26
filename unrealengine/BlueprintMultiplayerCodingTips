@@ -155,4 +155,6 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 47. Adding the health bar display above the character in viewport blueprints by adding a widget component
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686 time 45:40
 
-48. 
+48. Remember to set the widget collisions to none / no collision and character can step on it option to unchecked or off.
+
+49. 
