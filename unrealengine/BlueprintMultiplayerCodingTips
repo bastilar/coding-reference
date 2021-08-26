@@ -164,4 +164,7 @@ time 49:40.
 50. Further improving the player tag using blueprint class Player State / PlayerState
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions/15109076
 
-51. 
+51. Player state is the first time the game will set the name of the local player
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions/15109076 time 10:00
+
+52. 
