@@ -201,4 +201,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 
 62. Weapon Switching https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595676#questions Time 30:10
 
-63. 
+63. Multicast logic explained. When a client toggles his weapon switch, everyone looking at him also needs to see that happen
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595676#questions time 33:00
+
+64. 
