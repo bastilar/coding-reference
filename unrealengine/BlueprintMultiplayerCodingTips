@@ -143,4 +143,7 @@ current health is replicated but will be changed to rep notify later as more gam
 ***** 43. When you need to call a function or variable ref from another blueprint and communicate to it, you need to do a cast to call.
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686 time 17:40
 
-44. 
+44. Applying damage to characters https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686
+time 24:00
+
+45. 
