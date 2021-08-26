@@ -167,4 +167,6 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 51. Player state is the first time the game will set the name of the local player
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions/15109076 time 10:00
 
-52. 
+52. The two circle or sphere objects on the blueprint node indicate that it is being replicated to the server and clients in some form.
+
+53. 
