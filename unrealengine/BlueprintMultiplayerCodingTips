@@ -177,4 +177,9 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 
 55. You can comment color change your blueprint comments. Select the comment box and on the right hand side change the color tint.
 
-56. 
+56. When promoting a class variable in spawn actor node to variable, you'll need to turn the variable back into the specific class variable reference, often purple
+color. In this case, bpweaponmaster class ref
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions time 38:00 and then rehook the pin. Also make sure
+the self reference pins remain connected.
+
+57. 
