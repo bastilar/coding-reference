@@ -172,4 +172,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 53. Don't forget to check a widget object to "is variable" if you plan on modifying it in a blueprint elsewhere at a later time
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions/15109076 13:30
 
-54. 
+54. What actually happens in onrepnotify / on rep notify in unreal engine 4.15 vs. newer engine versions
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions/15109076
+
+55. 
