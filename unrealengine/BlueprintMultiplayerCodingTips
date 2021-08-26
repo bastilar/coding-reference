@@ -136,4 +136,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 will print everything you want like presto
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686 time 11:00
 
-42. 
+42. Binding the health bar and health variable from character master blueprint
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686 time 17:00
+current health is replicated but will be changed to rep notify later as more game mechanics are put in.
+
+43. 
