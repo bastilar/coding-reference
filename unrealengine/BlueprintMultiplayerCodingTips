@@ -169,4 +169,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 
 52. The two circle or sphere objects on the blueprint node indicate that it is being replicated to the server and clients in some form.
 
-53. 
+53. Don't forget to check a widget object to "is variable" if you plan on modifying it in a blueprint elsewhere at a later time
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions/15109076 13:30
+
+54. 
