@@ -152,7 +152,7 @@ time 28:00
 46. Clamping health at max health and zero health to prevent weirdo bugs
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686 time 31:00
 
-47. Adding the health bar display above the character in viewport blueprints
+47. Adding the health bar display above the character in viewport blueprints by adding a widget component
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686 time 45:40
 
 48. 
