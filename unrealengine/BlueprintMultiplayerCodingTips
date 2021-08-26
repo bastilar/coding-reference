@@ -157,4 +157,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 
 48. Remember to set the widget collisions to none / no collision and character can step on it option to unchecked or off.
 
-49. 
+49. Using on rep notify / onrepnotify to modify the current health widget above the player's head. The on rep notify / onrepnotify is fired off whenever the
+current health gets changed https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595584#questions/13536686
+time 49:40.
+
+50. 
