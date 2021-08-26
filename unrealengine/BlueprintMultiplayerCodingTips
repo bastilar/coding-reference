@@ -182,4 +182,9 @@ color. In this case, bpweaponmaster class ref
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595628#questions time 38:00 and then rehook the pin. Also make sure
 the self reference pins remain connected.
 
-57. 
+***** You will need to take the variable from above, cast to the object or class you want, then take that cast and feed it into the class of the spawn actor class
+input node pin. Then rehook up all the pins that broke.
+
+57. You can re-arrange variables in your blueprints so their order shows up differently in your class defaults tab for the blueprint.
+
+58. 
