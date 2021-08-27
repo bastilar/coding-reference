@@ -238,4 +238,8 @@ time 22:50 No collisions, cannot step on by characters, does not generate overla
 73. Custom channels for object blocking such as projectiles
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 23:40
 
-74. 
+74. To prevent the capsule component of a character from getting hit with a projectile instead of the character mesh itself, we go to collisions, and under custom
+settings, we check the box "ignore all" for "projectiles", the same object channel we created previously
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 26:00
+
+75. 
