@@ -232,4 +232,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 71. Always make sure to enable replicates defaults in class defaults settings esp. replicates movement and replicates
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 20:15
 
-72. 
+72. Disable collisions on the mesh projectile https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions
+time 22:50 No collisions, cannot step on by characters, does not generate overlap events, etc.
+
+73. 
