@@ -218,4 +218,8 @@ There is an order to loading objects and if you call functions on objects before
 67. Adding projectile weapons and child weapon meshes
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions 
 
-68. 
+68. Now that we created child blueprints of the parent master weapons, we can assign them simply to the bp character master blueprint for primary and secondary
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 6:40 This is how we add new weapons
+and skins and stuff probably
+
+69. 
