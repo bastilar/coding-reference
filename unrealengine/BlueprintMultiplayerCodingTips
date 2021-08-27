@@ -261,4 +261,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 will do stupid things like fire in the air and stuff, causing server lag if too many fools do it at once. The setting is "initial life span" under actor class defaults
 in blueprints. Its default is set to zero which is generally a bad thing to have.
 
-80. 
+80. Applying damage to from projectiles to hit actors 
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 1h 12m
+
+81. 
