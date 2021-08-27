@@ -256,4 +256,8 @@ as well as other players https://www.udemy.com/course/unreal-engine-4-multiplaye
 
 First person meshes projectiles need to be set to only owner see.
 
-79. 
+79. Good idea to set projectile lifetime duration 
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 1h 3m 45s because idiots in your game
+will do stupid things like fire in the air and stuff, causing server lag if too many fools do it at once.
+
+80. 
