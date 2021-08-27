@@ -235,4 +235,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 72. Disable collisions on the mesh projectile https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions
 time 22:50 No collisions, cannot step on by characters, does not generate overlap events, etc.
 
-73. 
+73. Custom channels for object blocking such as projectiles
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 23:40
+
+74. 
