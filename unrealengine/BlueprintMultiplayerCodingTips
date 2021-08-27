@@ -251,4 +251,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 77. How leader boards and who killed who with what weapon is originated as logic
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 36:50
 
-78. 
+78. Don't forget to check owner no see on third person meshes projectiles so the first person camera owner doesn't see it but obviously the world needs to see it
+as well as other players https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions time 1h 1m 15s
+
+79. 
