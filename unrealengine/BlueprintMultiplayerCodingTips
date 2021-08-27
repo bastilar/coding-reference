@@ -215,4 +215,7 @@ Also may need to set server custom events to reliable checkbox true.
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595676#questions time 1hour 20minutes
 There is an order to loading objects and if you call functions on objects before they even spawn, those functions won't work.
 
-67. 
+67. Adding projectile weapons and child weapon meshes
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595752#questions 
+
+68. 
