@@ -207,4 +207,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 64. Dealing with shadows appearing on invisible weapons
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595676#questions time 53:00
 
-65. 
+65. Perhaps adding a 0.5 to 1 second delay before calling multicast events may alleviate shadow problems spawning when they shouldn't be
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20595676#questions time 1hour 19minutes
+Also may need to set server custom events to reliable checkbox true.
+
+66. 
