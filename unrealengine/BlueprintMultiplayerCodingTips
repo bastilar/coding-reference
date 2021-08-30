@@ -282,4 +282,7 @@ rather than the blueprint code itself and avoid getting tunnel visioned. What is
 Useful for controlling and picking which animations to play say, during weapon switching. A supposed simpler system exists if you have "proper animations" already
 in place.
 
-87. 
+87. Accessing animation enumeration sets from blueprint or character reference 
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 4:35
+
+88. 
