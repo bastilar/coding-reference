@@ -285,4 +285,7 @@ in place.
 87. Accessing animation enumeration sets from blueprint or character reference 
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 4:35
 
-88. 
+88. Blend pose 0 (the pose below base pose) affects the upper body, counterintuitively enough
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 6:20
+
+89. 
