@@ -316,4 +316,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 96. If your e anim enumeration animation sets are not showing all the pins in your anim enum, make sure to right click it and expose the pins such as rifle, pistol
 etc https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 8:00
 
-97. 
+97. A simple way to fix animation transition rules not working is to just select the transition rule and set and check the box "automatic rule based on sequence
+state" https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 1h 4m 30s
+
+98. 
