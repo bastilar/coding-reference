@@ -279,5 +279,7 @@ https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Networking/Actor
 rather than the blueprint code itself and avoid getting tunnel visioned. What is deriving from who and where? Work backwards and upwards from that.
 
 86. Enumeration and animation sets https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions
+Useful for controlling and picking which animations to play say, during weapon switching. A supposed simpler system exists if you have "proper animations" already
+in place.
 
 87. 
