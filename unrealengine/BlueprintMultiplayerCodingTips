@@ -277,4 +277,7 @@ https://forums.unrealengine.com/t/do-once-not-doing-once/1794/4
 You can also run a branch node at the start en promote the condition to a variable. After your branch node (false) set the promoted variable to true. 
 It’s a small setup but works like a charm! If you want to reset the function, just set the promoted variable back to false."
 
-84. 
+84. Multicast means the function is called from the server and then executed to the server and all applicable clients.
+https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Networking/Actors/RPCs/
+
+85. 
