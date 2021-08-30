@@ -275,4 +275,7 @@ time 26:10
 84. Multicast means the function is called from the server and then executed to the server and all applicable clients.
 https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Networking/Actors/RPCs/
 
-85. 
+85. When it comes to debugging blueprint bugs and errors, consider the bigger picture and working backwards. Perhaps a higher level node is the source of the error
+rather than the blueprint code itself and avoid getting tunnel visioned. What is deriving from who and where? Work backwards and upwards from that.
+
+86. 
