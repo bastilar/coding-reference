@@ -294,4 +294,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 90. Adding animations to weapon switching refresher, using animation montages
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 19:50
 
-91. 
+91. The return value (green pin) in montage play returns how long it takes for the animation to play, useful for queuing and playing another animation
+right after another, for example weapon switching putting away and then retrieval
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 25:50
+
+92. 
