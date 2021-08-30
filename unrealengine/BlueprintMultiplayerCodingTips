@@ -310,4 +310,10 @@ edge space on the left side of the container box to bring up a different popup m
 94. Using animations based on blend poses by bool / boolean
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time time 40:25
 
-95. 
+95. Might have to note that time remaining ratio will have multiples of the same exact function, so perhaps start with the top first.
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions Time 46:45
+
+96. If your e anim enumeration animation sets are not showing all the pins in your anim enum, make sure to right click it and expose the pins such as rifle, pistol
+etc https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 8:00
+
+97. 
