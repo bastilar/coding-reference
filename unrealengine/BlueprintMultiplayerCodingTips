@@ -278,4 +278,6 @@ https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Networking/Actor
 85. When it comes to debugging blueprint bugs and errors, consider the bigger picture and working backwards. Perhaps a higher level node is the source of the error
 rather than the blueprint code itself and avoid getting tunnel visioned. What is deriving from who and where? Work backwards and upwards from that.
 
-86. 
+86. Enumeration and animation sets https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions
+
+87. 
