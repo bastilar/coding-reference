@@ -270,12 +270,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 82. Animation montages revisited https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596926#questions
 time 26:10
 
-83. How to fix the do once blueprint node not working in unreal engine 4.26 and above (hopefully) (Doesn't work)
-https://forums.unrealengine.com/t/do-once-not-doing-once/1794/4
-"Maybe 7 years late… however, if anyone is looking for a simple fix:
-
-You can also run a branch node at the start en promote the condition to a variable. After your branch node (false) set the promoted variable to true. 
-It’s a small setup but works like a charm! If you want to reset the function, just set the promoted variable back to false."
+83. Make sure your is firing variable is correctly set to false or true for both on server fire and on server firestop!!!
 
 84. Multicast means the function is called from the server and then executed to the server and all applicable clients.
 https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Networking/Actors/RPCs/
