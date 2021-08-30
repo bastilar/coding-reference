@@ -298,4 +298,9 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 right after another, for example weapon switching putting away and then retrieval
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 25:50
 
-92. 
+92. Fixing and getting around playing an animation with do once but needing to change the variables
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20596986#questions time 27:00
+Retrieve and call the character or master blueprint reference that contains the variable you want to change then set or get the variable and have it set or get
+after the animation montages are played.
+
+93. 
