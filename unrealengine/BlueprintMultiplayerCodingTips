@@ -364,4 +364,7 @@ time 25:00
 111. MIght be a good way to prevent clients from cheating on the server, set the remote execution / exec pin to false
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20597226#questions time 55:20
 
-112. 
+112. Adding breakpoints and debug watching variables to your blueprints
+https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/BP_HowTo/Debugging/
+
+113. 
