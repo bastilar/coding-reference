@@ -376,4 +376,8 @@ basically an invisible pawn person with no collisions or interactibility.
 115. Creating and selecting teams
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598752#questions
 
-116. 
+116. Making it so that change input mode widget focus focuses on your menu widget, say a popup submenu for changing teams
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598752#questions time 25:15 Probably useful for also focusing on
+inventory and skill page tree.
+
+117. 
