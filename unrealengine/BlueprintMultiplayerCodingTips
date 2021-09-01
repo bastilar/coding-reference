@@ -386,4 +386,8 @@ time 30:00
 118. Modifying player states to add team select functionality
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598752#questions time 48:00
 
-119. 
+119. Expose on spawn is a checkbox in blueprints that will enable the exposed variable to be an input pin in your blueprints elsewhere
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598752#questions time 1h 22m 25seconds
+Useful for assigning a team to a spawning character master blueprint actor right on spawn time.
+
+120. 
