@@ -390,4 +390,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598752#questions time 1h 22m 25seconds
 Useful for assigning a team to a spawning character master blueprint actor right on spawn time.
 
-120. 
+120. Setting teams in player controller, player state, and elsewhere, you can use this redundancy to set things like team friendly fire on or off
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598752#questions Time 1h 35m 30s 
+
+121. 
