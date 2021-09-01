@@ -370,4 +370,7 @@ https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/BP_H
 113. Lobby design and server listen limitations 
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598738#questions
 
-114. 
+114. Spectator pawn https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598738#questions time 10:00
+basically an invisible pawn person with no collisions or interactibility.
+
+115. 
