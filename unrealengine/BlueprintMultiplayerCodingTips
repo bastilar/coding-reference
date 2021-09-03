@@ -429,4 +429,7 @@ though https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-i
 132. Apparently to create classes you should set them in a custom made blueprint of type player controller and put the class selection logic in there
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607158#questions time 31:00 but may need to see earlier in video
 
-133. 
+133. Spawning an actor class (select) based on a select node class selector that contains the child blueprints for each class
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607158#questions time 39:30
+
+134. 
