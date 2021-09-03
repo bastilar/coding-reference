@@ -414,4 +414,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 127. For some reason creating a function manually in widget blueprints doesn't show up in the bindings, so instead you need to use the "create" binding option
 seen in every "Bind" button dropdown menu.
 
-128. 
+128. Destroying session from player controller reference, start of video
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598794#questions
+
+129. 
