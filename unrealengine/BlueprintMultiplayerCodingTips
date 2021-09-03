@@ -432,4 +432,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 133. Spawning an actor class (select) based on a select node class selector that contains the child blueprints for each class
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607158#questions time 39:30
 
-134. 
+134. ***AVOID naming blueprint variables "Class" or anything similar as it completely bugs out the blueprints and causes it to not show up in your spawn actor bp
+or any other exposed blueprint node. Class will cause naming conflicts and a bunch of other annoying bug problems.
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607158#questions time 59:30
+
+135. 
