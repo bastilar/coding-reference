@@ -417,4 +417,8 @@ seen in every "Bind" button dropdown menu.
 128. Destroying session from player controller reference, start of video
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598794#questions
 
-129. 
+129. Using event end play with switch on eendplayreason / e end play reason node
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20598794#questions time 2:45
+This has to be done properly so it doesn't hang your other connected players from the server.
+
+130. 
