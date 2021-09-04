@@ -445,4 +445,7 @@ This bug seems similar to the promote class to variable bug in spawn actor by cl
 136. Changing character visuals based on class
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607234#questions
 
-137. 
+137. If you need to access the variable of a blueprint widget item, make sure to set it to "is variable" checkbox to true. It's off / false by default
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607234#questions time 53:00
+
+138. 
