@@ -457,4 +457,6 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 140. Creating shotgun random pellet spread using random float in range blueprint node
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607296#questions time 27:00
 
-141. 
+141. Unreal engine apparently has a 16 sounds at once played limit but there's no way that can be right. Isn't it 256, 512, or 128 at least?
+
+142. 
