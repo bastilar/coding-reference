@@ -436,9 +436,10 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 or any other exposed blueprint node. Class will cause naming conflicts and a bunch of other annoying bug problems.
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607158#questions time 59:30
 
-135. Apparently when dealing with spawn actor by class, the select node is also buggy, so you need to create a class variable of the type of blueprint class
+135. ***Apparently when dealing with spawn actor by class, the select node is also buggy, so you need to create a class variable of the type of blueprint class
 you want, set it to class reference (purple color) then use the select node from that to continue using your enumerator enum sets and hook everything up to the
 spawn actor by class bp
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607158#questions time 1h 19m
+This bug seems similar to the promote class to variable bug in spawn actor by class node and needing to use a cast.
 
 136. 
