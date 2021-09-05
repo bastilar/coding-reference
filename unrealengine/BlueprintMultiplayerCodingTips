@@ -480,4 +480,8 @@ This may not be the better way to create first/third person after all.
 the enduring projectile fx bug. Set it to destroy. No extra fancy stuff needed.
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions time 1h 23m
 
-148. 
+148. You have to have seperate variables for your projectile when using first and third person because obviously using the same variable the client and server
+will both read that variable and spawn it at the same, causing 2 of the same projectile to spawn instead of one.
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions end of video.
+
+149. 
