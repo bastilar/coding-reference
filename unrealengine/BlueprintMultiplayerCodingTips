@@ -476,4 +476,8 @@ firing your gun if they are some kind of full auto burst fire. This obviously re
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions time 1h 5m
 This may not be the better way to create first/third person after all.
 
-147. 
+147. Right click the projectile collision on the upper left corner and right click on it, click add event, and use oncomponenthit / on component hit event to fix
+the enduring projectile fx bug. Set it to destroy. No extra fancy stuff needed.
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions time 1h 23m
+
+148. 
