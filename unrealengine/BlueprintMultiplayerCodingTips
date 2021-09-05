@@ -472,4 +472,8 @@ Must do this for all the required check boxes at top.
 145. Instead of spawning multiple instances of particle fx systems and sound effects, it may be better for optimization purposes to loop them all until you stop
 firing your gun if they are some kind of full auto burst fire. This obviously reduces cpu and server load.
 
-146. 
+146. When duplicating child blueprints, don't forget to check owner no see / only no see for visual bugs
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions time 1h 5m
+This may not be the better way to create first/third person after all.
+
+147. 
