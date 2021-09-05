@@ -469,4 +469,7 @@ output https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-i
 it to zero https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions time 26:30
 Must do this for all the required check boxes at top.
 
-145. 
+145. Instead of spawning multiple instances of particle fx systems and sound effects, it may be better for optimization purposes to loop them all until you stop
+firing your gun if they are some kind of full auto burst fire. This obviously reduces cpu and server load.
+
+146. 
