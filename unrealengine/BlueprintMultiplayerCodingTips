@@ -465,4 +465,8 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 143. If you need to add another execution pin node to a beginning input node, drag from the target to the original input node like so to add another execution pin
 output https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions time 11:00
 
-144. 
+144. Modifying fx and special effects to loop. Double click the fx, click the "required" fields then on the left bottom side, look for emitter loops field and change
+it to zero https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20607398#questions time 26:30
+Must do this for all the required check boxes at top.
+
+145. 
