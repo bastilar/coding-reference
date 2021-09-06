@@ -512,4 +512,6 @@ then execute the cast failed code. Great way to check for objects hitting other 
 hit another coin, a player character, or some other object. If it hits the landscape, say the ground or roof of building, then and only then spawn the coin or 
 object https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996478#questions time 50:00
 
-159. 
+159. Directional animation for sprinting https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996538#questions
+
+160. 
