@@ -523,4 +523,6 @@ then polish after https://www.udemy.com/course/unreal-engine-4-multiplayer-team-
 
 162. Making a sniper rifle and scope https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996614#questions
 
-163. 
+163. The scope in and out is a server function but uses a replicated varible called "IsWeaponScoped" to scope or unscope the weapon.
+
+164. 
