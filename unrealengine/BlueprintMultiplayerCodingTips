@@ -511,3 +511,5 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 then execute the cast failed code. Great way to check for objects hitting other objects to compare to. For example, you want to spawn a coin but only if it does not
 hit another coin, a player character, or some other object. If it hits the landscape, say the ground or roof of building, then and only then spawn the coin or 
 object https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996478#questions time 50:00
+
+159. 
