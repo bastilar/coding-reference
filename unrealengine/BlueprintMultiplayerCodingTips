@@ -518,4 +518,7 @@ object https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-i
 by default, and type in all lower case, one word, soloaudio. Clients will be mute but server can hear the sounds generated from clients if they are close enough.
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996538#questions time 54:00
 
-161. 
+161. Might be a good idea not to get stuck on the minute details of every little bug, otherwise you're game will go nowhere. Just prototype all the stuff you can
+then polish after https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996538#questions time 1h 5m
+
+162. 
