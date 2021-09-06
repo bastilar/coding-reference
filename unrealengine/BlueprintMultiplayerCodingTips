@@ -525,4 +525,7 @@ then polish after https://www.udemy.com/course/unreal-engine-4-multiplayer-team-
 
 163. The scope in and out is a server function but uses a replicated varible called "IsWeaponScoped" to scope or unscope the weapon.
 
-164. 
+164. Using timelines to "blend" from normal view to scoped view including the transition to the zoom
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996614#questions
+
+165. 
