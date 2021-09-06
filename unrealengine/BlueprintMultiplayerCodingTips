@@ -514,4 +514,8 @@ object https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-i
 
 159. Directional animation for sprinting https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996538#questions
 
-160. 
+160. One way to test multiplayer audio replications to see if client and servers can hear the sfx from each other is to go into your UE4/5 console , tilde key ~
+by default, and type in all lower case, one word, soloaudio. Clients will be mute but server can hear the sounds generated from clients if they are close enough.
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996538#questions time 54:00
+
+161. 
