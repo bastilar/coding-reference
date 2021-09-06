@@ -528,4 +528,7 @@ then polish after https://www.udemy.com/course/unreal-engine-4-multiplayer-team-
 164. Using timelines to "blend" from normal view to scoped view including the transition to the zoom
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996614#questions
 
-165. 
+165. When calling the scope graphic, use material instance DYNAMIC not the plain one or else it will not work.
+https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996614#questions time 38:00
+
+166. 
