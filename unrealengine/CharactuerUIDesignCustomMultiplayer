@@ -56,7 +56,8 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541640#o
 20. Under Style, modify the background color tint to black or something dark to represent the empty portion of your progress bar while the normal fill appearance
 can set the actual fill color. https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541640#overview time 12:30
 
-21. To stylelize your progress fill bar, you use an image for fill image. The color will modify the fill image.
+21. To stylelize your progress fill bar, you use an image for fill image. The color will modify the fill image. The color can change because the background and fill
+images are colored white and transparent.
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541640#overview time 14:50
 
 22. 
