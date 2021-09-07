@@ -46,4 +46,8 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541620#o
 17. Using a named slot to add another child object to the single child border widget
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541620#overview time 8:00
 
-18. 
+18. You can adjust the border padding widget to increase or decrease the border thickness. It's a nice little visual trick. Chances are your border shape should match
+the shape of the icon you wish to place a border on. Diamonds with diamonds, spheres with spheres, squares with squares.
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541628#overview time 11:00
+
+19. 
