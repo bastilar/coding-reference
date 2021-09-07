@@ -5,4 +5,10 @@ right click on all selected items you want to bulk edit and select "bulk edit vi
 then in the bulk edit via property matrix settings, go to level of detail drop down menu, then under texture group, set it from world (default) to UI.
 Bulk edit assets https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541566#overview time 8:30
 
-3. 
+3. You can zoom in and out with your mouse wheel so the content viewer browser is bigger or smaller in unreal engine editor, just like a web browser.
+
+4. To make new double clicked windows appear at the topic, you can go to editor preferences and under general - apperances, set asset window open location to
+open in main window and it will auto dock and auto maximize to the main window.
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541566#overview time 10:15
+
+5. 
