@@ -23,4 +23,7 @@ you're position on the screen https://www.udemy.com/course/unreal-engine-charact
 9. Setting the image (maybe other objects too?) to offset 0's all over will resize the box or item or image to full screen
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541598#overview time 2:10
 
-10. 
+10. Size to content checkbox overrides and ignores the size x and size y in UMG image editor
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541598#overview time 9:10
+
+11. 
