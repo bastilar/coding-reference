@@ -1,4 +1,8 @@
 1. Bulk edit assets https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541566#overview time 7:00
 right click on all selected items you want to bulk edit and select "bulk edit via property matrix" under asset actions or so.
 
-2. 
+2. Quality of life change, to edit a texture so that it shows up as transparent background in the unreal editor, you want to select or bulk select the assets
+then in the bulk edit via property matrix settings, go to level of detail drop down menu, then under texture group, set it from world (default) to UI.
+Bulk edit assets https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541566#overview time 8:30
+
+3. 
