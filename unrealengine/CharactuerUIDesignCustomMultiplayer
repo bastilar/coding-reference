@@ -37,4 +37,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541610#o
 14. Tooltip text is a field that can be edited and inputed so when you mouse over an object, it will display the tooltip with the text you put in
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541610#overview time 10:45
 
-15. 
+15. The auto and fill option is actually a percentage based number, and they total up to 1 or 100%. So The two numbers added together equal 1 and determine what 
+percentage of the box they take up in space. https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541610#overview time 14:25
+
+16. 
