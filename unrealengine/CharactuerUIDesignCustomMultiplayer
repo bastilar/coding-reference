@@ -90,4 +90,7 @@ To create a data table, go to the content browser and right click miscallaneous 
 32. This is why we created a data structure first so that our data table can organize and tablize all our data inputs in a nice , neat , organized layout
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569718#overview time 5:40
 
-33. 
+33. Exporting a data table. Right click the data table you want to export in the unreal engine editor content browser and select (near the top) "export as csv" or
+export as json https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569738#overview
+
+34. 
