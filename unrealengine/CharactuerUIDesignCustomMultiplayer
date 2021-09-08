@@ -76,7 +76,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541646#o
 27. If you need a sound effect or probably other objects from the engine content, use view options on the mini drop down menu when selecting the asset and click
 Show engine assets https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541646#overview time 14:30
 
-28. Character data structs so we can populate our abilities, data, name, and other attributes dynamically
+28. **** Character data structs / data structures so we can populate our abilities, data, name, and other attributes dynamically
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22541658#overview
 
 29. 
