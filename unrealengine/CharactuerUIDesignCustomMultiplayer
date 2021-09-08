@@ -93,4 +93,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569718#o
 33. Exporting a data table. Right click the data table you want to export in the unreal engine editor content browser and select (near the top) "export as csv" or
 export as json https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569738#overview
 
-34. 
+34. Importing a data table https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569740#overview If you wish to reimport what you exported, make sure
+the file name is the exact same.
+
+35. 
