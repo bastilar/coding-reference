@@ -148,5 +148,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571150#q
 
 54. Using flip flop nodes to toggle on / off character ui screens
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571160#questions time 1:30
+For example, e key will open the menu and fire / execute code out of A. But if you press e key again, flip flop node will now execute code from b, which will probably
+have your close menu / character ui screen code.
 
 55. 
