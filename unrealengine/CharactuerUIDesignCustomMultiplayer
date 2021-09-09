@@ -142,4 +142,8 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22932072#q
 
 52. Character game (change) https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571150#questions
 
-53. 
+53. Set input mode game and ui means both the game itself and the ui widget will accept user inputs from controller, keyboard, gamepad, etc. If you set it only to
+UI or game only, you run into a situation where you can't unpause the game or access the ui or game when closing windows and viewports.
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571150#questions time 9:00
+
+54. 
