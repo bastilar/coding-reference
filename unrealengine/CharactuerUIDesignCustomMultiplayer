@@ -137,4 +137,7 @@ save load stats etc
 50. Character UI scripting to change which character shows up when pushing the button
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571134#questions
 
-51. 
+51. ***** Debug filter is another way to look at the execution flow of your blueprint nodes, much better for pinpointing bugs as they happen in real time
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22932072#questions time 4:15
+
+52. 
