@@ -151,4 +151,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571160#q
 For example, e key will open the menu and fire / execute code out of A. But if you press e key again, flip flop node will now execute code from b, which will probably
 have your close menu / character ui screen code.
 
-55. 
+55. Switch on int to select our characters
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571160#questions time 10:50
+
+56. 
