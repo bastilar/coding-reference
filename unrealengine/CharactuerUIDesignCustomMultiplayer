@@ -131,5 +131,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569836#q
 48. Character color background https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569838#questions
 
 49. Player controller blueprint for modifying your character UI page https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569846#questions
+Player controller persists, unlike a killed pawn (like when you die then respawn) so it's best to use player controllers to handle all the user oriented things like
+save load stats etc
 
 50. 
