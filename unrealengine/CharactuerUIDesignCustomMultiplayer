@@ -134,6 +134,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22569836#q
 Player controller persists, unlike a killed pawn (like when you die then respawn) so it's best to use player controllers to handle all the user oriented things like
 save load stats etc
 
-50. Character UI scripting https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571134#questions
+50. Character UI scripting to change which character shows up when pushing the button
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571134#questions
 
 51. 
