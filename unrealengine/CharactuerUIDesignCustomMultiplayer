@@ -182,4 +182,7 @@ time 9:50 to prevent text from going across the screen forever.
 
 66. Ability icon binding https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571280#questions
 
-67. 
+67. Brk or break str_characterability struct is used to pull data within a data table or row from a character data struct you created
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571280#questions time 4:30
+
+68. 
