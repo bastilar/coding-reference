@@ -169,4 +169,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22942070#q
 61. Row and columns in each item added to the uniform grid can be edited by you to display in a different row or column as you wish
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571218#questions time 3:30
 
-62. 
+62. You can uniformally adjust padding for all items in the uniform grid panel by adjusting the grid panel's padding settings. It will add or subtract the padding
+uniformally across all items https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571218#questions time 17:00
+
+63. 
