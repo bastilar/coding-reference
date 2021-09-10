@@ -160,4 +160,6 @@ time 11:30
 57. Fixing a bug where we neglected to add a turn off character ui menu functions when we close the character menu using booleans after the flip flop switch
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22942070#questions
 
-58. 
+58. Abilities base layout https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571204#questions
+
+59. 
