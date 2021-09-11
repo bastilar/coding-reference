@@ -215,4 +215,7 @@ auto select the first ability in our UI as the first "click" without clicking or
 79. Fairly ingenius way to reverse animations by using play animation node and setting its play mode to "reverse"
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571458#questions time 5:00
 
-80. 
+80. When creating and calling your unhovered function script, make sure to call it after your hover function call because timing is important see
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571458#questions time 10:30 / 11:00
+
+81. 
