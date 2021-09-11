@@ -217,6 +217,8 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571458#q
 
 80. When creating and calling your unhovered function script, make sure to call it after your hover function call because timing is important see
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571458#questions time 10:30 / 11:00
+What this is doing is reversing the button we originally hovered over BEFORE we play a new button animation and then setting the selected index to the newly selected
+button, hence why we play the reverse animation function we made before playing the new one. Reverse the old button, play foward the new button. Presto.
 
 81. When mousing over an already hovered icon or button, here is the fix for it 
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571458#questions time 12:40
