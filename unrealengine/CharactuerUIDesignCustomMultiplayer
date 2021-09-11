@@ -205,6 +205,7 @@ with mouse or cursor hover to have items and selected hover items / ojbects slid
 
 75. Ability hover function https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571392#questions
 
-76. Ability default button script https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571412#questions
+76. Ability default button script https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571412#questions a custom event to automatically select /
+auto select the first ability in our UI as the first "click" without clicking or tapping on the icon.
 
 77. 
