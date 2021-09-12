@@ -259,4 +259,7 @@ values. Spin box widgets are everywhere in unreal, there's 2 outgoing arrows ot 
 93. Spin boxes can have a minimum and maximum clamped / clamp value so you don't get too big or too small, regardless of what value you put in. You can also input
 different min / max values with the spin box slider itself. https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571528#questions time 7:30
 
-94. 
+94. You can adjust the size of the arrows in the spin box by going to style and then arrows image in the details panel.
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571528#questions time 11:00
+
+95. 
