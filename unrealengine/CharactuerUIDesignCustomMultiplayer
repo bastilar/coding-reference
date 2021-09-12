@@ -244,4 +244,8 @@ confused with editable text widgets including using check boxes
 88. Auto move speed layout using slider widgets https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571506#questions
 Make sure that min / minimum value does not go below 1 as it will break the locomotion of your character.
 
-89. 
+89. Progress bars for health bar layout https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571514#questions time 5:00
+Also, to change the background color, go to the background image section of the details for the progress bar and set the tint color to black or whatever you want your
+empty progress bar to look like 
+
+90. 
