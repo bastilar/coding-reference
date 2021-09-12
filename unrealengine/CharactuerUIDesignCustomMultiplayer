@@ -253,4 +253,7 @@ color section in details panel. This is for the health bar.
 
 91. Health regen amount attribute layout https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571520#questions
 
-92. Health regen rate layout https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571528#questions using
+92. Health regen rate layout https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571528#questions using spin box widgets, which are used to modify
+values.
+
+93. 
