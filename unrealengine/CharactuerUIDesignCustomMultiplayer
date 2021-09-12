@@ -225,4 +225,6 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571458#q
 We get our selected ability index variable and do a not equal check then branch it to the button event function call. We fire the normal code off when the condition
 is "true" since selected index 1 does not equal our current ability button of 1. We repeat with button 2 with 2's, button 3 with 3's, etc.
 
-82. 
+82. Ability voice over line implementation on button click https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571464#questions
+
+83. 
