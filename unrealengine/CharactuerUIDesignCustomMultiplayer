@@ -256,4 +256,7 @@ color section in details panel. This is for the health bar.
 92. Health regen rate layout https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571528#questions using spin box widgets, which are used to modify
 values. Spin box widgets are everywhere in unreal, there's 2 outgoing arrows ot the right side of the spin box. We also use size boxes.
 
-93. 
+93. Spin boxes can have a minimum and maximum clamped / clamp value so you don't get too big or too small, regardless of what value you put in. You can also input
+different min / max values with the spin box slider itself. https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571528#questions time 7:30
+
+94. 
