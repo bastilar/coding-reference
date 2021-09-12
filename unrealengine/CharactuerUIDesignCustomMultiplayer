@@ -233,4 +233,7 @@ is "true" since selected index 1 does not equal our current ability button of 1.
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571478#questions time 3:00
 With a widget switcher index of 0, it will select the first child item, which is a panel beneath the widget switcher in this particular case.
 
-85. 
+85. Adding the scroll bar and adjusting its settings and padding https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571478#questions
+time 8:00
+
+86. 
