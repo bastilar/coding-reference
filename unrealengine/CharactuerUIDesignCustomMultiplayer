@@ -242,5 +242,6 @@ time 8:00
 confused with editable text widgets including using check boxes
 
 88. Auto move speed layout using slider widgets https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571506#questions
+Make sure that min / minimum value does not go below 1 as it will break the locomotion of your character.
 
 89. 
