@@ -248,4 +248,7 @@ Make sure that min / minimum value does not go below 1 as it will break the loco
 Also, to change the background color, go to the background image section of the details for the progress bar and set the tint color to black or whatever you want your
 empty progress bar to look like 
 
-90. 
+90. Progress bar fill color change https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571514#questions time 6:20 go to appearance and fill and
+color section in details panel.
+
+91. 
