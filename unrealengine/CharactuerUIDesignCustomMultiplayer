@@ -266,4 +266,6 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571528#q
 
 96. Editing combo box settings https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571542#questions time 5:00
 
-97. 
+97. There are two pressed and hover sound options for some reason in the combo box style. You only need to set one (preferably inside style).
+
+98. 
