@@ -287,4 +287,7 @@ time 12:00 using the widget switcher widget reference again
 104. Getting a reference to the widget switcher from wbp-characterui blueprint in the player controller blueprint
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/23053560#questions time 4:40
 
-105. 
+105. Make sure to enable the check box on each and every custom event "can execute when paused" though the simplest solution is to never ever pause the game.
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/23053560#questions time 13:15
+
+106. 
