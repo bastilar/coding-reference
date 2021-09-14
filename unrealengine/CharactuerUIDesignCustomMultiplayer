@@ -321,4 +321,7 @@ by taking an existing function and binding it to other text name widgets to crea
 engine works is it seems to need the handoff between the game instance and the save game blueprint itself so it can store the data after PULLing the data from your
 bp game instance.
 
-119. 
+119. ****** For each loop used to pull data from our data structure table dt roster full 
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571674#questions time 6:00
+
+120. 
