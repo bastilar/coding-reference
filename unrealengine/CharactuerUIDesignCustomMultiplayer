@@ -317,4 +317,8 @@ by taking an existing function and binding it to other text name widgets to crea
 
 117. ****** Creating the save game function asset https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571674#questions
 
-118. 
+118. ****** When creating a save game asset, you create a save game variable in your blue print game instance and in the save game blueprint you created. The way unreal
+engine works is it seems to need the handoff between the game instance and the save game blueprint itself so it can store the data after PULLing the data from your
+bp game instance.
+
+119. 
