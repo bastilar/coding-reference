@@ -324,4 +324,8 @@ bp game instance.
 119. ****** For each loop used to pull data from our data structure table dt roster full 
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571674#questions time 6:00
 
-120. 
+120. ****** Odd way of hooking up the save game object pins
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571674#questions time 12:00 but perhaps it has to do with order and timing since save game
+object is constantly changing and updating before, during, and after the for each loop.
+
+121. 
