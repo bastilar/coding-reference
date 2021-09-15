@@ -351,4 +351,8 @@ time 2:45 So you have to make a copy of the source data, store it in a reference
 
 130. ****** Attribute auto move script https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571770#questions
 
-131. ****** 
+131. ****** On auto move checkbox changed event https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571770#questions time 5:00
+
+132. ****** These change states are all located at the bottom of each widget's detail panel, often on the right side.
+
+133. ****** 
