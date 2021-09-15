@@ -355,4 +355,7 @@ time 2:45 So you have to make a copy of the source data, store it in a reference
 
 132. ****** These change states are all located at the bottom of each widget's detail panel, often on the right side.
 
-133. ****** 
+133. ****** Hooking up and creating the simple auto move script for character input 
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571770#questions time 13:00
+
+134. ****** 
