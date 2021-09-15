@@ -343,4 +343,6 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571696#q
 because unreal engine will not allow you to overwrite the original data table. https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571748#questions
 time 2:45 So you have to make a copy of the source data, store it in a reference instance array, then have that write to a save file.
 
-127. ****** 
+127. ****** Attribute name script https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571764#questions
+
+128. ****** 
