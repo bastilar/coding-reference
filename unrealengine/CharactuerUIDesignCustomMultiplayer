@@ -368,4 +368,7 @@ https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571796#q
 137. ****** Sometimes you will get an access none trying to read bp game instance ref, that's because the game engine has initialized everything yet, as usual.
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571810#questions time 10:00 just make sure to include an isvalid macro of get validated node.
 
-138. ****** 
+138. ****** Implementing a very basic and simple health regen system https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571810#questions
+time 11:20
+
+139. ****** 
