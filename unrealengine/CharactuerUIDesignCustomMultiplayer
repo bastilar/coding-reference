@@ -376,6 +376,7 @@ time 11:20
 140. ****** Since we're using an array of sound cue taunts, we have to use "set selected option"  
 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571834#questions time 7:00
 
-141. ****** Split string https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571834#questions time 10:50
+141. ****** Split string https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571834#questions time 10:50 use to break the display of strings and
+numbers. Think "Taunt 1" splitting at "Taunt " (note the space after) and the number "1" where it can output an integer or some such.
 
 142. ****** 
