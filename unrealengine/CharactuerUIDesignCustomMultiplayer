@@ -373,4 +373,7 @@ time 11:20
 
 139. ****** Attribute Taunt script #1 https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571834#questions
 
-140. ****** 
+140. ****** Since we're using an array of sound cue taunts, we have to use "set selected option"  
+https://www.udemy.com/course/unreal-engine-character-ui/learn/lecture/22571834#questions time 7:00
+
+141. ****** 
