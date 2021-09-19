@@ -1,0 +1,1 @@
+battleroyaletemplate.blogspot.com/
