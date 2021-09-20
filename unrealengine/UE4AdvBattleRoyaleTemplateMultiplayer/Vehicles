@@ -1,0 +1,6 @@
+1. The capsule blocks the vehicle but its collision is turned off when the character enters the vehicle so you should not see that issue under normal circumstances.
+See pictures for collision settings:
+Vehicle https://drive.google.com/file/d/1k5o0s27OSD2SSoUoq8i-kdAeQ5Tz4nSR/view?usp=sharing
+BrCharacter https://drive.google.com/file/d/17T6dVPwGX8aNVP0pGKwF6kY_JYhI1xNv/view?usp=sharing
+
+2. 
