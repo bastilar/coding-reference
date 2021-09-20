@@ -5,5 +5,6 @@ BrCharacter https://drive.google.com/file/d/17T6dVPwGX8aNVP0pGKwF6kY_JYhI1xNv/vi
 
 2. Add this to the event hit of the vehicle to apply damage to an actor if it's not the main character
 Vehicle damage event code: https://drive.google.com/file/d/1oTfXLbkMXJeGuNYpjDgYx2o3VPnJSebq/view?usp=sharing
+Set the damage causer node in apply damage to "SeatOwner1" reference. You may want to try adding seat owner 2-4 as well.
 
 3. 
