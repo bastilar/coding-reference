@@ -1,4 +1,10 @@
-Using the re-target system in unreal engine to transfer animations from one mesh to another, like a new character model
+1. Using the re-target system in unreal engine to transfer animations from one mesh to another, like a new character model
 https://www.youtube.com/watch?v=RcJ8Ac7PL7U
 
+2. If reload and other functions don't work after creating / replacing the mesh, go into the weapon blueprints:
+"Reload montage can be found inside the weapon blueprint itself, for example the sniper rifle blueprint open it and in Class defaults search for Reload, 
+that's where we set what montage to play, make sure you retarget that one and set the new one there as well."
 
+Source https://www.youtube.com/watch?v=RcJ8Ac7PL7U comments
+
+3. 
