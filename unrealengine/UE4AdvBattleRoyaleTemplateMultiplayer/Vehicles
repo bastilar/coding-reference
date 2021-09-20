@@ -3,4 +3,7 @@ See pictures for collision settings:
 Vehicle https://drive.google.com/file/d/1k5o0s27OSD2SSoUoq8i-kdAeQ5Tz4nSR/view?usp=sharing
 BrCharacter https://drive.google.com/file/d/17T6dVPwGX8aNVP0pGKwF6kY_JYhI1xNv/view?usp=sharing
 
-2. 
+2. Add this to the event hit of the vehicle to apply damage to an actor if it's not the main character
+Vehicle damage event code: https://drive.google.com/file/d/1oTfXLbkMXJeGuNYpjDgYx2o3VPnJSebq/view?usp=sharing
+
+3. 
