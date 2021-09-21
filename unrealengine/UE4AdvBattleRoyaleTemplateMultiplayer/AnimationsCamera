@@ -9,4 +9,7 @@ Source https://www.youtube.com/watch?v=RcJ8Ac7PL7U comments
 
 3. Remove paragon weapons https://www.youtube.com/watch?v=32Sh_6rga7Y
 
-4. 
+4. Before retargeting, enable show all retargeting options and select "set recursive animation skeleton" fix option
+https://forums.unrealengine.com/t/distortion-after-retarget/124394/3 Only use this if your animation is coming out distorted. (ie belica's arms)
+
+5. 
