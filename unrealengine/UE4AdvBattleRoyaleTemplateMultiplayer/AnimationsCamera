@@ -12,4 +12,7 @@ Source https://www.youtube.com/watch?v=RcJ8Ac7PL7U comments
 4. Before retargeting, enable show all retargeting options and select "set recursive animation skeleton" fix option
 https://forums.unrealengine.com/t/distortion-after-retarget/124394/3 Only use this if your animation is coming out distorted. (ie belica's arms)
 
-5. 
+5. Reload fix for different character meshes via modifying blueprint code
+https://drive.google.com/file/d/1oTk5Gi9S4JHN0GJdU6OyzdnF-q2NPhWu/view?usp=sharing
+
+6. 
