@@ -13,4 +13,7 @@ Will also have to do the same for parts attached to the limbs like the shoulderp
 
 4. Creating FPS arms from 3rd person mesh. https://youtu.be/Ybxq0-Bm_p4
 
-5. 
+5. Remove paragon weapons in case you forgot https://youtu.be/32Sh_6rga7Y
+Override opacity blend, attach a constant INPUT and set the final return node to transluscent instead of opaque
+
+6. 
