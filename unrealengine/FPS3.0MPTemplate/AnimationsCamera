@@ -20,4 +20,6 @@ Override opacity blend, attach a constant INPUT and set the final return node to
 
 7. If weapons look odd, add the preview asset of the weapon to the weaponpoint or other problematic socket to adjust the rotation.
 
-8. 
+8. **** When retargeting from an animation pose make sure to use the one in the TPP Animations directory and NOT THE BASE UE4 Manequin.
+
+9. 
