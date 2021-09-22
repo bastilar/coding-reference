@@ -1,0 +1,6 @@
+1. To add new weapons to the game:
+
+  1. Dupe from an existing type (rifle, mg, pistol, etc)
+  2. Dupe and assign a damage type DT_MG42 as example and link it to the newly made weapon.
+  3. Go into the wbp_characterselection blueprint and in the Construction script, add it to the make array node.
+  4. Add the texture icon in 
