@@ -1,4 +1,7 @@
 1. Calling a multicast RPC function from a client will only execute on a client, whereas multicast called from a server calls it on both server and all connected
 clients. https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf page 62.
 
-2. 
+2. AGameNetworkManager is used to set distance based relevancy to save on resources
+https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf page 75
+
+3. 
