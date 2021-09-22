@@ -1,1 +1,6 @@
 1. Skeletal rig retargeter tutorial https://youtu.be/xy9aLbZLdeA
+
+2. The save button was removed in the retarget manager. It is now called "Use current pose" when you click the "modify pose" button.
+https://forums.unrealengine.com/t/4-16-4-16-1-cannot-save-pose-in-the-retarget-manager/93539/5
+
+3. 
