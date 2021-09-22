@@ -5,4 +5,7 @@
   3. Go into the wbp_characterselection blueprint and in the Construction script, add it to the make array node.
   4. Add the texture icon in the select node of "update primary weapon" in the event graph. Add the pin.
   
-2. 
+2. When adding new weapons, add the "MuzzleFlashSocket" to the root of the new weapon so the muzzle effects spawn correctly at the end of the barrel of the gun.
+Obviously readjust the position of the muzzle flash socket point.
+
+3. 
