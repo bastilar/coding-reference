@@ -16,4 +16,6 @@ Will also have to do the same for parts attached to the limbs like the shoulderp
 5. Remove paragon weapons in case you forgot https://youtu.be/32Sh_6rga7Y
 Override opacity blend, attach a constant INPUT and set the final return node to transluscent instead of opaque
 
-6. 
+6. You may need to manually copy and paste the weapon and flag sockets to the new retargeted animations such as weaponpoint, knife, grenade, flagpoint, etc
+
+7. 
