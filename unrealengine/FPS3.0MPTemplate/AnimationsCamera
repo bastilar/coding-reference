@@ -18,4 +18,6 @@ Override opacity blend, attach a constant INPUT and set the final return node to
 
 6. You may need to manually copy and paste the weapon and flag sockets to the new retargeted animations such as weaponpoint, knife, grenade, flagpoint, etc
 
-7. 
+7. If weapons look odd, add the preview asset of the weapon to the weaponpoint or other problematic socket to adjust the rotation.
+
+8. 
