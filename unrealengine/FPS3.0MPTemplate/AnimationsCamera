@@ -8,6 +8,9 @@ https://answers.unrealengine.com/questions/262777/how-do-i-fix-the-stretching-th
 
 Also applies to legs and other distorted body parts.
 
+Usually arms and legs get distorted when retargeting skeleton / skeletal meshes, so retarget the cavicles, arms, thighs, legs to "skeleton" instead of "animation".
+Will also have to do the same for parts attached to the limbs like the shoulderpads or thighpads if they look distorted.
+
 4. Creating FPS arms from 3rd person mesh. https://youtu.be/Ybxq0-Bm_p4
 
 5. 
