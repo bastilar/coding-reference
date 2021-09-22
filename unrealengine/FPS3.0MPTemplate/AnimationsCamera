@@ -6,6 +6,8 @@ https://forums.unrealengine.com/t/4-16-4-16-1-cannot-save-pose-in-the-retarget-m
 3. Arm stretching fixes (ie belica) is due to animation retarget translation set to animation instead of skeleton. You'll have to manually fix each bone part manually
 https://answers.unrealengine.com/questions/262777/how-do-i-fix-the-stretching-that-occurs-when-i-use.html
 
+Also applies to legs and other distorted body parts.
+
 4. Creating FPS arms from 3rd person mesh. https://youtu.be/Ybxq0-Bm_p4
 
 5. 
