@@ -24,4 +24,7 @@ Override opacity blend, attach a constant INPUT and set the final return node to
 
 9. **** Maybe a better retargeting tutorial https://youtu.be/WRn4mLoQ9Jg
 
-10. 
+10. There is a third person variable in the player controller blueprint make sure the checkbox is checked  ☑️ to make it always 3rd person. Then unbind the P key
+to switch to FPP / first person camera.
+
+11. 
