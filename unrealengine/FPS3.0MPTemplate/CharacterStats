@@ -1,5 +1,5 @@
 1. BP_Healthcomponent contains health and stamina
 
-2. Regen health function is inside the brcharacter blueprint (base). Adjust the apply damage from -1.0 or any negative number to speed or slow regen.
+2. Regen health function is inside the BP_BaseCharacter blueprint (base). Adjust the apply damage from -1.0 or any negative number to speed or slow regen.
 
 3. 
