@@ -8,4 +8,6 @@
 2. When adding new weapons, add the "MuzzleFlashSocket" to the root of the new weapon so the muzzle effects spawn correctly at the end of the barrel of the gun.
 Obviously readjust the position of the muzzle flash socket point.
 
+Also add "WeaponSocket" above or around the trigger of the gun. This will set the base position for the hand to start holding the gun.
+
 3. 
