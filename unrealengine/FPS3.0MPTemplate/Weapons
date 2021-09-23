@@ -9,5 +9,6 @@
 Obviously readjust the position of the muzzle flash socket point.
 
 Also add "WeaponSocket" above or around the trigger of the gun. This will set the base position for the hand to start holding the gun.
+Adding the weaponsocket does not seem to affect the gun.
 
 3. 
