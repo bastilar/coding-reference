@@ -1,7 +1,9 @@
-1. First steps package and setup the unreal engine dedicated server package
+1. Before you can package a dedicated server, you need to compile the source unreal engine https://www.youtube.com/watch?v=MRJUWC90aJM
+
+2. First steps package and setup the unreal engine dedicated server package
 https://www.youtube.com/watch?v=zNUxzl8Dcb4
 
-2. Then modify with fps3.0 template instructions
+3. Then modify with fps3.0 template instructions
 https://drive.google.com/file/d/1u_JX2SFkFfhvz_M3PHx6KQrO0VIcAsVr/view?usp=sharing
 
-3. 
+4. 
