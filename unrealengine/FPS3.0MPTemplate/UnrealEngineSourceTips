@@ -6,4 +6,21 @@ the files from the launcher version of Unreal Engine into the source-compiled ve
 
 It may be a better idea to import the plugins to a dummy project for faster load times.
 
-2. 
+2. Speeding up compile and build times possibly https://forums.unrealengine.com/t/faster-compile-times/148765/4
+in the build.cs file add:
+
+PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+PrivatePCHHeaderFile = "MaulProtoPrecompiled.h";
+MinFilesUsingPrecompiledHeaderOverride = 1;
+bUseUnity = false;
+
+There's also a precompile header:
+
+// MaulProtoPrecompiled.h
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Engine.h"
+
+3. 
