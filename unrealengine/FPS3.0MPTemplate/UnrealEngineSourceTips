@@ -24,4 +24,7 @@ projectname/source/projectname/MaulProtoPrecompiled.h
 #include "CoreMinimal.h"
 #include "Engine.h"
 
-3. 
+3. **** Packaging times take the longest when it is a full rebuild or first build of a project. Subsequent rebuilds, as long as they are not fresh full rebuilds,
+take much shorter times (like normal). Make sure to UNCHECK "full rebuild" in the project settings->packaging settings
+
+4. 
