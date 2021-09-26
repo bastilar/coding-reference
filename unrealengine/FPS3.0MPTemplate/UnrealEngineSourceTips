@@ -14,7 +14,8 @@ PrivatePCHHeaderFile = "MaulProtoPrecompiled.h";
 MinFilesUsingPrecompiledHeaderOverride = 1;
 bUseUnity = false;
 
-There's also a precompile header:
+There's also a precompile header that will need to be made:
+projectname/source/projectname/MaulProtoPrecompiled.h
 
 // MaulProtoPrecompiled.h
 
