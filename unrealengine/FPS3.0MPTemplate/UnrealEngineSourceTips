@@ -1,0 +1,7 @@
+1. To import plugins and marketplace assets into source compiled version of unreal engine, use this
+https://forums.unrealengine.com/t/ue4-source-and-marketplace/97421
+
+Epic Launcher can import assets like normal. However, for plugins, you will need to use a launcher version of unreal, import to that project, then copy and paste
+the files from the launcher version of Unreal Engine into the source-compiled version of Unreal Engine.
+
+2. 
