@@ -11,4 +11,7 @@ https://answers.unrealengine.com/questions/383407/how-to-log-in-shipping-build-w
 
 5. It may be a better idea to try using test build, as that is shipping build with a few extra unreal engine things.
 
-6. 
+6. **** Bear in mind the reason shipping builds strip out all the extra unreal dev stuff is because optimization and space is a big issue, esp. if you're leaving servers
+on forever. Eventualy it will run out of hd or ram or both.
+
+7. 
