@@ -4,4 +4,6 @@ clients. https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendi
 2. AGameNetworkManager is used to set distance based relevancy to save on resources
 https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf page 75
 
-3. 
+3. A decent basic guide on network replication for unreal engine https://www.youtube.com/watch?v=UmJzuRO4Qjs
+
+4. 
