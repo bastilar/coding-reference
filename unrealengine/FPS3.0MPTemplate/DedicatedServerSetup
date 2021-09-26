@@ -6,8 +6,9 @@ https://www.youtube.com/watch?v=zNUxzl8Dcb4
 3. Then modify with fps3.0 template instructions
 https://drive.google.com/file/d/1u_JX2SFkFfhvz_M3PHx6KQrO0VIcAsVr/view?usp=sharing
 
-4. **** Step 2, subsection 10
-https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Networking/HowTo/DedicatedServers/ There is another version of the dedicated servers, so run the -log
-from that file to fix the missing log files.
+4. **** Shipping builds do not include the -log functionality. Solutions:
+https://answers.unrealengine.com/questions/383407/how-to-log-in-shipping-build-win.html
 
-5. 
+5. It may be a better idea to try using test build, as that is shipping build with a few extra unreal engine things.
+
+6. 
