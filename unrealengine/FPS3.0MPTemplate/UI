@@ -1,4 +1,6 @@
 1. To edit the splash screen, you will need to go into the EVENT GRAPH of the WB_Intro widget located in UI->Intro folder. This is NOT to be confused with the level
 blueprint for the intro level map but the widget itself. These are 2 totally different codes.
 
-2. 
+2. To change the server menu page text color or font, go to UI->Menus->WB_ServerSlot
+
+3. 
