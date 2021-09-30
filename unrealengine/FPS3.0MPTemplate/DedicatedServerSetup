@@ -31,6 +31,6 @@ https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Online/Steam/ t
 
 		GlobalDefinitions.Add(“UE_PROJECT_STEAMGAMEDIR =“yourgame””); // same as above
 
-		GlobalDefinitions.Add(“UE4_PROJECT_STEAMSHIPPINGID = ”);
+		GlobalDefinitions.Add(“UE4_PROJECT_STEAMSHIPPINGID = 480oryourappid”);
 
 11. 
