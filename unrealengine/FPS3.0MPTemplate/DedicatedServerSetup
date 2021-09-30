@@ -23,4 +23,13 @@ on forever. Eventualy it will run out of hd or ram or both.
 10. Opening ports in steam https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB and how to add a new server inbound port rule for windows 2019 / windows 2016
 https://www.osradar.com/how-to-open-a-firewall-port-in-windows-server-2019-2016/
 
+You will need to then refer back to https://forums.unrealengine.com/t/advanced-sessions-plugin/30020 to add:
+		GlobalDefinitions.Add(“UE_PROJECT_STEAMGAMEDESC =“Your Game””); // Just the name of your game - like in steamworks dedicated server section
+
+		GlobalDefinitions.Add(“UE_PROJECT_STEAMPRODUCTNAME =“yourgame””); // match this with steamworks dedicatedserver section
+
+		GlobalDefinitions.Add(“UE_PROJECT_STEAMGAMEDIR =“yourgame””); // same as above
+
+		GlobalDefinitions.Add(“UE4_PROJECT_STEAMSHIPPINGID = ”);
+
 11. 
