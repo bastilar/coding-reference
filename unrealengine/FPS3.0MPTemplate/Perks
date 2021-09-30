@@ -1,5 +1,5 @@
 1. To change the actual functionality of perks, go to BP_BaseCharacter -> Apply Selected Perk Function
-Then if you want to add a new perk, make sure to add a new execution pin for the switch node in Apply Selected Perk Function and in the event construct to
-add the new perk.
+Then if you want to add a new perk, make sure to add a new execution pin for the switch node in Apply Selected Perk Function.
+Then goto WB_CharacterSelection -> On Construct event to add the new perk.
 
 2. 
