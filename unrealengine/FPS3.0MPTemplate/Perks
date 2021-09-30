@@ -2,4 +2,6 @@
 Then if you want to add a new perk, make sure to add a new execution pin for the switch node in Apply Selected Perk Function.
 Then goto WB_CharacterSelection -> On Construct event to add the new perk.
 
-2. 
+2. In addition to #1 above, also add the name of the new perk to the EPerks enum obviously.
+
+3. 
