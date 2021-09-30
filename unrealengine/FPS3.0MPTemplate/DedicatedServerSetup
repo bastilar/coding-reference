@@ -20,6 +20,7 @@ on forever. Eventualy it will run out of hd or ram or both.
 
 9. Steam dedicated server setup https://forums.unrealengine.com/t/steam-dedicated-server-api-failed-to-initialize/236023/6
 
-10. Opening ports in steam https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB
+10. Opening ports in steam https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB and how to add a new server inbound port rule for windows 2019 / windows 2016
+https://www.osradar.com/how-to-open-a-firewall-port-in-windows-server-2019-2016/
 
 11. 
