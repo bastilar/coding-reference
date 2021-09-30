@@ -68,4 +68,10 @@ GlobalDefinitions.Add("UE4_PROJECT_STEAMGAMEDESC=\"Spacewar\"");
 11. Check the thread from https://www.reddit.com/r/unrealengine/comments/h9rl7o/my_unsuccessful_experience_so_far_trying_to_setup/ for the build.cs, target.cs,
 and servertarget.cs configs.
 
-12. 
+12. Reference https://answers.unrealengine.com/questions/888429/how-to-set-project-macros-on-game-targetcs-file.html
+
+13. ****** When you update builds, you need to update the "Dedicated Game Servers Information" latest version field found at:
+https://partner.steamgames.com/apps/dedicatedservers/theappidofthegame (obviously login to the steamworks dev backend). This page is found via
+Appname->edit steam works settings-> application dropdown -> dedicated servers tab
+
+14. 
