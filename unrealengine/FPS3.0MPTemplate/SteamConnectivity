@@ -12,4 +12,7 @@ https://www.youtube.com/watch?v=23OXxCK_Fc0 *** Might not be working
 
 5. Opening ports in steam https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB
 
-6. 
+6. **** Make sure the steamapp_id.txt file is present in the base folder and the binaries win64 folder of the shipping build client (and probably dev client just to
+be safe) so that the steam overlay shows up.
+
+7. 
