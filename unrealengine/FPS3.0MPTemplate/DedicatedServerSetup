@@ -77,4 +77,23 @@ Appname->edit steam works settings-> application dropdown -> dedicated servers t
 Would need to update version number at main menu number on lower left corner, the unreal engine project settings page, and the steamworks dedicated game servers
 information page.
 
-14. 
+14. ****** To run mulitple instances of a game on the same machine host, use:
+Hey there! After trying around my self, I figured it out. You have to use different ports for both servers, and not only the game server port but also the Steam query port. By default this is 7777 and for Steam 27015, so your second server should use 7778 and 27016 as an example :)
+
+You can set that by launching your first server (shortcut) with
+
+ Server.exe -Port=7777 -QueryPort=27015
+and your second one with
+
+ Server.exe -Port=7778 -QueryPort=27016
+ 
+ example:
+ I got it to work, thank you very much for your help!
+
+For everyone else who runs into the issue, using a shortcut with the arguments
+
+for the first server: "C:\Location\GameServer.exe" -logs -queryport=27105 -port=7777 -log
+
+for the second server: "C:\Location\GameServer.exe" -logs -queryport=27106 -port=7778 -log
+
+source https://answers.unrealengine.com/questions/787258/view.html
