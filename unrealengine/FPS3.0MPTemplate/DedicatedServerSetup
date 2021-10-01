@@ -99,3 +99,9 @@ for the first server: "C:\Location\GameServer.exe" -logs -queryport=27105 -port=
 for the second server: "C:\Location\GameServer.exe" -logs -queryport=27106 -port=7778 -log
 
 source https://answers.unrealengine.com/questions/787258/view.html
+
+15. Dedicated servers by default do not have players but fps 3.0 template checks to see if at least 1 player is present in the server, then if it finds at least 1
+or more players, create the server widget. This is why the server was not showing up anywhere. 
+https://drive.google.com/file/d/1smIjgP18Q43UtIF7rqlMtJO8IjX7lELX/view?usp=sharing time 16:40
+
+16. 
