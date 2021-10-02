@@ -1,0 +1,7 @@
+1. Environment objects appear to need:
+  a. Static mesh in details (set to static for max performance)
+  b. replication set to checked "net load on client" for map loading
+  c. rendering set to visible obviously
+  d. can character step on it yes or checked
+  
+2. 
