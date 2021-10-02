@@ -27,4 +27,9 @@ Override opacity blend, attach a constant INPUT and set the final return node to
 10. There is a third person variable in the player controller blueprint make sure the checkbox is checked  ☑️ to make it always 3rd person. Then unbind the P key
 to switch to FPP / first person camera.
 
-11. 
+11. Replicating animations https://www.youtube.com/watch?v=zZWc-WUafXM
+
+12. Take a character model rig and right click on it in the asset browser and click "assign skeleton" and assign it ot the ue4 mannequin so the model can share
+all the of animations. Nice and easy. This only works if the character is rigged specifically to the epic skeleton..
+
+13. 
