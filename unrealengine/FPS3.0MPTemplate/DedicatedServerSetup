@@ -77,7 +77,8 @@ https://partner.steamgames.com/apps/dedicatedservers/theappidofthegame (obviousl
 Appname->edit steam works settings-> application dropdown -> dedicated servers tab
 
 Would need to update version number at main menu number on lower left corner, the unreal engine project settings page, and the steamworks dedicated game servers
-information page.
+information page. According to the UE steam implementation page, the values in the build target and server target must match the steam backend dedicated server page
+or else steam will not list the servers.
 
 14. ****** To run mulitple instances of a game on the same machine host, use:
 Hey there! After trying around my self, I figured it out. You have to use different ports for both servers, and not only the game server port but also the Steam query port. By default this is 7777 and for Steam 27015, so your second server should use 7778 and 27016 as an example :)
