@@ -108,4 +108,7 @@ https://drive.google.com/file/d/1smIjgP18Q43UtIF7rqlMtJO8IjX7lELX/view?usp=shari
 16. Setting server names then passing it as a key text and string value to the make array in conquest (or other game mode) blue print game mode
 https://drive.google.com/file/d/1smIjgP18Q43UtIF7rqlMtJO8IjX7lELX/view?usp=sharing time 50:00
 
-17. 
+17. When double clicking the short cuts, you need to load each dedicated server 1 at a time or else it will not work. I guess the files are all accessing steam
+at the same time which causes it to bug out and not work.
+
+18. 
