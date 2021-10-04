@@ -4,4 +4,9 @@ https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-e
 2. LODs or level of details explained https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-engine-daniel-krafft/learn/lecture/17378820#overview
 this means the further away u get from an object the less detailed it becomes. This is probably how performance is optimized.
 
-3. 
+3. Custom objects may not have LOD's so there are 2 ways to create them. Unreal engine has an auto lod function when you double click the asset
+https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-engine-daniel-krafft/learn/lecture/17378820#overview time 1:10 
+After you set lod to "auto" scroll further down and then select the type of actor object that best describes your actor. Is it a small prop or large one? Is it
+foliage? Etc.
+
+4. 
