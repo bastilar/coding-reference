@@ -1,4 +1,7 @@
 1. Import assets quickly from quixel to unreal engine immediately
 https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-engine-daniel-krafft/learn/lecture/17199386#overview
 
-2. 
+2. LODs or level of details explained https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-engine-daniel-krafft/learn/lecture/17378820#overview
+this means the further away u get from an object the less detailed it becomes. This is probably how performance is optimized.
+
+3. 
