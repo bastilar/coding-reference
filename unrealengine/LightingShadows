@@ -1,0 +1,4 @@
+1. Moving the sun with ctrl+L+mouse doesn't work, set the sky sphere and set its directional light actor to none. Then you can modify the overrides manually. See
+https://www.youtube.com/watch?v=lRUAk6AxjHU
+
+2. 
