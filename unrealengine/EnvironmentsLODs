@@ -63,4 +63,8 @@ https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-e
 22. Basics of quixel mixer
 https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-engine-daniel-krafft/learn/lecture/17199550#overview
 
-23. 
+23. Sometimes quixel mixer doesn't export everything ot unreal from quixel bridge so you just open the folder from bridge that contains your materials for your
+created material texture and just drag and drop them into unreal project.
+https://www.udemy.com/course/make-photorealistic-outdoor-environment-in-unreal-engine-daniel-krafft/learn/lecture/17199552#overview
+
+24. 
