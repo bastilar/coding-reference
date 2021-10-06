@@ -1,4 +1,8 @@
 1. Moving the sun with ctrl+L+mouse doesn't work, set the sky sphere and set its directional light actor to none. Then you can modify the overrides manually. See
 https://www.youtube.com/watch?v=lRUAk6AxjHU
 
-2. 
+2. **** Shadows not changing with sun, select direction light and ROTATE it around so the shadows will change direction. It appears the sun sky sphere operates
+independent from the directional light in some projects
+https://answers.unrealengine.com/questions/127324/sun-direction-not-updating.html
+
+3. 
