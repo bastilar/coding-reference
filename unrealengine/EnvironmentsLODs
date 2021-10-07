@@ -126,6 +126,8 @@ Useful for creating roads and twisty areas.
 45. Material shortcuts and how to paint our landscape 
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16059492#overview
 
-46. Paint / painting brush / brushes https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16064042#overview
+46. **** Paint / painting brush / brushes using weight and non-weighted blend layers
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16064042#overview
+this is used to create textures on surfaces with a brush and make colors on them, such as cobblestones covered in grass.
 
 47. 
