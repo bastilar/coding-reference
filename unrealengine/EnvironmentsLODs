@@ -163,6 +163,8 @@ different ways to add foliage
 58. Mirror tool to duplicate landscape copies of each other 
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/15691148#questions
 
-59. Footfall and surface types section https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16337866#questions
+59. **** Footfall and surface types section https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16337866#questions
+This is what allows you to play scripts and / or sound effects depending on what material or surface type your character is stomping on. This is extremely useful
+for creating different footsteps when you are walking on ground, rock, metal, wood, etc.
 
 60. 
