@@ -167,4 +167,6 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 This is what allows you to play scripts and / or sound effects depending on what material or surface type your character is stomping on. This is extremely useful
 for creating different footsteps when you are walking on ground, rock, metal, wood, etc.
 
+Surface types are located in the physics tab in the project settings.
+
 60. 
