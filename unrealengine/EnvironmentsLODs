@@ -205,4 +205,8 @@ a landscape upside down so it can be used like a ceiling in a cave
 
 73. Add delete landscape tool https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338014#announcements
 
-74. 
+74. LOD / level of detail material overrides can be manually set for landscape
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338012#announcements time 6:00 Probalby useful for increasing performance
+though it seems AAA games just simply use the same material and just rely on unreal engine's built in lod manager
+
+75. 
