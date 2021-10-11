@@ -209,4 +209,7 @@ a landscape upside down so it can be used like a ceiling in a cave
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338012#announcements time 6:00 Probalby useful for increasing performance
 though it seems AAA games just simply use the same material and just rely on unreal engine's built in lod manager
 
-75. 
+75. Diagram of how components are broken down by their sections and quads, etc
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338016#announcements time 7:00
+
+76. 
