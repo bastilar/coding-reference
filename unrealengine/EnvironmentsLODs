@@ -244,5 +244,6 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 for diagnosing fps and framerate problems
 
 85. **** Foliage section https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338142#announcements
+It turns out because you're grouping all the meshes and foliage together or objects, the draw call is a single draw call, dramatically improving performance.
 
 86. 
