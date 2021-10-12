@@ -246,4 +246,8 @@ for diagnosing fps and framerate problems
 85. **** Foliage section https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338142#announcements
 It turns out because you're grouping all the meshes and foliage together or objects, the draw call is a single draw call, dramatically improving performance.
 
-86. 
+86. **** spreading out the foliage meshes based on the paint foliage brush radius setting
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338148#announcements time 5:50, a setting of 500 unreal units makes the
+distance between foliage actors at least 500 units apart from each other
+
+87. 
