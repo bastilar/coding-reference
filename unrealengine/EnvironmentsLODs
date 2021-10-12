@@ -227,4 +227,9 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 80. Reorganizing and creating new landscape layers for streaming distance purposes
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338086#announcements
 
-81. 
+81. I created a new level landscape, why doesn't it show up in the world composition list of levels?
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338090#announcements time 3:45
+You need to create the new level in the sublevels folder or designated folder. Then go to file, recent levels, then reload the base level landscape. Afterwards, your
+new landscape level will show up in the list then simply drag and drop it to wherever.
+
+82. 
