@@ -232,4 +232,8 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 You need to create the new level in the sublevels folder or designated folder. Then go to file, recent levels, then reload the base level landscape. Afterwards, your
 new landscape level will show up in the list then simply drag and drop it to wherever.
 
-82. 
+82. Why doesn't world composition view not update when I paint or sculpt? 
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338090#announcements time 5:30 Because you need to click into the world
+composition map and press f5 to refresh it. Probably a performance feature in unreal engine.
+
+83. 
