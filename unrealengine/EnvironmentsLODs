@@ -236,4 +236,8 @@ new landscape level will show up in the list then simply drag and drop it to whe
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338090#announcements time 5:30 Because you need to click into the world
 composition map and press f5 to refresh it. Probably a performance feature in unreal engine.
 
-83. 
+83. Overlapping landscape level parcels mass spam error message is caused by, well overlapping landscape levels on each other. Obviously this causes redundancy in 
+the world and performance drops so just simply move the world composition tiles around until they stop overlapping each other.
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338090#announcements time 8:45
+
+84. 
