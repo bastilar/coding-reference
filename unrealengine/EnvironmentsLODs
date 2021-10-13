@@ -265,4 +265,8 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 91. **** Instance foliage video settings tutorials 1 and then 2
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338164#announcements
 
-92. 
+92. **** You need to check simple collision is present on static meshes that require blocking like big rocks
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/19080262#announcements time 7:50
+or else when it is used for foliage it will have no collision.
+
+93. 
