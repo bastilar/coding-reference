@@ -256,4 +256,6 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 88. **** z offset for when foliage like trees are showing their roots exposed and not aligning to the actual ground properly
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338160#announcements time 12:30
 
-89. 
+89. Since foliage tool is a single or low draw call, you probably can't use the unreal scale, rotate, etc tool as usual.
+
+90. 
