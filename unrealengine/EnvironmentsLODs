@@ -276,4 +276,7 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338170#announcements
 Have to select the landscape level that actually contains the foliage, usually a sublevel
 
-95. 
+95. Objects can only snap to surface or ground with the end key on landscape levels that you originally placed it on, otherwise end key will not work at all
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338170#announcements time 6:30
+
+96. 
