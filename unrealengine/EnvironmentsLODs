@@ -253,4 +253,7 @@ distance between foliage actors at least 500 units apart from each other
 87. **** Scaling random xyz and locking xyz scales with the paint tool
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338148#announcements time 9:00
 
-88. 
+88. **** z offset for when foliage like trees are showing their roots exposed and not aligning to the actual ground properly
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338160#announcements time 12:30
+
+89. 
