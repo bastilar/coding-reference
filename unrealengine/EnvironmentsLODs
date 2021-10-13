@@ -258,4 +258,8 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 
 89. Since foliage tool is a single or low draw call, you probably can't use the unreal scale, rotate, etc tool as usual.
 
-90. 
+90. To script directly the light source directional light in bp blueprints, you need to select it in the asset browser so the optional reference shows up
+in the blueprint popup context menu.
+https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16436680#announcements time 5:00
+
+91. 
