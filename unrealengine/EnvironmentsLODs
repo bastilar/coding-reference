@@ -294,4 +294,7 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 100. Growth max age, bigger number means it grows slower, and smaller numbers means the trees or foliage will grow a lot faster.
 https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338418#announcements time 7:00
 
-101. 
+101. **** Foliage blocking volume https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338448#announcements
+prevents foliage from spawning inside the volume as you determine.
+
+102. 
