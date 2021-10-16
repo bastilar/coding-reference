@@ -534,4 +534,7 @@ https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-bluep
 166. Character station for class switching
 https://www.udemy.com/course/unreal-engine-4-multiplayer-team-based-fps-in-blueprints/learn/lecture/20996644#questions
 
-167. 
+167. **** If you encounter a state or a broken up set of data structs and variable outputs, pull out the variable and right click on it and select "split struct pin"
+to unfurl all the outputs and inputs.
+
+168. 
