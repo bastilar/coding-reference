@@ -297,4 +297,6 @@ https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/
 101. **** Foliage blocking volume https://www.udemy.com/course/unreal-engine-4-level-design-with-landscapes/learn/lecture/16338448#announcements
 prevents foliage from spawning inside the volume as you determine.
 
-102. 
+102. To fix the "landscape edition waiting for edit layers resources to be ready" error, enable landmass plugin and disable and re-enable edit landscape layers.
+
+103. 
