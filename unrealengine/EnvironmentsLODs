@@ -299,4 +299,9 @@ prevents foliage from spawning inside the volume as you determine.
 
 102. To fix the "landscape edition waiting for edit layers resources to be ready" error, enable landmass plugin and disable and re-enable edit landscape layers.
 
-103. 
+103. To fix texture streaming size over budget error, increase budget size mem pool by typing into the editor console (~):
+r.Streaming.PoolSize #
+
+Default is 1000mb or 1 gig of ram.
+
+104. 
