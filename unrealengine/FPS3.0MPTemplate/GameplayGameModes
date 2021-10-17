@@ -1,5 +1,4 @@
-1. In rush, the variable state is 0 or 1. This is actually team red(1) or team blue (0). This affects the bomb objective in rush, such as who owns which bomb 
-objectives.
+1. In rush, the variable state is 0 or 1. This sets which bombs are active at any given time. This affects which bomb objectives are active.
 
 2. Player spawns are set to either state 1 (red) or 0 (blue). These numbers might need to refuse given the confusing nature of how they were implemented.
 
