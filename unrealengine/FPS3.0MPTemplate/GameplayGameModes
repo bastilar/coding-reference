@@ -2,4 +2,7 @@
 
 2. Player spawns are set to either state 1 (red) or 0 (blue). These numbers might need to refuse given the confusing nature of how they were implemented.
 
-3. 
+3. To change how many rush objectives there are, go into BP_Rush_GS (gamestate) and chagne final state default value to 3 (for 3 state in the bomb ojbectives).
+For example, we have state 0, 1, 2, and 3. 3 is the last 2x bombs to blow up so final state should be 3.
+
+4. 
