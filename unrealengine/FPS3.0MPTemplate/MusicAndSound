@@ -1,0 +1,4 @@
+1. If you find music or looping sfx restarting upon widget/main menu etc restarting or showing back up, browse to the .wav or .cue file directly and set
+its virtualization to "Play when silent" in the drop down to fix it. May also need to check the blueprint nodes around the play sound 2d or similar.
+
+2. 
