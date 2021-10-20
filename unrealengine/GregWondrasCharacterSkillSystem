@@ -5,4 +5,7 @@
 3. Arrow component can be used to spawn particles by assigning a spot in your blueprint where something happens
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13120340#overview time 7:00
 
-4. 
+4. Using is falling boolean, which is derived from character movement component of your bp character mesh, and do a branch. If character is falling, then do not play
+the sfx and sound 2d etc. Unless you want that. https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13120362#overview time 6:00
+
+5. 
