@@ -8,4 +8,6 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 4. Using is falling boolean, which is derived from character movement component of your bp character mesh, and do a branch. If character is falling, then do not play
 the sfx and sound 2d etc. Unless you want that. https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13120362#overview time 6:00
 
-5. 
+5. Landing sound effects and particle effects https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13120386#overview
+
+6. 
