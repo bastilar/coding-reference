@@ -2,4 +2,7 @@
 
 2. Jump z velocity determines how high you jump.
 
-3. 
+3. Arrow component can be used to spawn particles by assigning a spot in your blueprint where something happens
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13120340#overview time 7:00
+
+4. 
