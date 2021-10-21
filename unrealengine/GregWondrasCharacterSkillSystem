@@ -19,4 +19,7 @@ Probably useful later for adding and then removing an additoinal hud, like a tan
 8. If you don't like the bouncey effect, set key interpolation to linear from auto or cubic etc
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13582202#overview time 9:30
 
-9. 
+9. Telling your hud animations to play when you load up the game screen
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13124038#overview
+
+10. 
