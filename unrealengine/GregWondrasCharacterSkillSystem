@@ -25,4 +25,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 10. **** Since you can only have 1 event or custom event, you could use a "sequence" node to get aroudn this limitation. Then 0 fires off first, then Then 1, etc
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13124038#overview
 
-11. 
+11. Do once after event constuct so the animation doesn't keep playing when we bring up white magic menu
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13124038#overview
+
+12. 
