@@ -42,4 +42,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 
 14. Data and structs revisited https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13129462#overview
 
-15. 
+15. **** Enums list out the specific list of things or skills you want. Structs or structures contain the fields and variables that EACH thing or skill will contain.
+The skill name "fireball" and "psionic blast" goes in the Enum, but the stamina cost and damage type variables for each skill goes into the structure.
+
+16. 
