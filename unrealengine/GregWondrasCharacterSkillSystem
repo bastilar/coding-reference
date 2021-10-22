@@ -28,4 +28,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 11. Do once after event constuct so the animation doesn't keep playing when we bring up white magic menu
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13124038#overview
 
-12. 
+12. **** Might need to call a bp actor that will hold all the skill logic. perhaps we could just use the bp character base in fps3.0
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13124158#overview
+
+13. 
