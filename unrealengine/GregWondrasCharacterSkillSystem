@@ -55,4 +55,8 @@ all floats, ints to all integers, sound to play to sound to play, etc.
 18. **** Sound base / soundbase object reference is used to play sfx when say a skill is acquired or selected (if you want)
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13823842#overview time 13:30
 
-19. 
+19. **** Using vectors start and end position to make a skill book in the world bob up and down then use timelines.
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13847578#overview make sure to create the beginning start and end vector variables
+first (see end of #18 note above)
+
+20. 
