@@ -45,4 +45,8 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 15. **** Enums list out the specific list of things or skills you want. Structs or structures contain the fields and variables that EACH thing or skill will contain.
 The skill name "fireball" and "psionic blast" goes in the Enum, but the stamina cost and damage type variables for each skill goes into the structure.
 
-16. 
+16. Binding code to a popup black magic menu
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13809708#overview most likely need to re-adapt this to a pure node function code
+as we probably will not use binding functions for multiplayer.
+
+17. 
