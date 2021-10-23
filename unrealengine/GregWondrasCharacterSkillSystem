@@ -49,4 +49,7 @@ The skill name "fireball" and "psionic blast" goes in the Enum, but the stamina 
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13809708#overview most likely need to re-adapt this to a pure node function code
 as we probably will not use binding functions for multiplayer.
 
-17. 
+17. **** Select nodes are very versatile in that once you hook up an input type, all the select node inputs will change to that same type. Float will change to
+all floats, ints to all integers, sound to play to sound to play, etc.
+
+18. 
