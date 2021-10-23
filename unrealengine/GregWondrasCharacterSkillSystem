@@ -52,4 +52,7 @@ as we probably will not use binding functions for multiplayer.
 17. **** Select nodes are very versatile in that once you hook up an input type, all the select node inputs will change to that same type. Float will change to
 all floats, ints to all integers, sound to play to sound to play, etc.
 
-18. 
+18. **** Sound base / soundbase object reference is used to play sfx when say a skill is acquired or selected (if you want)
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13823842#overview time 13:30
+
+19. 
