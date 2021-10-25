@@ -66,5 +66,7 @@ Lerp returns the new vector location between two points.
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132558#overview time 8:30
 
 22. **** Blueprint interface implementation https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132558#overview
+This is what is used to help create those popup mini message menus like "Press F to loot" highly useful for learning the ammo box implementation and creating
+lootable containers.
 
 23. 
