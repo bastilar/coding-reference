@@ -81,4 +81,8 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 25. **** Calling the blueprint interface we created as an event
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132652#overview time 6:50
 
-26. 
+26. If you destroy components after acquiring the skill or object, you may get a spam error message trying to utilize it but the object or skill actor is no
+longer valid, so just go back to the source skill or object reference and do an "Is Valid" check blueprint / bp node
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132652#overview time 16:30
+
+27. 
