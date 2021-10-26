@@ -91,4 +91,7 @@ inside the anim bp.
 28. **** Transition rules between double jump to normal jump then landing, ish
 time 9:30 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13142944#overview
 
-29. 
+29. **** If you experience animation hitching (or rubber banding?) you can select the transition rule that is causing the hitching / glitching and select the
+checkbox "Enable automatic rule based on sequence player in state"
+
+30. 
