@@ -73,8 +73,11 @@ lootable containers.
 Third is an bp interface call class. The first one has an envelope for an icon so you know one blueprint is connecting and sending messages to another blueprint
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132558#overview time 17:05 
 
-24. **** Set game input mode to game game and ui https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132672#overview time 3:00
+24. Set game input mode to game game and ui https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132672#overview time 3:00
 Not sure if we will need this but allows for buttons to be pushed while everything else is active. However, our multiplayer game will never be paused.
 This also allows you to "set show mouse cursor". Both these blueprint code nodes are derived from "get player controller" node.
 
-25. 
+25. Num loops to play in animation bp / blueprint node can be set to infinite loop if you input the value "0" or "zero"
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13132672#overview time 10:20 
+
+26. 
