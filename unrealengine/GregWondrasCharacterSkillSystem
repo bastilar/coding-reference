@@ -94,4 +94,7 @@ time 9:30 https://www.udemy.com/course/unreal-engine-4-character-skill-system/le
 29. **** If you experience animation hitching (or rubber banding?) you can select the transition rule that is causing the hitching / glitching and select the
 checkbox "Enable automatic rule based on sequence player in state"
 
-30. 
+30. Sound effect randomizer on play with custom made sound cues using mixers and random pallete bp / blueprint nodes
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13143000#overview time 9:30
+
+31. 
