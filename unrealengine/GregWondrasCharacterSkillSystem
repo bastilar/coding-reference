@@ -88,4 +88,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 It appears you need to create variables for each item you want to pull from your bp-player, which makes sense since you have to store what you pulled somewhere
 inside the anim bp.
 
-28. 
+28. **** Transition rules between double jump to normal jump then landing, ish
+time 9:30 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13142944#overview
+
+29. 
