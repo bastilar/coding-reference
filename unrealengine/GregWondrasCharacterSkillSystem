@@ -82,4 +82,10 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 
 26. Anim bp revisited **** https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13142912#overview
 
-27. 
+27. **** Passing variables from BP_Player to the animation blueprint / animbp 
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13142912#overview time 7:30.
+
+It appears you need to create variables for each item you want to pull from your bp-player, which makes sense since you have to store what you pulled somewhere
+inside the anim bp.
+
+28. 
