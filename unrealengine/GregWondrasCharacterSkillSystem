@@ -107,4 +107,7 @@ value for the lerp blueprint node https://www.udemy.com/course/unreal-engine-4-c
 see if the emitter loops is set to 0, which means it's replaying itself over and over again forever. Obviously change it to 1 or whatever the value you want or need
 it to be.
 
-34. 
+34. **** To have a variable of any kind show up in your class defaults tab of your blueprint, you need to promote that variable or object to variable, then assign a
+category to it for organizational purposes. It's all automatic otherwise as soon as you promote to variable.
+
+35. 
