@@ -110,4 +110,8 @@ it to be.
 34. **** To have a variable of any kind show up in your class defaults tab of your blueprint, you need to promote that variable or object to variable, then assign a
 category to it for organizational purposes. It's all automatic otherwise as soon as you promote to variable.
 
-35. 
+35. Creating variables that then pass into the anim bp graph to determine which animations to play
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13144126#overview
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13144292#overview
+
+36. 
