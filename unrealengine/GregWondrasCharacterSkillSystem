@@ -139,4 +139,8 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 43. **** Adding animation / anim notifies to play particle effects and sound effects
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/14263066#overview time 8:00
 
-44. 
+44. **** If your own projectile is hitting yourself, check the collision settings on the spawned projectile and set it to ignore.
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/14263066#overview time 14:20 However, this may cause a problem as you do want it
+colliding with other pawns.
+
+45. 
