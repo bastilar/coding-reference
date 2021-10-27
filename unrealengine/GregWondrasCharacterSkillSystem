@@ -117,4 +117,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 36. **** Fireball implementation and animations start https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13144358#overview
 Probably will form foundation of a lot of projectile based abilities like psionic blast etc.
 
-37. 
+37. Collision object type, useful for when you need specific behavior for fireball projectiles or in our case, psionic projectiles
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13144358#overview time 8:00
+
+38. 
