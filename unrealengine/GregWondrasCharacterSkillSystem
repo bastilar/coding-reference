@@ -120,4 +120,7 @@ Probably will form foundation of a lot of projectile based abilities like psioni
 37. Collision object type, useful for when you need specific behavior for fireball projectiles or in our case, psionic projectiles
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13144358#overview time 8:00
 
-38. 
+38. Fireball spawn point is placed as an arrow component inside bp_player
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13144398#overview time 2:00
+
+39. 
