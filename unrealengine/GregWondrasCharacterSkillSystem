@@ -129,4 +129,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 40. **** Blending animations together using layered blend by bone
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145494#overview time 4:00
 
-41. 
+41. **** Under layer setup, you need to click on branch filter and include spine_01 or the corresponding bone to split the animations from
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145494#overview time 5:14
+
+42. 
