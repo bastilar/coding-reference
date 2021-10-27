@@ -100,4 +100,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 31. Particle vfx editing https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13143968#overview time 5:30
 and https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/14204368#overview
 
-32. 
+32. **** Lerping vectors or going from point A to poing B using lerps and timelines, using the 0 to 1 float movement value from timelines to plug into the alpha
+value for the lerp blueprint node https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13144104#overview time 6:00
+
+33. 
