@@ -146,4 +146,7 @@ colliding with other pawns.
 45. Floating pawn movement component allows a pawn to fly I suppose.
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145566#overview time 1:35
 
-46. 
+46. **** You can use blueprint timelines to disable collisions, even temporarily by manipulating the value of the float (usually 1 and 0)
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145610#overview time 6:30
+
+47. 
