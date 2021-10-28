@@ -2,4 +2,7 @@
 
 2. Regen health function is inside the BP_BaseCharacter blueprint (base). Adjust the apply damage from -1.0 or any negative number to speed or slow regen.
 
-3. 
+3. To deal stamina damage or other types of stat damage, look at the function "On Damage Taken" inside the BP_BaseCharacter. And Check the instigator function
+of player and bot at the end of the graph.
+
+4. 
