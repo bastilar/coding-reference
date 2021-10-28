@@ -152,4 +152,7 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 47. **** A common mistake when enabling input is plugging the get player controller into target instead of "player controller" input in the Enable Input
 blueprint node https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/14286774#overview time 2:45
 
-48. 
+48. Casting an ability in mid air where you want your character to float mid air using the floating pawn movement component node
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/14286774#overview time 3:35 
+
+49. 
