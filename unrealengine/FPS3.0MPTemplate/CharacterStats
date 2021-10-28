@@ -5,4 +5,9 @@
 3. To deal stamina damage or other types of stat damage, look at the function "On Damage Taken" inside the BP_BaseCharacter. And Check the instigator function
 of player and bot at the end of the graph.
 
-4. 
+4. If you need to modify hp, max hp, stamina, and max stamina or add new stats like mana, you need to go into BP_Healthcomponent, the blueprint itself in blueprints
+-> healthcomponent
+
+It is NOT located in bp_basecharacter
+
+5. 
