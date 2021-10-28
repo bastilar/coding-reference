@@ -159,4 +159,6 @@ for its input feed it the floating pawn movement component reference.
 Obviously you want to make sure you re-enable the character movement component to re-enable movement again by using the activate blueprint node, and feed into its
 input the character movement component reference.
 
-49. 
+49. Another animation tutorial https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145624#overview
+
+50. 
