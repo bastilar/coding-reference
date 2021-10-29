@@ -171,4 +171,8 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 
 53. **** Binding the black menu magic hud https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145888#announcements
 
-54. 
+54. **** If have electro spark ability, then drag in player reference, then drag out of it the data structure / data struct that contains the image information
+variable and set the image to what you want
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145888#announcements time 8:00
+
+55. 
