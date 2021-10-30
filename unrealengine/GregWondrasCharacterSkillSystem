@@ -189,4 +189,6 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 59. **** Get hud then cast it to the mv_playerhud (or your custom game hud most likely) and you have to store it all as reference variables
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145910#announcements time 5:30
 
+This method allows for quick showup of the popup menu and goes away when button is released.
+
 60. 
