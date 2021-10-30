@@ -3,4 +3,7 @@ blueprint for the intro level map but the widget itself. These are 2 totally dif
 
 2. To change the server menu page text color or font, go to UI->Menus->WB_ServerSlot
 
-3. 
+3. Aiming at an enemy changes crosshair to red. It's been changed to white to match normal crosshair to prevent image based aimbots. If you ever want to change this again
+go to fps->UI->gameplay->WB_Dynamic_Crosshair and set the aiming at enemy visibility blueprint node to whatever color you want.
+
+4. 
