@@ -182,4 +182,8 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 
 57. Scripting black magic menu https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145910#announcements
 
-58. 
+58. **** Creating the reference to the black magic menu widget using begin play. It will then drag out of begin play to create WBP / widget blueprint of type
+black magic menu. Then promote the return value to a variable to store the reference to the black magic menu widget object. 
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13145910#announcements time 2:30
+
+59. 
