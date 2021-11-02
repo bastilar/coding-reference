@@ -213,4 +213,7 @@ account will receive that message / tweet.
 It appears they don't send any variables or data. So it's useful for triggering multiple other functions or nodes located in other blueprints. I guess if you need
 multple things happening at once from different blueprints, you probably would want to use an event dispatcher.
 
-67. 
+67. Floating pawn movement again for mist, in case we need more info on floating in the air. Useful for when we need our characters to fly or have jet packs or
+some such https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13146634#questions
+
+68. 
