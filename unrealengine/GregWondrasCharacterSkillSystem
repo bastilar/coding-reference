@@ -210,4 +210,6 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 Event dispatchers are like twitter, allowing you to communicate between blueprints. An event dispatcher sends out a "tweet" and any subscribers to that twitter
 account will receive that message / tweet.
 
+A bit convoluted as I don't see the advantage to using it but we'll see.
+
 67. 
