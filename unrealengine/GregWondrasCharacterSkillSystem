@@ -206,6 +206,8 @@ https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lectur
 65. **** You can add an audio component to your blueprint character.
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13146404#questions
 
-66. Event dispatchers https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13146482#questions time 1:00
+66. **** Event dispatchers https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13146482#questions time 1:00
+Event dispatchers are like twitter, allowing you to communicate between blueprints. An event dispatcher sends out a "tweet" and any subscribers to that twitter
+account will receive that message / tweet.
 
 67. 
