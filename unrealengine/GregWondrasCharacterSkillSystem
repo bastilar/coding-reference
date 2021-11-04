@@ -216,4 +216,7 @@ multple things happening at once from different blueprints, you probably would w
 67. Floating pawn movement again for mist, in case we need more info on floating in the air. Useful for when we need our characters to fly or have jet packs or
 some such https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13146634#questions
 
-68. 
+68. Capsule half height can be changed (size of the height of capsule is called half height for some reason)
+https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13146664#questions time 4:30
+
+69. 
