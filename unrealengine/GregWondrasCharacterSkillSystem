@@ -219,4 +219,6 @@ some such https://www.udemy.com/course/unreal-engine-4-character-skill-system/le
 68. Capsule half height can be changed (size of the height of capsule is called half height for some reason)
 https://www.udemy.com/course/unreal-engine-4-character-skill-system/learn/lecture/13146664#questions time 4:30
 
+Can also set your channel to "mist" to change your actor / pawn type using the "Set Collision Object Type" blueprint /bp node.
+
 69. 
