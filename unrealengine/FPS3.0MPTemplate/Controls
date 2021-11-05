@@ -1,0 +1,3 @@
+1. Input key actions are mostly located in BP_BaseCharacter under the "Actions Graph" section. On the left hand side of the editor, it's beneath the "event" graph.
+
+2. 
