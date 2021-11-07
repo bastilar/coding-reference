@@ -369,4 +369,7 @@ ufunction method you need https://www.udemy.com/course/unrealmultiplayer/learn/l
 121. When going from in game menu back to main menu interface, you need to re-implement the loadmain menu and place the implementations and declarations for the methods
 in the game instance class .h and .cpp https://www.udemy.com/course/unrealmultiplayer/learn/lecture/7947920#questions/15517460 time 10:00
 
-122. 
+122. Project version doesn't get saved by default. If you also ever want to get the project version from within blueprints, you need the victory plugin
+https://answers.unrealengine.com/questions/947940/how-to-get-the-project-version-in-a-blueprint.html
+
+123. 
