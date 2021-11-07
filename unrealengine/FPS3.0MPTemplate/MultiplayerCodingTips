@@ -15,4 +15,6 @@ If you call a server rpc from the CLIENT, then the function will run on the serv
 So critical gameplay logic all occurs in server functions, but you need to create client functions to update THE Display of what happened and its values.
 Hitpoints decreased by 50 on the server but server must tell the client to run a client function updating their new health value.
 
-6. 
+6. Handy bucket list of events that occur depending on client or server authority https://youtu.be/JOJP0CvpB8w?t=1222
+
+7. 
