@@ -20,47 +20,40 @@ on forever. Eventualy it will run out of hd or ram or both.
 
 9. Steam dedicated server setup https://forums.unrealengine.com/t/steam-dedicated-server-api-failed-to-initialize/236023/6
 
-10. Opening ports in steam https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB and how to add a new server inbound port rule for windows 2019 / windows 2016
-https://www.osradar.com/how-to-open-a-firewall-port-in-windows-server-2019-2016/ When opening ports, make sure to open all the ports that dedicated servers will use
-in the future. For example, if instance #6 will use port 27321, make sure that port is open in the windows advanced firewall settings. You can also set UDP ports
-to open all ports for ease. But tcp may be risky so maybe just specify a big range like 27000-27901 for the query ports.
+10. Opening ports in steam https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB and how to add a new server inbound port rule for windows 2019 /
+windows 2016 https://www.osradar.com/how-to-open-a-firewall-port-in-windows-server-2019-2016/ When opening ports, make sure to open all the ports that 
+dedicated servers will use in the future. For example, if instance #6 will use port 27321, make sure that port is open in the windows advanced firewall settings.
+You can also set UDP ports to open all ports for ease. But tcp may be risky so maybe just specify a big range like 27000-27901 for the query ports.
 
 You will need to then refer back to https://forums.unrealengine.com/t/advanced-sessions-plugin/30020 or
 https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Online/Steam/ to add:
-		Basically you want to add the following to the ProjectName.Target.cs
-		/*
- * This is our Steam App ID.
- */
-GlobalDefinitions.Add("UE4_PROJECT_STEAMSHIPPINGID=480");
-
-/*
- * This is used on SetModDir(), and should be the same as your Product Name
- * under Dedicated Game Server Information in Steamworks
- */
-GlobalDefinitions.Add("UE4_PROJECT_STEAMGAMEDIR=\"Spacewar\"");
 		
-		and the following to the ProjectNameServer.Target.cs
-		/*
- * This is our Steam App ID.
- */
-GlobalDefinitions.Add("UE4_PROJECT_STEAMSHIPPINGID=480");
+Basically you want to add the following to the SedCrutarchRoyale.Target.cs
 
-/*
- * This is used on SetProduct(), and should be the same as your Product Name
- * under Dedicated Game Server Information in Steamworks
- */
-GlobalDefinitions.Add("UE4_PROJECT_STEAMPRODUCTNAME=\"Spacewar\"");
+		Type = TargetType.Game;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-/*
- * This is used on SetModDir(), and should be the same as your Product Name
- * under Dedicated Game Server Information in Steamworks
- */
-GlobalDefinitions.Add("UE4_PROJECT_STEAMGAMEDIR=\"Spacewar\"");
+		ExtraModuleNames.AddRange( new string[] { "SedCrutarchRoyale" } );
 
-/*
- * This is what shows up under the game filter in Steam server browsers.
- */
-GlobalDefinitions.Add("UE4_PROJECT_STEAMGAMEDESC=\"Spacewar\"");
+		GlobalDefinitions.Add("UE_PROJECT_STEAMGAMEDIR=\"SeditionisCrutarchRoyale\""); // same as above
+
+		GlobalDefinitions.Add("UE4_PROJECT_STEAMSHIPPINGID=1765040");
+		
+And the following to the SedCrutarchRoyaleServer.Target.cs
+		
+		Type = TargetType.Server;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
+		ExtraModuleNames.Add("SedCrutarchRoyale");
+
+		ExtraModuleNames.AddRange( new string[] { "SedCrutarchRoyale" } );
+
+		GlobalDefinitions.Add("UE_PROJECT_STEAMGAMEDESC=\"SeditionisCrutarchRoyale\""); // Just the name of your game - like in steamworks dedicated server section
+
+		GlobalDefinitions.Add("UE_PROJECT_STEAMPRODUCTNAME=\"SeditionisCrutarchRoyale\""); // match this with steamworks dedicatedserver section
+
+		GlobalDefinitions.Add("UE_PROJECT_STEAMGAMEDIR=\"SeditionisCrutarchRoyale\""); // same as above
+
+		GlobalDefinitions.Add("UE4_PROJECT_STEAMSHIPPINGID=1765040");
 
 		Notation format for globaldefinitions
 		https://www.reddit.com/r/unrealengine/comments/h9rl7o/my_unsuccessful_experience_so_far_trying_to_setup/
