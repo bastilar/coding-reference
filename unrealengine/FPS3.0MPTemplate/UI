@@ -6,4 +6,10 @@ blueprint for the intro level map but the widget itself. These are 2 totally dif
 3. Aiming at an enemy changes crosshair to red. It's been changed to white to match normal crosshair to prevent image based aimbots. If you ever want to change this again
 go to fps->UI->gameplay->WB_Dynamic_Crosshair and set the aiming at enemy visibility blueprint node to whatever color you want.
 
-4. 
+4. For some reason you can't edit icon images or perhaps a lot of things in the widget ui gameplay blueprint widget. You have to do the convoluted thing and:
+  a. Get player controller
+  b. Then cast it to BP_baseplayercontroller
+  c. As bp_baseplayercontroller, drag out a gameplay wbref (already created by fps 3.0 template)
+  d. Call get skill icon and feed it the skill selection index that you created.
+  e. Drag out of gameplay wbref and call icon image. Returning icon value must be fed into
+     a "set brush" node. The other input is the icon image from wb_gameplay widget itself as target. Set brush can be found by dragging out of icon image.
