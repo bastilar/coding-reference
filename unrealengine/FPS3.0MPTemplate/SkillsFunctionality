@@ -1,0 +1,6 @@
+1. The actual skill code is located in the actions graph (custom created) of BP_BaseCharacter. The class default skills themselves are still, for now, located in each
+child class blueprint (Assault, medic, support, scout, etc).
+
+Skills are execute on server only.
+
+2. 
