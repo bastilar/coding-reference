@@ -16,4 +16,7 @@ go to fps->UI->gameplay->WB_Dynamic_Crosshair and set the aiming at enemy visibi
 
 5. Changing image brushes https://www.versluis.com/2020/09/replacing-a-button-image-via-blueprint-in-unreal-engine/
 
-6. 
+6. To set the default class skill images, go to WBP_SkillPopupMenu and in the event construct node area, do the same as #4 above.
+To set a brush image, drag out of an IMAGE object to get "Set Brush" blueprint node. Feed it the brush data structure such as the icon.
+
+7. 
