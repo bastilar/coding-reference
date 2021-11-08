@@ -13,3 +13,7 @@ go to fps->UI->gameplay->WB_Dynamic_Crosshair and set the aiming at enemy visibi
   d. Call get skill icon and feed it the skill selection index that you created.
   e. Drag out of gameplay wbref and call icon image. Returning icon value must be fed into
      a "set brush" node. The other input is the icon image from wb_gameplay widget itself as target. Set brush can be found by dragging out of icon image.
+
+5. Changing image brushes https://www.versluis.com/2020/09/replacing-a-button-image-via-blueprint-in-unreal-engine/
+
+6. 
