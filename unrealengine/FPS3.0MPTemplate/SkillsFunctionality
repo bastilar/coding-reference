@@ -6,4 +6,7 @@ Skills are execute on server only.
 2. **** Use "apply damage" blueprint node to apply skill damage so the game runs properly. Everything flows from the "Event AnyDamage" event that unreal supplies and fps
 3.0 utilizes this.
 
-3. 
+3. If you get an accessed none trying to read property error base damage k2 dynamic cast, try doing is valid after casting
+https://answers.unrealengine.com/questions/920739/accesed-none-trying-to-read-property-k2node-dynami.html
+
+4. 
