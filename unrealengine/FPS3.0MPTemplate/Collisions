@@ -2,4 +2,6 @@
 projectiles are using "overlap" events to generate gameplay logic. This means that walls and static meshes must have "generate overlap events" enabled or else
 projectiles will just go right through them. Box brushes do not have any collisions.
 
+We are also marking walls, boxes, barrels, etc, with actor "tags" named "HardObject". Both these things are needed to generate the proper overlap event.
+
 2. 
