@@ -1,0 +1,5 @@
+1. Material collections store values like scalar values and or vectors. They then feed into a material function, in which the function is called somewhere and on
+that somewhere or actor object, it will change the material based on the function and value settings. It's quite similar to enums and data structures.
+https://youtu.be/bSfBaX1Zy_Y
+
+2. 
