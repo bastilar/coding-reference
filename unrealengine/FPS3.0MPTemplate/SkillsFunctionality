@@ -3,4 +3,7 @@ child class blueprint (Assault, medic, support, scout, etc).
 
 Skills are execute on server only.
 
-2. 
+2. **** Use "apply damage" blueprint node to apply skill damage so the game runs properly. Everything flows from the "Event AnyDamage" event that unreal supplies and fps
+3.0 utilizes this.
+
+3. 
