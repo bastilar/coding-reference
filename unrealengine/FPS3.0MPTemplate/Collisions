@@ -1,0 +1,5 @@
+1. There's multiple ways to generate collision events, which of course means everything is goign to block each other or go through each other. Currently, our
+projectiles are using "overlap" events to generate gameplay logic. This means that walls and static meshes must have "generate overlap events" enabled or else
+projectiles will just go right through them. Box brushes do not have any collisions.
+
+2. 
