@@ -9,4 +9,7 @@ Skills are execute on server only.
 3. If you get an accessed none trying to read property error base damage k2 dynamic cast, try doing is valid after casting
 https://answers.unrealengine.com/questions/920739/accesed-none-trying-to-read-property-k2node-dynami.html
 
+If that don't work, set base damage type to "explosion" or other created damage types from the enum in fps 3.0 template or your own added damage types. The error
+will go away but you will probably have to fix the weapon/skill damage type.
+
 4. 
