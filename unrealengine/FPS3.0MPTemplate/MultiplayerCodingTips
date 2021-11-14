@@ -17,4 +17,7 @@ Hitpoints decreased by 50 on the server but server must tell the client to run a
 
 6. Handy bucket list of events that occur depending on client or server authority https://youtu.be/JOJP0CvpB8w?t=1222
 
-7. 
+7. **** When it comes to debugging and bug fixing, using toggle breakpoint asap seems to be a smarter solution. You can't fix what you can't see!
+Also, toggle breakpoints seems to increase bug fixing speed by almost a large amount.
+
+8. 
