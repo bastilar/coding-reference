@@ -19,5 +19,7 @@ go to fps->UI->gameplay->WB_Dynamic_Crosshair and set the aiming at enemy visibi
 6. To set the default class skill images, go to WBP_SkillPopupMenu and in the event construct node area, do the same as #4 above.
 To set a brush image, drag out of an IMAGE object to get "Set Brush" blueprint node. Feed it the brush data structure such as the icon.
 
-7. Updating image cooldown was a lot harder than it seemed. The variable needed to be set to replicate and perhaps execute on all servers. Client was receiving
+7. Updating image cooldown was a lot harder than it seemed. The cooldown variable needed to be set to replicate and perhaps execute on all servers. Client was receiving
 a zero the whole time for the image. Replication fixes that. 
+
+8. 
