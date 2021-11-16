@@ -20,4 +20,7 @@ Hitpoints decreased by 50 on the server but server must tell the client to run a
 7. **** When it comes to debugging and bug fixing, using toggle breakpoint asap seems to be a smarter solution. You can't fix what you can't see!
 Also, toggle breakpoints seems to increase bug fixing speed by almost a large amount.
 
-8. 
+8. You can end timers by using the timer handle return value in your timer event / timer by function name or cleartimerby handle etc
+https://forums.unrealengine.com/t/how-do-i-stop-an-event-timer-on-key-release/95418/2
+
+9. 
