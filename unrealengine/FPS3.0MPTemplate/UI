@@ -25,4 +25,6 @@ receiving a zero the whole time for the image. Replication fixes that.
 Client needs to receive replicated data and variables from server before it can properly update itself, ui, hud, gameplay etc. Otherwise, it will just keep using
 default values!
 
-8. 
+8. Creating tooltips (on mouse hover?) https://www.youtube.com/watch?v=zLRMDtKHyzA
+
+9. 
