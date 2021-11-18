@@ -27,4 +27,7 @@ default values!
 
 8. Creating tooltips (on mouse hover?) https://www.youtube.com/watch?v=zLRMDtKHyzA
 
-9. 
+9. If default class tooltips are not working properly, check that bp_basecharacter and the specific class has the right title, description, damage, etc. Sometimes
+children classes don't update their values from BP_BaseCharacter.
+
+10. 
