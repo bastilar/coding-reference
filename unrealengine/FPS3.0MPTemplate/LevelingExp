@@ -3,4 +3,7 @@ Level: {X} with say "Level: whateveryourvariablevalueis" https://youtu.be/g4c8sh
 
 https://youtu.be/g4c8shcfyQY leveling and exp system.
 
-2. 
+2. To maybe get the score and other bp_playerstate variables, do:
+"Instead of trying to cast to the character get all actors of class then get a copy of the array and drag is valid from it and the function from that character"
+
+3. 
