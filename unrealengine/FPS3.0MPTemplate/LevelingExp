@@ -6,4 +6,11 @@ https://youtu.be/g4c8shcfyQY leveling and exp system.
 2. To maybe get the score and other bp_playerstate variables, do:
 "Instead of trying to cast to the character get all actors of class then get a copy of the array and drag is valid from it and the function from that character"
 
+3. Leveling exp code:
+
+Leveling EXP Code - Need To Get Game Mode Cast To Bp_Base_GM To Get All Player PCs. Then For each loop it cast to Bp_BasePlayerController.
+Afterwards Cast Each To BP_BaseCharacter to call ServerEXPGAIN Leveling Function And Feed It Player Score
+
+It's located in BP_PlayerState And references BP_Base_GS (Note it says GS *not* GM. Base game state)
+
 3. 
