@@ -13,4 +13,6 @@ Afterwards Cast Each To BP_BaseCharacter to call ServerEXPGAIN Leveling Function
 
 It's located in BP_PlayerState And references BP_Base_GS (Note it says GS *not* GM. Base game state)
 
-3. 
+4. Apparently game states already contain an array of player states that store each individual score of the player.
+
+5. 
