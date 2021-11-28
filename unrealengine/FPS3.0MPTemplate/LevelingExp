@@ -17,4 +17,6 @@ It's located in BP_PlayerState And references BP_Base_GS (Note it says GS *not* 
 
 5. **** Every player controller has a direct reference to their player state.
 
-6. 
+6. A good video on player states and scores https://www.youtube.com/watch?v=AmFGRmfAEHs
+
+7. 
