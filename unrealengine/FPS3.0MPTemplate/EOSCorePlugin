@@ -3,4 +3,8 @@
 To fix this, you need to rebuild visual studio project files then BUILD the entire project again from visual studio 2019. Right click the root directory of the project
 inside vs 2019, click "build" then it should say "building development editor".
 
+Nice helper guy who suggested the above said,
+
+"xcibe95x: Usually this works when converting a plugin to another UE4 Build, if there are errors VS will let you know"
+
 2. 
