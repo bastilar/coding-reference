@@ -1,0 +1,6 @@
+1. You have to manually install the EOSCore plugin to the source ue4.27 build. After copying and pasting the files and enabling the plugin, you get a compile error.
+
+To fix this, you need to rebuild visual studio project files then BUILD the entire project again from visual studio 2019. Right click the root directory of the project
+inside vs 2019, click "build" then it should say "building development editor".
+
+2. 
